@@ -4,7 +4,7 @@
   <Identifier>Transport for London | Live Roadside Variable Message Signs</Identifier>
   <DisplayTitle>Transport for London | London Driver Information System (LDIS) Feed</DisplayTitle>
   <Version>2.0</Version>
-  <PublishDateTime canonical="2022-01-23T12:45:00Z">Sunday, 23 Jan 2022 12:45:00 +00:00</PublishDateTime>
+  <PublishDateTime canonical="2022-01-23T13:20:00Z">Sunday, 23 Jan 2022 13:20:00 +00:00</PublishDateTime>
   <Author>digital@tfl.gov.uk</Author>
   <Owner>Transport for London</Owner>
   <RefreshRate>5</RefreshRate>
@@ -23,7 +23,7 @@
     <siteid>00/000705/</siteid>
     <easting>532962</easting>
     <northing>180693</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext> 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS </signtext>
     <roadnr>A3211</roadnr>
    </Sign>
    <Sign>
@@ -72,14 +72,14 @@
     <siteid>05/000703/</siteid>
     <easting>535838</easting>
     <northing>181189</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext></signtext>
     <roadnr>A13</roadnr>
    </Sign>
    <Sign>
     <siteid>05/000704/</siteid>
     <easting>535834</easting>
     <northing>180870</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext></signtext>
     <roadnr></roadnr>
    </Sign>
    <Sign>
@@ -93,21 +93,21 @@
     <siteid>05/000712/</siteid>
     <easting>535286.17</easting>
     <northing>181265.66</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext></signtext>
     <roadnr>A13</roadnr>
    </Sign>
    <Sign>
     <siteid>05/000738/</siteid>
     <easting>533826</easting>
     <northing>181484</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext> 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS </signtext>
     <roadnr></roadnr>
    </Sign>
    <Sign>
     <siteid>05/000739/</siteid>
     <easting>534016</easting>
     <northing>181135</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext> MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY </signtext>
     <roadnr>A1202</roadnr>
    </Sign>
    <Sign>
@@ -163,7 +163,7 @@
     <siteid>06/000721/</siteid>
     <easting>540491</easting>
     <northing>177550</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext></signtext>
     <roadnr>A102</roadnr>
    </Sign>
    <Sign>
@@ -184,7 +184,7 @@
     <siteid>08/000704/</siteid>
     <easting>532781</easting>
     <northing>178995</northing>
-    <signtext>  A13 E/B AT   | BECKTON ROAD  |   ACCIDENT    |USE OTHER ROUTE</signtext>
+    <signtext> 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS </signtext>
     <roadnr>A201</roadnr>
    </Sign>
    <Sign>
