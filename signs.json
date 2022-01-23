@@ -94,28 +94,28 @@
         "siteid":"05\/000742\/",
         "easting":535433.0,
         "northing":180796.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A1203"
     },
     {
         "siteid":"06\/000701\/",
         "easting":542292.35,
         "northing":175359.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":null
     },
     {
         "siteid":"06\/000702\/",
         "easting":543035.633,
         "northing":177472.8,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
         "siteid":"06\/000703\/",
         "easting":542786.0,
         "northing":176462.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -136,21 +136,21 @@
         "siteid":"06\/000714\/",
         "easting":541246.26,
         "northing":173790.24,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A20"
     },
     {
         "siteid":"06\/000721\/",
         "easting":540491.0,
         "northing":177550.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A102"
     },
     {
         "siteid":"07\/000708\/",
         "easting":540219.0,
         "northing":173900.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -353,7 +353,7 @@
         "siteid":"14\/000721\/",
         "easting":545165.0,
         "northing":188360.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A12"
     },
     {
@@ -416,7 +416,7 @@
         "siteid":"17\/000722\/",
         "easting":542262.0,
         "northing":182093.0,
-        "signtext":null,
+        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A13"
     },
     {

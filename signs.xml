@@ -4,7 +4,7 @@
   <Identifier>Transport for London | Live Roadside Variable Message Signs</Identifier>
   <DisplayTitle>Transport for London | London Driver Information System (LDIS) Feed</DisplayTitle>
   <Version>2.0</Version>
-  <PublishDateTime canonical="2022-01-23T14:45:00Z">Sunday, 23 Jan 2022 14:45:00 +00:00</PublishDateTime>
+  <PublishDateTime canonical="2022-01-23T15:55:00Z">Sunday, 23 Jan 2022 15:55:00 +00:00</PublishDateTime>
   <Author>digital@tfl.gov.uk</Author>
   <Owner>Transport for London</Owner>
   <RefreshRate>5</RefreshRate>
@@ -114,28 +114,28 @@
     <siteid>05/000742/</siteid>
     <easting>535433</easting>
     <northing>180796</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A1203</roadnr>
    </Sign>
    <Sign>
     <siteid>06/000701/</siteid>
     <easting>542292.35</easting>
     <northing>175359</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr></roadnr>
    </Sign>
    <Sign>
     <siteid>06/000702/</siteid>
     <easting>543035.633</easting>
     <northing>177472.8</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A205</roadnr>
    </Sign>
    <Sign>
     <siteid>06/000703/</siteid>
     <easting>542786</easting>
     <northing>176462</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A205</roadnr>
    </Sign>
    <Sign>
@@ -156,21 +156,21 @@
     <siteid>06/000714/</siteid>
     <easting>541246.26</easting>
     <northing>173790.24</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A20</roadnr>
    </Sign>
    <Sign>
     <siteid>06/000721/</siteid>
     <easting>540491</easting>
     <northing>177550</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A102</roadnr>
    </Sign>
    <Sign>
     <siteid>07/000708/</siteid>
     <easting>540219</easting>
     <northing>173900</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A205</roadnr>
    </Sign>
    <Sign>
@@ -373,7 +373,7 @@
     <siteid>14/000721/</siteid>
     <easting>545165</easting>
     <northing>188360</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A12</roadnr>
    </Sign>
    <Sign>
@@ -436,7 +436,7 @@
     <siteid>17/000722/</siteid>
     <easting>542262</easting>
     <northing>182093</northing>
-    <signtext></signtext>
+    <signtext>  MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE</signtext>
     <roadnr>A13</roadnr>
    </Sign>
    <Sign>
