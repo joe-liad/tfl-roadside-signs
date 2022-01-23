@@ -479,7 +479,7 @@
         "siteid":"20\/000723\/T",
         "easting":531001.0,
         "northing":165735.0,
-        "signtext":null,
+        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
         "roadnr":"A23"
     },
     {
@@ -493,14 +493,14 @@
         "siteid":"20\/000725\/",
         "easting":531297.0,
         "northing":163318.0,
-        "signtext":null,
+        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
         "roadnr":"A23"
     },
     {
         "siteid":"21\/000707\/",
         "easting":530750.0,
         "northing":164852.0,
-        "signtext":null,
+        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
         "roadnr":"A232"
     },
     {
@@ -724,7 +724,7 @@
         "siteid":"27\/000710\/",
         "easting":518552.0,
         "northing":182301.0,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":null,
         "roadnr":"A406"
     },
     {

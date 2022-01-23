@@ -4,7 +4,7 @@
   <Identifier>Transport for London | Live Roadside Variable Message Signs</Identifier>
   <DisplayTitle>Transport for London | London Driver Information System (LDIS) Feed</DisplayTitle>
   <Version>2.0</Version>
-  <PublishDateTime canonical="2022-01-23T22:00:00Z">Sunday, 23 Jan 2022 22:00:00 +00:00</PublishDateTime>
+  <PublishDateTime canonical="2022-01-23T22:35:00Z">Sunday, 23 Jan 2022 22:35:00 +00:00</PublishDateTime>
   <Author>digital@tfl.gov.uk</Author>
   <Owner>Transport for London</Owner>
   <RefreshRate>5</RefreshRate>
@@ -499,7 +499,7 @@
     <siteid>20/000723/T</siteid>
     <easting>531001</easting>
     <northing>165735</northing>
-    <signtext></signtext>
+    <signtext>     A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED  </signtext>
     <roadnr>A23</roadnr>
    </Sign>
    <Sign>
@@ -513,14 +513,14 @@
     <siteid>20/000725/</siteid>
     <easting>531297</easting>
     <northing>163318</northing>
-    <signtext></signtext>
+    <signtext>     A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED  </signtext>
     <roadnr>A23</roadnr>
    </Sign>
    <Sign>
     <siteid>21/000707/</siteid>
     <easting>530750</easting>
     <northing>164852</northing>
-    <signtext></signtext>
+    <signtext>     A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED  </signtext>
     <roadnr>A232</roadnr>
    </Sign>
    <Sign>
@@ -744,7 +744,7 @@
     <siteid>27/000710/</siteid>
     <easting>518552</easting>
     <northing>182301</northing>
-    <signtext> NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY </signtext>
+    <signtext></signtext>
     <roadnr>A406</roadnr>
    </Sign>
    <Sign>
