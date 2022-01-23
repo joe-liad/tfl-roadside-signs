@@ -479,7 +479,7 @@
         "siteid":"20\/000723\/T",
         "easting":531001.0,
         "northing":165735.0,
-        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
+        "signtext":null,
         "roadnr":"A23"
     },
     {
@@ -493,14 +493,14 @@
         "siteid":"20\/000725\/",
         "easting":531297.0,
         "northing":163318.0,
-        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
+        "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"21\/000707\/",
         "easting":530750.0,
         "northing":164852.0,
-        "signtext":"A232      |CROYDON FLYOVER|   ACCIDENT    |  ROAD CLOSED",
+        "signtext":null,
         "roadnr":"A232"
     },
     {
@@ -703,7 +703,7 @@
         "siteid":"26\/000724\/",
         "easting":511799.0,
         "northing":182699.0,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"UXBRIDGE ROAD |  W\/B CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A312"
     },
     {
