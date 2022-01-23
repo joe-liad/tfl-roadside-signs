@@ -29,7 +29,7 @@ jobs:
         git push
     - name: Build git-history
       run: |-
-        git-history file tfl-roadside-signs-history.db signs.json --id siteid
+        git-history file tfl-roadside-signs-history.db signs.json --id siteid --namespace sign
     - name: Deploy Datasette using Vercel
       env:
         # NOW_TOKEN github secret must exist to create $NOW_TOKEN env var used later
