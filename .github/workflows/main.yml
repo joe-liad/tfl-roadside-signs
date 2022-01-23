@@ -27,3 +27,14 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+    - name: Build git-history
+      run: |-
+        git-history file tfl-roadside-signs-history.db signs.json --id siteid
+    - name: Deploy Datasette using Vercel
+      env:
+        # NOW_TOKEN github secret must exist to create $NOW_TOKEN env var used later
+        NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+      run: |-
+        datasette publish vercel tfl-roadside-signs-history.db \
+          --token $NOW_TOKEN \
+          --project lewisham-tfl-roadside-signs-history
