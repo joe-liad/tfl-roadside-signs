@@ -4,7 +4,7 @@
   <Identifier>Transport for London | Live Roadside Variable Message Signs</Identifier>
   <DisplayTitle>Transport for London | London Driver Information System (LDIS) Feed</DisplayTitle>
   <Version>2.0</Version>
-  <PublishDateTime canonical="2022-01-23T13:50:00Z">Sunday, 23 Jan 2022 13:50:00 +00:00</PublishDateTime>
+  <PublishDateTime canonical="2022-01-23T14:15:00Z">Sunday, 23 Jan 2022 14:15:00 +00:00</PublishDateTime>
   <Author>digital@tfl.gov.uk</Author>
   <Owner>Transport for London</Owner>
   <RefreshRate>5</RefreshRate>
@@ -268,7 +268,7 @@
     <siteid>10/000702/</siteid>
     <easting>522205</easting>
     <northing>172851</northing>
-    <signtext></signtext>
+    <signtext> KINGSTON ROAD |ROEHAMPTON LANE|OBSTRUCTION E/B|    CAUTION    </signtext>
     <roadnr>A3</roadnr>
    </Sign>
    <Sign>
@@ -506,7 +506,7 @@
     <siteid>20/000724/T</siteid>
     <easting>531305.34</easting>
     <northing>163447.46</northing>
-    <signtext></signtext>
+    <signtext> A23 FARTHING  |    WAY S/B    |   COLLISION   |    DELAYS     </signtext>
     <roadnr>A23</roadnr>
    </Sign>
    <Sign>
