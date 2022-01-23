@@ -15,10 +15,10 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl https://roads.data.tfl.gov.uk/trafficstatus/vms.xml -o signs.xml
-      - name: Install Python Dependencies
-        run: pip install -r ./requirements.txt
-      - name: Build json array from xml
-        run: python ./etl.py        
+    - name: Install Python Dependencies
+      run: pip install -r ./requirements.txt
+    - name: Build json array from xml
+      run: python ./etl.py        
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
