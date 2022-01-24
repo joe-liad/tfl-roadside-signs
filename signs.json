@@ -1,813 +1,813 @@
 [
     {
         "siteid":"00\/000705\/",
-        "easting":532962.0,
-        "northing":180693.0,
+        "longitude":-0.0854417783,
+        "latitude":51.5095299939,
         "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
         "roadnr":"A3211"
     },
     {
         "siteid":"01\/000707\/",
-        "easting":528709.46,
-        "northing":182160.49,
+        "longitude":-0.1461494144,
+        "latitude":51.5237016771,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A501"
     },
     {
         "siteid":"01\/000708\/",
-        "easting":528731.61,
-        "northing":182189.66,
+        "longitude":-0.1458196713,
+        "latitude":51.523958776,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A501"
     },
     {
         "siteid":"01\/000728\/",
-        "easting":526650.0,
-        "northing":182148.0,
+        "longitude":-0.1758230484,
+        "latitude":51.5240545814,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A5"
     },
     {
         "siteid":"01\/000775\/",
-        "easting":529914.0,
-        "northing":178308.0,
+        "longitude":-0.1302146699,
+        "latitude":51.4888051277,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A202"
     },
     {
         "siteid":"02\/000701\/",
-        "easting":526631.91,
-        "northing":183980.04,
+        "longitude":-0.1754254725,
+        "latitude":51.5405229087,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A41"
     },
     {
         "siteid":"03\/000723\/",
-        "easting":530847.0,
-        "northing":185609.0,
+        "longitude":-0.1140756039,
+        "latitude":51.5542011094,
         "signtext":null,
         "roadnr":null
     },
     {
         "siteid":"05\/000703\/",
-        "easting":535838.0,
-        "northing":181189.0,
+        "longitude":-0.0438340763,
+        "latitude":51.5133037247,
         "signtext":null,
         "roadnr":"A13"
     },
     {
         "siteid":"05\/000704\/",
-        "easting":535834.0,
-        "northing":180870.0,
+        "longitude":-0.0440144783,
+        "latitude":51.5104380871,
         "signtext":null,
         "roadnr":null
     },
     {
         "siteid":"05\/000709\/",
-        "easting":534647.65,
-        "northing":181770.95,
+        "longitude":-0.0607554624,
+        "latitude":51.5188179753,
         "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
         "roadnr":"A11"
     },
     {
         "siteid":"05\/000712\/",
-        "easting":535286.17,
-        "northing":181265.66,
+        "longitude":-0.051752139,
+        "latitude":51.5141248958,
         "signtext":null,
         "roadnr":"A13"
     },
     {
         "siteid":"05\/000738\/",
-        "easting":533826.0,
-        "northing":181484.0,
+        "longitude":-0.0726992955,
+        "latitude":51.516434423,
         "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
         "roadnr":null
     },
     {
         "siteid":"05\/000739\/",
-        "easting":534016.0,
-        "northing":181135.0,
+        "longitude":-0.0700952608,
+        "latitude":51.5132531913,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A1202"
     },
     {
         "siteid":"05\/000742\/",
-        "easting":535433.0,
-        "northing":180796.0,
+        "longitude":-0.0498177111,
+        "latitude":51.5098692751,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A1203"
     },
     {
         "siteid":"06\/000701\/",
-        "easting":542292.35,
-        "northing":175359.0,
+        "longitude":0.0467695398,
+        "latitude":51.4593296639,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":null
     },
     {
         "siteid":"06\/000702\/",
-        "easting":543035.633,
-        "northing":177472.8,
+        "longitude":0.058315686,
+        "latitude":51.4781364942,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
         "siteid":"06\/000703\/",
-        "easting":542786.0,
-        "northing":176462.0,
+        "longitude":0.0543153524,
+        "latitude":51.4691167381,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
         "siteid":"06\/000705\/",
-        "easting":539510.0,
-        "northing":179250.0,
+        "longitude":0.0082822732,
+        "latitude":51.4949860446,
         "signtext":null,
         "roadnr":null
     },
     {
         "siteid":"06\/000713\/",
-        "easting":539052.5,
-        "northing":179585.1,
+        "longitude":0.001828144,
+        "latitude":51.4981098556,
         "signtext":null,
         "roadnr":"A102"
     },
     {
         "siteid":"06\/000714\/",
-        "easting":541246.26,
-        "northing":173790.24,
+        "longitude":0.0310965031,
+        "latitude":51.4454947291,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A20"
     },
     {
         "siteid":"06\/000721\/",
-        "easting":540491.0,
-        "northing":177550.0,
+        "longitude":0.0217285039,
+        "latitude":51.4794673371,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A102"
     },
     {
         "siteid":"07\/000708\/",
-        "easting":540219.0,
-        "northing":173900.0,
+        "longitude":0.0163678976,
+        "latitude":51.4467360686,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
         "siteid":"07\/000710\/T",
-        "easting":536521.0,
-        "northing":173310.0,
+        "longitude":-0.0370398539,
+        "latitude":51.4423369065,
         "signtext":null,
         "roadnr":"A205"
     },
     {
         "siteid":"08\/000704\/",
-        "easting":532781.0,
-        "northing":178995.0,
+        "longitude":-0.0886869371,
+        "latitude":51.4943135195,
         "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
         "roadnr":"A201"
     },
     {
         "siteid":"08\/000705\/",
-        "easting":532649.0,
-        "northing":178963.0,
+        "longitude":-0.0905992726,
+        "latitude":51.4940569097,
         "signtext":"22 NOV-04 FEB |  WESTMINSTER  | BRIDGE-WORKS  | EXPECT DELAYS",
         "roadnr":"A201"
     },
     {
         "siteid":"08\/000711\/",
-        "easting":532055.0,
-        "northing":177036.0,
+        "longitude":-0.0998707225,
+        "latitude":51.4768787805,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A202"
     },
     {
         "siteid":"09\/000704\/",
-        "easting":530107.83,
-        "northing":171045.32,
+        "longitude":-0.1300936514,
+        "latitude":51.423492841,
         "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"09\/000713\/T",
-        "easting":529888.0,
-        "northing":173747.0,
+        "longitude":-0.1322635203,
+        "latitude":51.4478226302,
         "signtext":null,
         "roadnr":"A205"
     },
     {
         "siteid":"09\/000714\/T",
-        "easting":530977.0,
-        "northing":173245.0,
+        "longitude":-0.1167871607,
+        "latitude":51.443060726,
         "signtext":null,
         "roadnr":"A205"
     },
     {
         "siteid":"09\/000716\/",
-        "easting":530870.0,
-        "northing":174920.0,
+        "longitude":-0.1177068699,
+        "latitude":51.4581381352,
         "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"09\/000717\/",
-        "easting":530540.0,
-        "northing":173981.0,
+        "longitude":-0.1228001981,
+        "latitude":51.4497757423,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A23"
     },
     {
         "siteid":"09\/000724\/",
-        "easting":529161.0,
-        "northing":174889.0,
+        "longitude":-0.1423027664,
+        "latitude":51.4582516887,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A24"
     },
     {
         "siteid":"09\/000747\/",
-        "easting":531210.0,
-        "northing":176090.0,
+        "longitude":-0.1123820952,
+        "latitude":51.4685738718,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A23"
     },
     {
         "siteid":"09\/000748\/",
-        "easting":531907.0,
-        "northing":178769.0,
+        "longitude":-0.1013538032,
+        "latitude":51.4924869657,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":null
     },
     {
         "siteid":"10\/000701\/",
-        "easting":528737.47,
-        "northing":173710.46,
+        "longitude":-0.1488239391,
+        "latitude":51.4477567247,
         "signtext":null,
         "roadnr":"A24"
     },
     {
         "siteid":"10\/000702\/",
-        "easting":522205.0,
-        "northing":172851.0,
+        "longitude":-0.243075609,
+        "latitude":51.4414784846,
         "signtext":null,
         "roadnr":"A3"
     },
     {
         "siteid":"10\/000710\/",
-        "easting":528209.0,
-        "northing":174927.0,
+        "longitude":-0.1559840246,
+        "latitude":51.4588093974,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A205"
     },
     {
         "siteid":"10\/000711\/",
-        "easting":526868.26,
-        "northing":174857.91,
+        "longitude":-0.1752964709,
+        "latitude":51.4584902743,
         "signtext":null,
         "roadnr":"A3"
     },
     {
         "siteid":"10\/000716\/T",
-        "easting":522200.0,
-        "northing":172800.0,
+        "longitude":-0.2431651022,
+        "latitude":51.4410212088,
         "signtext":null,
         "roadnr":"A3"
     },
     {
         "siteid":"10\/000718\/",
-        "easting":524153.7,
-        "northing":174098.8,
+        "longitude":-0.2146144127,
+        "latitude":51.4522693235,
         "signtext":null,
         "roadnr":"A3"
     },
     {
         "siteid":"10\/000720\/",
-        "easting":527375.0,
-        "northing":173314.0,
+        "longitude":-0.1685619809,
+        "latitude":51.4445015605,
         "signtext":null,
         "roadnr":"A214"
     },
     {
         "siteid":"10\/000737\/",
-        "easting":526367.0,
-        "northing":175483.0,
+        "longitude":-0.1822843206,
+        "latitude":51.4642199669,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A3205"
     },
     {
         "siteid":"10\/000738\/",
-        "easting":522099.357,
-        "northing":175137.869,
+        "longitude":-0.2438063609,
+        "latitude":51.4620540528,
         "signtext":null,
         "roadnr":"A306"
     },
     {
         "siteid":"10\/000740\/",
-        "easting":528668.0,
-        "northing":171947.0,
+        "longitude":-0.1504633926,
+        "latitude":51.4319245179,
         "signtext":null,
         "roadnr":"A214"
     },
     {
         "siteid":"11\/000702\/",
-        "easting":522006.0,
-        "northing":180956.0,
+        "longitude":-0.2431407965,
+        "latitude":51.5143632017,
         "signtext":null,
         "roadnr":"A40"
     },
     {
         "siteid":"11\/000703\/",
-        "easting":522295.97,
-        "northing":178413.13,
+        "longitude":-0.2398448713,
+        "latitude":51.4914472581,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"11\/000704\/",
-        "easting":524251.171,
-        "northing":178377.639,
+        "longitude":-0.2117093384,
+        "latitude":51.4907024402,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"11\/000705\/",
-        "easting":522028.95,
-        "northing":178300.6,
+        "longitude":-0.243727938,
+        "latitude":51.4904935576,
         "signtext":null,
         "roadnr":"A4"
     },
     {
         "siteid":"11\/000716\/",
-        "easting":524856.0,
-        "northing":178499.0,
+        "longitude":-0.2029592436,
+        "latitude":51.4916600158,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"11\/000718\/",
-        "easting":524174.0,
-        "northing":178815.0,
+        "longitude":-0.2126665832,
+        "latitude":51.4946499824,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":null
     },
     {
         "siteid":"14\/000721\/",
-        "easting":545165.0,
-        "northing":188360.0,
+        "longitude":0.0934394195,
+        "latitude":51.5754207265,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A12"
     },
     {
         "siteid":"14\/000722\/",
-        "easting":544832.53,
-        "northing":188252.63,
+        "longitude":0.0886008447,
+        "latitude":51.5745414074,
         "signtext":null,
         "roadnr":"A12"
     },
     {
         "siteid":"14\/000734\/",
-        "easting":542326.0,
-        "northing":189551.0,
+        "longitude":0.0529815151,
+        "latitude":51.5868458148,
         "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
         "roadnr":"A1400"
     },
     {
         "siteid":"14\/000736\/",
-        "easting":540931.0,
-        "northing":190359.0,
+        "longitude":0.0331835475,
+        "latitude":51.5944565306,
         "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
         "roadnr":"A406"
     },
     {
         "siteid":"14\/000737\/",
-        "easting":541420.0,
-        "northing":189390.0,
+        "longitude":0.0398481826,
+        "latitude":51.5856270297,
         "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
         "roadnr":"A406"
     },
     {
         "siteid":"14\/000739\/",
-        "easting":541339.0,
-        "northing":190326.0,
+        "longitude":0.0390564325,
+        "latitude":51.5940578812,
         "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
         "roadnr":"A406"
     },
     {
         "siteid":"15\/000717\/",
-        "easting":552062.76,
-        "northing":190798.31,
+        "longitude":0.1939575262,
+        "latitude":51.595511528,
         "signtext":null,
         "roadnr":"A12"
     },
     {
         "siteid":"16\/000713\/",
-        "easting":544674.0,
-        "northing":183118.0,
+        "longitude":0.0842048071,
+        "latitude":51.5284452434,
         "signtext":null,
         "roadnr":"A13"
     },
     {
         "siteid":"17\/000720\/",
-        "easting":538642.0,
-        "northing":183983.0,
+        "longitude":-0.0023532148,
+        "latitude":51.5377299986,
         "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
         "roadnr":"A118"
     },
     {
         "siteid":"17\/000722\/",
-        "easting":542262.0,
-        "northing":182093.0,
+        "longitude":0.0490443799,
+        "latitude":51.5198472144,
         "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A13"
     },
     {
         "siteid":"17\/000725\/",
-        "easting":543477.0,
-        "northing":182500.0,
+        "longitude":0.0667096827,
+        "latitude":51.5231973043,
         "signtext":null,
         "roadnr":"A13"
     },
     {
         "siteid":"17\/000726\/",
-        "easting":544124.0,
-        "northing":182841.0,
+        "longitude":0.0761684641,
+        "latitude":51.5260967782,
         "signtext":null,
         "roadnr":"A13"
     },
     {
         "siteid":"18\/000725\/",
-        "easting":546046.833,
-        "northing":174723.7,
+        "longitude":0.1005110395,
+        "latitude":51.4526658308,
         "signtext":null,
         "roadnr":"A2"
     },
     {
         "siteid":"19\/000720\/",
-        "easting":543349.92,
-        "northing":164682.97,
+        "longitude":0.0576696923,
+        "latitude":51.3631305497,
         "signtext":null,
         "roadnr":"A21"
     },
     {
         "siteid":"19\/000723\/",
-        "easting":542659.0,
-        "northing":165090.0,
+        "longitude":0.047915415,
+        "latitude":51.3669618863,
         "signtext":null,
         "roadnr":"A232"
     },
     {
         "siteid":"19\/000727\/",
-        "easting":548166.0,
-        "northing":162960.0,
+        "longitude":0.126079869,
+        "latitude":51.3464140625,
         "signtext":null,
         "roadnr":"A21"
     },
     {
         "siteid":"19\/000728\/",
-        "easting":538831.0,
-        "northing":165696.0,
+        "longitude":-0.0068012673,
+        "latitude":51.3733553606,
         "signtext":null,
         "roadnr":"A232"
     },
     {
         "siteid":"19\/000729\/",
-        "easting":539002.0,
-        "northing":165615.0,
+        "longitude":-0.0043777611,
+        "latitude":51.3725856797,
         "signtext":null,
         "roadnr":"A232"
     },
     {
         "siteid":"20\/000723\/T",
-        "easting":531001.0,
-        "northing":165735.0,
+        "longitude":-0.1192135526,
+        "latitude":51.3755646977,
         "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"20\/000724\/T",
-        "easting":531305.34,
-        "northing":163447.46,
+        "longitude":-0.1156874681,
+        "latitude":51.3549367876,
         "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"20\/000725\/",
-        "easting":531297.0,
-        "northing":163318.0,
+        "longitude":-0.1158549041,
+        "latitude":51.3537752789,
         "signtext":null,
         "roadnr":"A23"
     },
     {
         "siteid":"21\/000707\/",
-        "easting":530750.0,
-        "northing":164852.0,
+        "longitude":-0.1231422847,
+        "latitude":51.3676871287,
         "signtext":null,
         "roadnr":"A232"
     },
     {
         "siteid":"21\/000709\/",
-        "easting":524408.0,
-        "northing":164203.0,
+        "longitude":-0.2144243008,
+        "latitude":51.3632777465,
         "signtext":null,
         "roadnr":"A217"
     },
     {
         "siteid":"21\/000710\/",
-        "easting":524691.0,
-        "northing":163753.0,
+        "longitude":-0.2105191209,
+        "latitude":51.3591714715,
         "signtext":null,
         "roadnr":"A232"
     },
     {
         "siteid":"22\/000711\/",
-        "easting":525516.0,
-        "northing":166140.0,
+        "longitude":-0.1978342878,
+        "latitude":51.3804424511,
         "signtext":null,
         "roadnr":"A217"
     },
     {
         "siteid":"22\/000714\/",
-        "easting":522668.0,
-        "northing":168320.0,
+        "longitude":-0.2379840036,
+        "latitude":51.4006569239,
         "signtext":null,
         "roadnr":null
     },
     {
         "siteid":"22\/000715\/",
-        "easting":523082.0,
-        "northing":169300.0,
+        "longitude":-0.2316959145,
+        "latitude":51.4093749123,
         "signtext":null,
         "roadnr":"A238"
     },
     {
         "siteid":"22\/000716\/",
-        "easting":523512.0,
-        "northing":169051.0,
+        "longitude":-0.2256031145,
+        "latitude":51.4070436747,
         "signtext":null,
         "roadnr":"A289"
     },
     {
         "siteid":"23\/000723\/",
-        "easting":517637.42,
-        "northing":163148.21,
+        "longitude":-0.3119769745,
+        "latitude":51.3552387295,
         "signtext":null,
         "roadnr":"A243"
     },
     {
         "siteid":"23\/000724\/",
-        "easting":516985.0,
-        "northing":160756.0,
+        "longitude":-0.3221275401,
+        "latitude":51.3338724917,
         "signtext":null,
         "roadnr":"A243"
     },
     {
         "siteid":"23\/000725\/",
-        "easting":520189.0,
-        "northing":165240.0,
+        "longitude":-0.2746445892,
+        "latitude":51.3735054034,
         "signtext":null,
         "roadnr":"A240"
     },
     {
         "siteid":"23\/000726\/",
-        "easting":520225.0,
-        "northing":165197.0,
+        "longitude":-0.2741421654,
+        "latitude":51.3731113237,
         "signtext":null,
         "roadnr":"A240"
     },
     {
         "siteid":"23\/000776\/",
-        "easting":522026.0,
-        "northing":166249.0,
+        "longitude":-0.2479195399,
+        "latitude":51.3821823061,
         "signtext":null,
         "roadnr":"A2043"
     },
     {
         "siteid":"24\/000709\/",
-        "easting":521340.68,
-        "northing":175476.36,
+        "longitude":-0.2546057665,
+        "latitude":51.4652591807,
         "signtext":null,
         "roadnr":"A205"
     },
     {
         "siteid":"24\/000710\/",
-        "easting":514299.0,
-        "northing":173325.0,
+        "longitude":-0.3566240607,
+        "latitude":51.4473876394,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A316"
     },
     {
         "siteid":"24\/000713\/T",
-        "easting":519801.0,
-        "northing":176283.0,
+        "longitude":-0.2764865463,
+        "latitude":51.4728365047,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A205"
     },
     {
         "siteid":"25\/000711\/",
-        "easting":518674.59,
-        "northing":178322.03,
+        "longitude":-0.2920124013,
+        "latitude":51.4913994246,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"25\/000712\/",
-        "easting":510840.4,
-        "northing":176280.84,
+        "longitude":-0.4054467895,
+        "latitude":51.4746416373,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
         "siteid":"25\/000713\/",
-        "easting":510482.0,
-        "northing":178461.0,
+        "longitude":-0.4099236885,
+        "latitude":51.4943069965,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
         "siteid":"25\/000717\/",
-        "easting":519353.0,
-        "northing":178824.0,
+        "longitude":-0.2820757584,
+        "latitude":51.4957681912,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A406"
     },
     {
         "siteid":"25\/000718\/",
-        "easting":519063.0,
-        "northing":178148.0,
+        "longitude":-0.2864791024,
+        "latitude":51.489753764,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A205"
     },
     {
         "siteid":"25\/000719\/",
-        "easting":512781.81,
-        "northing":176608.33,
+        "longitude":-0.37740075,
+        "latitude":51.4772018053,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"25\/000720\/",
-        "easting":513409.0,
-        "northing":176788.0,
+        "longitude":-0.3683158923,
+        "latitude":51.4786913957,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"25\/000725\/",
-        "easting":513425.0,
-        "northing":172535.0,
+        "longitude":-0.3694483596,
+        "latitude":51.4404627394,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A316"
     },
     {
         "siteid":"25\/000728\/",
-        "easting":512334.0,
-        "northing":172386.0,
+        "longitude":-0.3851859986,
+        "latitude":51.4393407153,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
         "siteid":"25\/000735\/",
-        "easting":510465.0,
-        "northing":177503.0,
+        "longitude":-0.4104679421,
+        "latitude":51.4856997956,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
         "siteid":"26\/000712\/",
-        "easting":507534.36,
-        "northing":175964.96,
+        "longitude":-0.4531261656,
+        "latitude":51.4724398051,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":null
     },
     {
         "siteid":"26\/000713\/",
-        "easting":507553.15,
-        "northing":177678.75,
+        "longitude":-0.45233443,
+        "latitude":51.4878401471,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":null
     },
     {
         "siteid":"26\/000720\/",
-        "easting":506275.0,
-        "northing":176972.0,
+        "longitude":-0.4709486484,
+        "latitude":51.4817290685,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"26\/000721\/",
-        "easting":506246.0,
-        "northing":176956.0,
+        "longitude":-0.4713709193,
+        "latitude":51.4815906981,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"26\/000724\/",
-        "easting":511799.0,
-        "northing":182699.0,
+        "longitude":-0.3896179871,
+        "latitude":51.5321390595,
         "signtext":"UXBRIDGE ROAD |  W\/B CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A312"
     },
     {
         "siteid":"26\/000725\/",
-        "easting":511755.0,
-        "northing":182700.0,
+        "longitude":-0.3902517366,
+        "latitude":51.5321567492,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
         "siteid":"27\/000707\/",
-        "easting":520253.0,
-        "northing":182024.0,
+        "longitude":-0.26802703,
+        "latitude":51.5243371454,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A40"
     },
     {
         "siteid":"27\/000710\/",
-        "easting":518552.0,
-        "northing":182301.0,
+        "longitude":-0.2924408756,
+        "latitude":51.5271859361,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A406"
     },
     {
         "siteid":"27\/000715\/",
-        "easting":518914.6,
-        "northing":179585.8,
+        "longitude":-0.2881314988,
+        "latitude":51.502707123,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A406"
     },
     {
         "siteid":"27\/000718\/",
-        "easting":507096.0,
-        "northing":185158.0,
+        "longitude":-0.4566452668,
+        "latitude":51.5551515942,
         "signtext":"NOV 21 - MAR 2|2  A40 WESTWAY |CLOSEDE\/B WEEKE|NDS ONLY",
         "roadnr":"A40"
     },
     {
         "siteid":"28\/000701\/",
-        "easting":522561.556,
-        "northing":183013.151,
+        "longitude":-0.2344237202,
+        "latitude":51.5327310108,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A404"
     },
     {
         "siteid":"28\/000712\/T",
-        "easting":521537.72,
-        "northing":186732.31,
+        "longitude":-0.2478932526,
+        "latitude":51.5663768845,
         "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A406"
     },
     {
         "siteid":"30\/000734\/",
-        "easting":526372.0,
-        "northing":190535.0,
+        "longitude":-0.1768159467,
+        "latitude":51.5994892605,
         "signtext":null,
         "roadnr":"A406"
     },
     {
         "siteid":"31\/000706\/",
-        "easting":534234.0,
-        "northing":189179.0,
+        "longitude":-0.0638890486,
+        "latitude":51.5854869509,
         "signtext":null,
         "roadnr":"A10"
     },
     {
         "siteid":"31\/000708\/",
-        "easting":528807.6899999999,
-        "northing":187871.56,
+        "longitude":-0.1426451857,
+        "latitude":51.5750027779,
         "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
         "roadnr":"A1"
     },
     {
         "siteid":"32\/000730\/",
-        "easting":534734.0,
-        "northing":199200.0,
+        "longitude":-0.0528241578,
+        "latitude":51.675417216,
         "signtext":null,
         "roadnr":"A10"
     },
     {
         "siteid":"32\/000733\/",
-        "easting":536426.0,
-        "northing":196470.0,
+        "longitude":-0.0294340126,
+        "latitude":51.6504777311,
         "signtext":null,
         "roadnr":"A1055"
     },
     {
         "siteid":"32\/000734\/",
-        "easting":534732.0,
-        "northing":199066.0,
+        "longitude":-0.0529047109,
+        "latitude":51.6742135714,
         "signtext":null,
         "roadnr":"A10"
     },
     {
         "siteid":"39\/000702\/",
-        "easting":514376.56,
-        "northing":165214.875,
+        "longitude":-0.358121635,
+        "latitude":51.3744789959,
         "signtext":null,
         "roadnr":"A307"
     },
     {
         "siteid":"49\/000701\/",
-        "easting":561269.0,
-        "northing":188898.0,
+        "longitude":0.325882632,
+        "latitude":51.5758812729,
         "signtext":null,
         "roadnr":"A127"
     }
