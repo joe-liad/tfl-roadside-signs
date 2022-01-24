@@ -52,7 +52,7 @@
         "siteid":"05\/000703\/",
         "longitude":-0.0438340763,
         "latitude":51.5133037247,
-        "signtext":null,
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A13"
     },
     {
@@ -73,14 +73,14 @@
         "siteid":"05\/000712\/",
         "longitude":-0.051752139,
         "latitude":51.5141248958,
-        "signtext":null,
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A13"
     },
     {
         "siteid":"05\/000738\/",
         "longitude":-0.0726992955,
         "latitude":51.516434423,
-        "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":null
     },
     {
@@ -164,7 +164,7 @@
         "siteid":"08\/000704\/",
         "longitude":-0.0886869371,
         "latitude":51.4943135195,
-        "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A201"
     },
     {
@@ -178,7 +178,7 @@
         "siteid":"08\/000711\/",
         "longitude":-0.0998707225,
         "latitude":51.4768787805,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A202"
     },
     {
@@ -416,7 +416,7 @@
         "siteid":"17\/000722\/",
         "longitude":0.0490443799,
         "latitude":51.5198472144,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A13"
     },
     {
@@ -430,7 +430,7 @@
         "siteid":"17\/000726\/",
         "longitude":0.0761684641,
         "latitude":51.5260967782,
-        "signtext":null,
+        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
         "roadnr":"A13"
     },
     {
