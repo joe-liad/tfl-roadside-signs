@@ -423,14 +423,14 @@
         "siteid":"17\/000725\/",
         "longitude":0.0667096827,
         "latitude":51.5231973043,
-        "signtext":"2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128",
+        "signtext":"BARKING FLYOVER|  NORTHBOUND   |    CLOSED     |   COLLISION",
         "roadnr":"A13"
     },
     {
         "siteid":"17\/000726\/",
         "longitude":0.0761684641,
         "latitude":51.5260967782,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+        "signtext":"BARKING FLYOVER|  NORTHBOUND   |    CLOSED     |   COLLISION",
         "roadnr":"A13"
     },
     {
