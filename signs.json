@@ -59,7 +59,7 @@
         "siteid":"05\/000704\/",
         "longitude":-0.0440144783,
         "latitude":51.5104380871,
-        "signtext":null,
+        "signtext":"2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128",
         "roadnr":null
     },
     {
@@ -423,7 +423,7 @@
         "siteid":"17\/000725\/",
         "longitude":0.0667096827,
         "latitude":51.5231973043,
-        "signtext":null,
+        "signtext":"2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128",
         "roadnr":"A13"
     },
     {
@@ -752,7 +752,7 @@
         "siteid":"28\/000712\/T",
         "longitude":-0.2478932526,
         "latitude":51.5663768845,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"A406 N\/BND JCT | BRENT STREET  |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A406"
     },
     {
