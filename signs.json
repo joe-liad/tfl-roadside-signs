@@ -787,14 +787,14 @@
         "siteid":"32\/000733\/",
         "longitude":-0.0294340126,
         "latitude":51.6504777311,
-        "signtext":"A406 CHARLIE  |  BROWNS F\/O   | BREAKDOWN E\/B | EXPECT DELAYS",
+        "signtext":null,
         "roadnr":"A1055"
     },
     {
         "siteid":"32\/000734\/",
         "longitude":-0.0529047109,
         "latitude":51.6742135714,
-        "signtext":"A406 CHARLIE  |  BROWNS F\/O   | BREAKDOWN E\/B | EXPECT DELAYS",
+        "signtext":null,
         "roadnr":"A10"
     },
     {
