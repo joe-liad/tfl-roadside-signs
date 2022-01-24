@@ -94,28 +94,28 @@
         "siteid":"05\/000742\/",
         "longitude":-0.0498177111,
         "latitude":51.5098692751,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A1203"
     },
     {
         "siteid":"06\/000701\/",
         "longitude":0.0467695398,
         "latitude":51.4593296639,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":null
     },
     {
         "siteid":"06\/000702\/",
         "longitude":0.058315686,
         "latitude":51.4781364942,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A205"
     },
     {
         "siteid":"06\/000703\/",
         "longitude":0.0543153524,
         "latitude":51.4691167381,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A205"
     },
     {
@@ -136,21 +136,21 @@
         "siteid":"06\/000714\/",
         "longitude":0.0310965031,
         "latitude":51.4454947291,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A20"
     },
     {
         "siteid":"06\/000721\/",
         "longitude":0.0217285039,
         "latitude":51.4794673371,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A102"
     },
     {
         "siteid":"07\/000708\/",
         "longitude":0.0163678976,
         "latitude":51.4467360686,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A205"
     },
     {
@@ -353,7 +353,7 @@
         "siteid":"14\/000721\/",
         "longitude":0.0934394195,
         "latitude":51.5754207265,
-        "signtext":"MON 24 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+        "signtext":null,
         "roadnr":"A12"
     },
     {
