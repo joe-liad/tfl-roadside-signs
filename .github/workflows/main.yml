@@ -36,6 +36,6 @@ jobs:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
         datasette publish vercel tfl-roadside-signs-history.db \
-          --install datasette-cluster-map
+          --install datasette-cluster-map \
           --token $NOW_TOKEN \
           --project lewisham-tfl-roadside-signs-history
