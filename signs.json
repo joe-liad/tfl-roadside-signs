@@ -738,7 +738,7 @@
         "siteid":"27\/000718\/",
         "longitude":-0.4566452668,
         "latitude":51.5551515942,
-        "signtext":"A40 E\/BND JCT|     GREENFORD |RDB   COLLISION|- DELAYS",
+        "signtext":"NOV 21 - MAR 2|2  A40 WESTWAY |CLOSEDE\/B WEEKE|NDS ONLY",
         "roadnr":"A40"
     },
     {
@@ -787,14 +787,14 @@
         "siteid":"32\/000733\/",
         "longitude":-0.0294340126,
         "latitude":51.6504777311,
-        "signtext":null,
+        "signtext":"A406 CHARLIE  |  BROWNS F\/O   | BREAKDOWN E\/B | EXPECT DELAYS",
         "roadnr":"A1055"
     },
     {
         "siteid":"32\/000734\/",
         "longitude":-0.0529047109,
         "latitude":51.6742135714,
-        "signtext":null,
+        "signtext":"A406 CHARLIE  |  BROWNS F\/O   | BREAKDOWN E\/B | EXPECT DELAYS",
         "roadnr":"A10"
     },
     {
