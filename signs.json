@@ -640,7 +640,7 @@
         "siteid":"25\/000719\/",
         "longitude":-0.37740075,
         "latitude":51.4772018053,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A4"
     },
     {
@@ -668,14 +668,14 @@
         "siteid":"25\/000735\/",
         "longitude":-0.4104679421,
         "latitude":51.4856997956,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A312"
     },
     {
         "siteid":"26\/000712\/",
         "longitude":-0.4531261656,
         "latitude":51.4724398051,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":null
     },
     {
@@ -710,21 +710,21 @@
         "siteid":"26\/000725\/",
         "longitude":-0.3902517366,
         "latitude":51.5321567492,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A312"
     },
     {
         "siteid":"27\/000707\/",
         "longitude":-0.26802703,
         "latitude":51.5243371454,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A40"
     },
     {
         "siteid":"27\/000710\/",
         "longitude":-0.2924408756,
         "latitude":51.5271859361,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"M40 JUNCTION 1 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A406"
     },
     {
