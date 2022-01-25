@@ -493,14 +493,14 @@
         "siteid":"20\/000725\/",
         "longitude":-0.1158549041,
         "latitude":51.3537752789,
-        "signtext":null,
+        "signtext":"A23 THORNTON RD|  NORTHBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A23"
     },
     {
         "siteid":"21\/000707\/",
         "longitude":-0.1231422847,
         "latitude":51.3676871287,
-        "signtext":null,
+        "signtext":"A23 THORNTON RD|  NORTHBOUND   |    CLOSED     |USE OTHER ROUTE",
         "roadnr":"A232"
     },
     {
