@@ -101,14 +101,14 @@
         "siteid":"06\/000701\/",
         "longitude":0.0467695398,
         "latitude":51.4593296639,
-        "signtext":null,
+        "signtext":"WOOLWICH FERRY |  NO SERVICE   |  ENGINEERING  |USE OTHER ROUTE",
         "roadnr":null
     },
     {
         "siteid":"06\/000702\/",
         "longitude":0.058315686,
         "latitude":51.4781364942,
-        "signtext":null,
+        "signtext":"WOOLWICH FERRY |  NO SERVICE   |  ENGINEERING  |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -150,7 +150,7 @@
         "siteid":"07\/000708\/",
         "longitude":0.0163678976,
         "latitude":51.4467360686,
-        "signtext":null,
+        "signtext":"WOOLWICH FERRY |  NO SERVICE   |  ENGINEERING  |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -423,7 +423,7 @@
         "siteid":"17\/000725\/",
         "longitude":0.0667096827,
         "latitude":51.5231973043,
-        "signtext":"2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128",
+        "signtext":"WOOLWICH FERRY |  NO SERVICE   |  ENGINEERING  |USE OTHER ROUTE",
         "roadnr":"A13"
     },
     {
