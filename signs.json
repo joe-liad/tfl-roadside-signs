@@ -94,7 +94,7 @@
         "siteid":"05\/000742\/",
         "longitude":-0.0498177111,
         "latitude":51.5098692751,
-        "signtext":null,
+        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A1203"
     },
     {
@@ -115,7 +115,7 @@
         "siteid":"06\/000703\/",
         "longitude":0.0543153524,
         "latitude":51.4691167381,
-        "signtext":null,
+        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -143,7 +143,7 @@
         "siteid":"06\/000721\/",
         "longitude":0.0217285039,
         "latitude":51.4794673371,
-        "signtext":null,
+        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A102"
     },
     {
@@ -353,14 +353,14 @@
         "siteid":"14\/000721\/",
         "longitude":0.0934394195,
         "latitude":51.5754207265,
-        "signtext":null,
+        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A12"
     },
     {
         "siteid":"14\/000722\/",
         "longitude":0.0886008447,
         "latitude":51.5745414074,
-        "signtext":null,
+        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
         "roadnr":"A12"
     },
     {
