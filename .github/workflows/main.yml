@@ -10,15 +10,20 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+    
     - name: Check out this repo
       uses: actions/checkout@v2
+    
     - name: Fetch latest data
       run: |-
         curl https://roads.data.tfl.gov.uk/trafficstatus/vms.xml -o signs.xml
+    
     - name: Install Python Dependencies
       run: pip install -r ./requirements.txt
+    
     - name: Build json array from xml
       run: python ./etl.py        
+    
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -27,9 +32,11 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+    
     - name: Build git-history
       run: |-
         git-history file tfl-roadside-signs-history.db signs.json --id siteid --namespace sign
+    
     - name: Deploy Datasette using Vercel
       env:
         # NOW_TOKEN github secret must exist to create $NOW_TOKEN env var used later
