@@ -52,14 +52,14 @@
         "siteid":"05\/000703\/",
         "longitude":-0.0438340763,
         "latitude":51.5133037247,
-        "signtext":"BARKING ROAD  |  HERMIT RAD   |  BUSRT WATER  |USE OTHER ROUTE",
+        "signtext":"BARKING ROAD  |  HERMIT ROAD  | SURFACE WATER |USE OTHER ROUTE",
         "roadnr":"A13"
     },
     {
         "siteid":"05\/000704\/",
         "longitude":-0.0440144783,
         "latitude":51.5104380871,
-        "signtext":"BARKING ROAD  |  HERMIT RAD   |  BUSRT WATER  |USE OTHER ROUTE",
+        "signtext":"BARKING ROAD  |  HERMIT ROAD  | SURFACE WATER |USE OTHER ROUTE",
         "roadnr":null
     },
     {
@@ -430,7 +430,7 @@
         "siteid":"17\/000726\/",
         "longitude":0.0761684641,
         "latitude":51.5260967782,
-        "signtext":"BARKING ROAD  |  HERMIT RAD   |  BUSRT WATER  |USE OTHER ROUTE",
+        "signtext":"BARKING ROAD  |  HERMIT ROAD  | SURFACE WATER |USE OTHER ROUTE",
         "roadnr":"A13"
     },
     {
