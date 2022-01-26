@@ -262,7 +262,7 @@
         "siteid":"10\/000711\/",
         "longitude":-0.1752964709,
         "latitude":51.4584902743,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":null,
         "roadnr":"A3"
     },
     {
@@ -332,7 +332,7 @@
         "siteid":"11\/000705\/",
         "longitude":-0.243727938,
         "latitude":51.4904935576,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":null,
         "roadnr":"A4"
     },
     {
@@ -591,14 +591,14 @@
         "siteid":"24\/000710\/",
         "longitude":-0.3566240607,
         "latitude":51.4473876394,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A316"
     },
     {
         "siteid":"24\/000713\/T",
         "longitude":-0.2764865463,
         "latitude":51.4728365047,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A205"
     },
     {
@@ -619,7 +619,7 @@
         "siteid":"25\/000713\/",
         "longitude":-0.4099236885,
         "latitude":51.4943069965,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A312"
     },
     {
@@ -633,21 +633,21 @@
         "siteid":"25\/000718\/",
         "longitude":-0.2864791024,
         "latitude":51.489753764,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A205"
     },
     {
         "siteid":"25\/000719\/",
         "longitude":-0.37740075,
         "latitude":51.4772018053,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
         "siteid":"25\/000720\/",
         "longitude":-0.3683158923,
         "latitude":51.4786913957,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A4"
     },
     {
@@ -731,7 +731,7 @@
         "siteid":"27\/000715\/",
         "longitude":-0.2881314988,
         "latitude":51.502707123,
-        "signtext":"A406 HANGER  |LANE\/MADELEY RD|  NORTHBOUND   |  ROAD CLOSED",
+        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
         "roadnr":"A406"
     },
     {
