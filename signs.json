@@ -332,7 +332,7 @@
         "siteid":"11\/000705\/",
         "longitude":-0.243727938,
         "latitude":51.4904935576,
-        "signtext":null,
+        "signtext":"A406 N\/BND   |JCT POPES LANE |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A4"
     },
     {
@@ -528,7 +528,7 @@
         "siteid":"22\/000714\/",
         "longitude":-0.2379840036,
         "latitude":51.4006569239,
-        "signtext":null,
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
         "roadnr":null
     },
     {
@@ -549,7 +549,7 @@
         "siteid":"23\/000723\/",
         "longitude":-0.3119769745,
         "latitude":51.3552387295,
-        "signtext":null,
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
         "roadnr":"A243"
     },
     {
@@ -563,7 +563,7 @@
         "siteid":"23\/000725\/",
         "longitude":-0.2746445892,
         "latitude":51.3735054034,
-        "signtext":null,
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
         "roadnr":"A240"
     },
     {
@@ -577,7 +577,7 @@
         "siteid":"23\/000776\/",
         "longitude":-0.2479195399,
         "latitude":51.3821823061,
-        "signtext":null,
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
         "roadnr":"A2043"
     },
     {
@@ -598,7 +598,7 @@
         "siteid":"24\/000713\/T",
         "longitude":-0.2764865463,
         "latitude":51.4728365047,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"A406 N\/BND   |JCT POPES LANE |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -633,7 +633,7 @@
         "siteid":"25\/000718\/",
         "longitude":-0.2864791024,
         "latitude":51.489753764,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
+        "signtext":"A406 N\/BND   |JCT POPES LANE |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A205"
     },
     {
@@ -738,7 +738,7 @@
         "siteid":"27\/000718\/",
         "longitude":-0.4566452668,
         "latitude":51.5551515942,
-        "signtext":"NOV 21 - MAR 2|2  A40 WESTWAY |CLOSEDE\/B WEEKE|NDS ONLY",
+        "signtext":"A406 N\/BND   |JCT POPES LANE |   ACCIDENT    |USE OTHER ROUTE",
         "roadnr":"A40"
     },
     {
@@ -794,14 +794,14 @@
         "siteid":"32\/000734\/",
         "longitude":-0.0529047109,
         "latitude":51.6742135714,
-        "signtext":"A10 S\/BND JCT | CHURCH STREET | BKN DOWN VEH  | EXPECT DELAYS",
+        "signtext":null,
         "roadnr":"A10"
     },
     {
         "siteid":"39\/000702\/",
         "longitude":-0.358121635,
         "latitude":51.3744789959,
-        "signtext":null,
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
         "roadnr":"A307"
     },
     {
