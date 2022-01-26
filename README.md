@@ -7,7 +7,7 @@ _history of changes on tfl variable message signs_
 ...with a [github action](./.github/workflows/main.yml) running every twenty minutes:
 
 1. use cURL to fetch variable message [sign feed](https://roads.data.tfl.gov.uk/trafficstatus/vms.xml)
-2. use python to extract only the array of `<Sign>` data (not the metadata), change each sign's coordinates from easting/northing to longitude/latitude, and save to [signs.json](./signs.json)
+2. use a python script ([etl.py](https://github.com/joe-liad/tfl-variable-message-signs/blob/main/etl.py)) to extract only the array of `<Sign>` data (not the metadata), change each sign's coordinates from easting/northing to longitude/latitude, and save to [signs.json](./signs.json)
 4. commit the json if the data has changed since the last run
 5. create a [git-history](https://github.com/simonw/git-history) database/api with [datasette](https://datasette.io) 
 6. publish to [vercel](https://lewisham-tfl-roadside-signs-history.vercel.app/tfl-roadside-signs-history)
