@@ -528,7 +528,7 @@
         "siteid":"22\/000714\/",
         "longitude":-0.2379840036,
         "latitude":51.4006569239,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  CLOSED N\/B   |USE OTHER ROUTE",
         "roadnr":null
     },
     {
@@ -549,7 +549,7 @@
         "siteid":"23\/000723\/",
         "longitude":-0.3119769745,
         "latitude":51.3552387295,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  CLOSED N\/B   |USE OTHER ROUTE",
         "roadnr":"A243"
     },
     {
@@ -563,7 +563,7 @@
         "siteid":"23\/000725\/",
         "longitude":-0.2746445892,
         "latitude":51.3735054034,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  CLOSED N\/B   |USE OTHER ROUTE",
         "roadnr":"A240"
     },
     {
@@ -577,7 +577,7 @@
         "siteid":"23\/000776\/",
         "longitude":-0.2479195399,
         "latitude":51.3821823061,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  CLOSED N\/B   |USE OTHER ROUTE",
         "roadnr":"A2043"
     },
     {
@@ -801,7 +801,7 @@
         "siteid":"39\/000702\/",
         "longitude":-0.358121635,
         "latitude":51.3744789959,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
+        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  CLOSED N\/B   |USE OTHER ROUTE",
         "roadnr":"A307"
     },
     {
