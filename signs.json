@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.518818,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.513253,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.459329,
@@ -468,16 +468,16 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.519847,
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.523197,
@@ -492,8 +492,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": " BLACKWALL TUN | CLOSED [S/B]  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-01-27T09:47:31.343Z"
+    "signtext": " BLACKWALL TUN |   RE-OPENED   | LOCAL DELAYS  | STILL REMAIN  ",
+    "modified": "2022-01-27T10:47:31.167Z"
   },
   {
     "lat": 51.452665,
