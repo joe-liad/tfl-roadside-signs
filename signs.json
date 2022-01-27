@@ -1,814 +1,1160 @@
 [
-    {
-        "siteid":"00\/000705\/",
-        "longitude":-0.0854417783,
-        "latitude":51.5095299939,
-        "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
-        "roadnr":"A3211"
-    },
-    {
-        "siteid":"01\/000707\/",
-        "longitude":-0.1461494144,
-        "latitude":51.5237016771,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A501"
-    },
-    {
-        "siteid":"01\/000708\/",
-        "longitude":-0.1458196713,
-        "latitude":51.523958776,
-        "signtext":"CLERKENWELL RD | CLOSED E\/B AT |GRAYS INN ROAD | EXPECT DELAYS",
-        "roadnr":"A501"
-    },
-    {
-        "siteid":"01\/000728\/",
-        "longitude":-0.1758230484,
-        "latitude":51.5240545814,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A5"
-    },
-    {
-        "siteid":"01\/000775\/",
-        "longitude":-0.1302146699,
-        "latitude":51.4888051277,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A202"
-    },
-    {
-        "siteid":"02\/000701\/",
-        "longitude":-0.1754254725,
-        "latitude":51.5405229087,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A41"
-    },
-    {
-        "siteid":"03\/000723\/",
-        "longitude":-0.1140756039,
-        "latitude":51.5542011094,
-        "signtext":null,
-        "roadnr":null
-    },
-    {
-        "siteid":"05\/000703\/",
-        "longitude":-0.0438340763,
-        "latitude":51.5133037247,
-        "signtext":"BARKING ROAD  |  HERMIT ROAD  | SURFACE WATER |USE OTHER ROUTE",
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"05\/000704\/",
-        "longitude":-0.0440144783,
-        "latitude":51.5104380871,
-        "signtext":"BARKING ROAD  |  HERMIT ROAD  | SURFACE WATER |USE OTHER ROUTE",
-        "roadnr":null
-    },
-    {
-        "siteid":"05\/000709\/",
-        "longitude":-0.0607554624,
-        "latitude":51.5188179753,
-        "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
-        "roadnr":"A11"
-    },
-    {
-        "siteid":"05\/000712\/",
-        "longitude":-0.051752139,
-        "latitude":51.5141248958,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"05\/000738\/",
-        "longitude":-0.0726992955,
-        "latitude":51.516434423,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":null
-    },
-    {
-        "siteid":"05\/000739\/",
-        "longitude":-0.0700952608,
-        "latitude":51.5132531913,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A1202"
-    },
-    {
-        "siteid":"05\/000742\/",
-        "longitude":-0.0498177111,
-        "latitude":51.5098692751,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A1203"
-    },
-    {
-        "siteid":"06\/000701\/",
-        "longitude":0.0467695398,
-        "latitude":51.4593296639,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":null
-    },
-    {
-        "siteid":"06\/000702\/",
-        "longitude":0.058315686,
-        "latitude":51.4781364942,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"06\/000703\/",
-        "longitude":0.0543153524,
-        "latitude":51.4691167381,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"06\/000705\/",
-        "longitude":0.0082822732,
-        "latitude":51.4949860446,
-        "signtext":null,
-        "roadnr":null
-    },
-    {
-        "siteid":"06\/000713\/",
-        "longitude":0.001828144,
-        "latitude":51.4981098556,
-        "signtext":null,
-        "roadnr":"A102"
-    },
-    {
-        "siteid":"06\/000714\/",
-        "longitude":0.0310965031,
-        "latitude":51.4454947291,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A20"
-    },
-    {
-        "siteid":"06\/000721\/",
-        "longitude":0.0217285039,
-        "latitude":51.4794673371,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A102"
-    },
-    {
-        "siteid":"07\/000708\/",
-        "longitude":0.0163678976,
-        "latitude":51.4467360686,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"07\/000710\/T",
-        "longitude":-0.0370398539,
-        "latitude":51.4423369065,
-        "signtext":null,
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"08\/000704\/",
-        "longitude":-0.0886869371,
-        "latitude":51.4943135195,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":"A201"
-    },
-    {
-        "siteid":"08\/000705\/",
-        "longitude":-0.0905992726,
-        "latitude":51.4940569097,
-        "signtext":"22 NOV-04 FEB |  WESTMINSTER  | BRIDGE-WORKS  | EXPECT DELAYS",
-        "roadnr":"A201"
-    },
-    {
-        "siteid":"08\/000711\/",
-        "longitude":-0.0998707225,
-        "latitude":51.4768787805,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":"A202"
-    },
-    {
-        "siteid":"09\/000704\/",
-        "longitude":-0.1300936514,
-        "latitude":51.423492841,
-        "signtext":null,
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"09\/000713\/T",
-        "longitude":-0.1322635203,
-        "latitude":51.4478226302,
-        "signtext":null,
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"09\/000714\/T",
-        "longitude":-0.1167871607,
-        "latitude":51.443060726,
-        "signtext":null,
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"09\/000716\/",
-        "longitude":-0.1177068699,
-        "latitude":51.4581381352,
-        "signtext":null,
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"09\/000717\/",
-        "longitude":-0.1228001981,
-        "latitude":51.4497757423,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"09\/000724\/",
-        "longitude":-0.1423027664,
-        "latitude":51.4582516887,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A24"
-    },
-    {
-        "siteid":"09\/000747\/",
-        "longitude":-0.1123820952,
-        "latitude":51.4685738718,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"09\/000748\/",
-        "longitude":-0.1013538032,
-        "latitude":51.4924869657,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":null
-    },
-    {
-        "siteid":"10\/000701\/",
-        "longitude":-0.1488239391,
-        "latitude":51.4477567247,
-        "signtext":null,
-        "roadnr":"A24"
-    },
-    {
-        "siteid":"10\/000702\/",
-        "longitude":-0.243075609,
-        "latitude":51.4414784846,
-        "signtext":null,
-        "roadnr":"A3"
-    },
-    {
-        "siteid":"10\/000710\/",
-        "longitude":-0.1559840246,
-        "latitude":51.4588093974,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"10\/000711\/",
-        "longitude":-0.1752964709,
-        "latitude":51.4584902743,
-        "signtext":null,
-        "roadnr":"A3"
-    },
-    {
-        "siteid":"10\/000716\/T",
-        "longitude":-0.2431651022,
-        "latitude":51.4410212088,
-        "signtext":null,
-        "roadnr":"A3"
-    },
-    {
-        "siteid":"10\/000718\/",
-        "longitude":-0.2146144127,
-        "latitude":51.4522693235,
-        "signtext":null,
-        "roadnr":"A3"
-    },
-    {
-        "siteid":"10\/000720\/",
-        "longitude":-0.1685619809,
-        "latitude":51.4445015605,
-        "signtext":null,
-        "roadnr":"A214"
-    },
-    {
-        "siteid":"10\/000737\/",
-        "longitude":-0.1822843206,
-        "latitude":51.4642199669,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A3205"
-    },
-    {
-        "siteid":"10\/000738\/",
-        "longitude":-0.2438063609,
-        "latitude":51.4620540528,
-        "signtext":null,
-        "roadnr":"A306"
-    },
-    {
-        "siteid":"10\/000740\/",
-        "longitude":-0.1504633926,
-        "latitude":51.4319245179,
-        "signtext":null,
-        "roadnr":"A214"
-    },
-    {
-        "siteid":"11\/000702\/",
-        "longitude":-0.2431407965,
-        "latitude":51.5143632017,
-        "signtext":null,
-        "roadnr":"A40"
-    },
-    {
-        "siteid":"11\/000703\/",
-        "longitude":-0.2398448713,
-        "latitude":51.4914472581,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"11\/000704\/",
-        "longitude":-0.2117093384,
-        "latitude":51.4907024402,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"11\/000705\/",
-        "longitude":-0.243727938,
-        "latitude":51.4904935576,
-        "signtext":null,
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"11\/000716\/",
-        "longitude":-0.2029592436,
-        "latitude":51.4916600158,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"11\/000718\/",
-        "longitude":-0.2126665832,
-        "latitude":51.4946499824,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":null
-    },
-    {
-        "siteid":"14\/000721\/",
-        "longitude":0.0934394195,
-        "latitude":51.5754207265,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A12"
-    },
-    {
-        "siteid":"14\/000722\/",
-        "longitude":0.0886008447,
-        "latitude":51.5745414074,
-        "signtext":"WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-        "roadnr":"A12"
-    },
-    {
-        "siteid":"14\/000734\/",
-        "longitude":0.0529815151,
-        "latitude":51.5868458148,
-        "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
-        "roadnr":"A1400"
-    },
-    {
-        "siteid":"14\/000736\/",
-        "longitude":0.0331835475,
-        "latitude":51.5944565306,
-        "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"14\/000737\/",
-        "longitude":0.0398481826,
-        "latitude":51.5856270297,
-        "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"14\/000739\/",
-        "longitude":0.0390564325,
-        "latitude":51.5940578812,
-        "signtext":"11 JAN-30 APR |A406 W\/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"15\/000717\/",
-        "longitude":0.1939575262,
-        "latitude":51.595511528,
-        "signtext":null,
-        "roadnr":"A12"
-    },
-    {
-        "siteid":"16\/000713\/",
-        "longitude":0.0842048071,
-        "latitude":51.5284452434,
-        "signtext":null,
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"17\/000720\/",
-        "longitude":-0.0023532148,
-        "latitude":51.5377299986,
-        "signtext":"4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS",
-        "roadnr":"A118"
-    },
-    {
-        "siteid":"17\/000722\/",
-        "longitude":0.0490443799,
-        "latitude":51.5198472144,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"17\/000725\/",
-        "longitude":0.0667096827,
-        "latitude":51.5231973043,
-        "signtext":"2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128",
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"17\/000726\/",
-        "longitude":0.0761684641,
-        "latitude":51.5260967782,
-        "signtext":"31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-        "roadnr":"A13"
-    },
-    {
-        "siteid":"18\/000725\/",
-        "longitude":0.1005110395,
-        "latitude":51.4526658308,
-        "signtext":null,
-        "roadnr":"A2"
-    },
-    {
-        "siteid":"19\/000720\/",
-        "longitude":0.0576696923,
-        "latitude":51.3631305497,
-        "signtext":null,
-        "roadnr":"A21"
-    },
-    {
-        "siteid":"19\/000723\/",
-        "longitude":0.047915415,
-        "latitude":51.3669618863,
-        "signtext":null,
-        "roadnr":"A232"
-    },
-    {
-        "siteid":"19\/000727\/",
-        "longitude":0.126079869,
-        "latitude":51.3464140625,
-        "signtext":null,
-        "roadnr":"A21"
-    },
-    {
-        "siteid":"19\/000728\/",
-        "longitude":-0.0068012673,
-        "latitude":51.3733553606,
-        "signtext":null,
-        "roadnr":"A232"
-    },
-    {
-        "siteid":"19\/000729\/",
-        "longitude":-0.0043777611,
-        "latitude":51.3725856797,
-        "signtext":null,
-        "roadnr":"A232"
-    },
-    {
-        "siteid":"20\/000723\/T",
-        "longitude":-0.1192135526,
-        "latitude":51.3755646977,
-        "signtext":null,
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"20\/000724\/T",
-        "longitude":-0.1156874681,
-        "latitude":51.3549367876,
-        "signtext":null,
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"20\/000725\/",
-        "longitude":-0.1158549041,
-        "latitude":51.3537752789,
-        "signtext":null,
-        "roadnr":"A23"
-    },
-    {
-        "siteid":"21\/000707\/",
-        "longitude":-0.1231422847,
-        "latitude":51.3676871287,
-        "signtext":null,
-        "roadnr":"A232"
-    },
-    {
-        "siteid":"21\/000709\/",
-        "longitude":-0.2144243008,
-        "latitude":51.3632777465,
-        "signtext":null,
-        "roadnr":"A217"
-    },
-    {
-        "siteid":"21\/000710\/",
-        "longitude":-0.2105191209,
-        "latitude":51.3591714715,
-        "signtext":null,
-        "roadnr":"A232"
-    },
-    {
-        "siteid":"22\/000711\/",
-        "longitude":-0.1978342878,
-        "latitude":51.3804424511,
-        "signtext":null,
-        "roadnr":"A217"
-    },
-    {
-        "siteid":"22\/000714\/",
-        "longitude":-0.2379840036,
-        "latitude":51.4006569239,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
-        "roadnr":null
-    },
-    {
-        "siteid":"22\/000715\/",
-        "longitude":-0.2316959145,
-        "latitude":51.4093749123,
-        "signtext":null,
-        "roadnr":"A238"
-    },
-    {
-        "siteid":"22\/000716\/",
-        "longitude":-0.2256031145,
-        "latitude":51.4070436747,
-        "signtext":null,
-        "roadnr":"A289"
-    },
-    {
-        "siteid":"23\/000723\/",
-        "longitude":-0.3119769745,
-        "latitude":51.3552387295,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
-        "roadnr":"A243"
-    },
-    {
-        "siteid":"23\/000724\/",
-        "longitude":-0.3221275401,
-        "latitude":51.3338724917,
-        "signtext":null,
-        "roadnr":"A243"
-    },
-    {
-        "siteid":"23\/000725\/",
-        "longitude":-0.2746445892,
-        "latitude":51.3735054034,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
-        "roadnr":"A240"
-    },
-    {
-        "siteid":"23\/000726\/",
-        "longitude":-0.2741421654,
-        "latitude":51.3731113237,
-        "signtext":null,
-        "roadnr":"A240"
-    },
-    {
-        "siteid":"23\/000776\/",
-        "longitude":-0.2479195399,
-        "latitude":51.3821823061,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
-        "roadnr":"A2043"
-    },
-    {
-        "siteid":"24\/000709\/",
-        "longitude":-0.2546057665,
-        "latitude":51.4652591807,
-        "signtext":null,
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"24\/000710\/",
-        "longitude":-0.3566240607,
-        "latitude":51.4473876394,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A316"
-    },
-    {
-        "siteid":"24\/000713\/T",
-        "longitude":-0.2764865463,
-        "latitude":51.4728365047,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"25\/000711\/",
-        "longitude":-0.2920124013,
-        "latitude":51.4913994246,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"25\/000712\/",
-        "longitude":-0.4054467895,
-        "latitude":51.4746416373,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"25\/000713\/",
-        "longitude":-0.4099236885,
-        "latitude":51.4943069965,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"25\/000717\/",
-        "longitude":-0.2820757584,
-        "latitude":51.4957681912,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"25\/000718\/",
-        "longitude":-0.2864791024,
-        "latitude":51.489753764,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A205"
-    },
-    {
-        "siteid":"25\/000719\/",
-        "longitude":-0.37740075,
-        "latitude":51.4772018053,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"25\/000720\/",
-        "longitude":-0.3683158923,
-        "latitude":51.4786913957,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"25\/000725\/",
-        "longitude":-0.3694483596,
-        "latitude":51.4404627394,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A316"
-    },
-    {
-        "siteid":"25\/000728\/",
-        "longitude":-0.3851859986,
-        "latitude":51.4393407153,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"25\/000735\/",
-        "longitude":-0.4104679421,
-        "latitude":51.4856997956,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"26\/000712\/",
-        "longitude":-0.4531261656,
-        "latitude":51.4724398051,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":null
-    },
-    {
-        "siteid":"26\/000713\/",
-        "longitude":-0.45233443,
-        "latitude":51.4878401471,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":null
-    },
-    {
-        "siteid":"26\/000720\/",
-        "longitude":-0.4709486484,
-        "latitude":51.4817290685,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"26\/000721\/",
-        "longitude":-0.4713709193,
-        "latitude":51.4815906981,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A4"
-    },
-    {
-        "siteid":"26\/000724\/",
-        "longitude":-0.3896179871,
-        "latitude":51.5321390595,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"26\/000725\/",
-        "longitude":-0.3902517366,
-        "latitude":51.5321567492,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A312"
-    },
-    {
-        "siteid":"27\/000707\/",
-        "longitude":-0.26802703,
-        "latitude":51.5243371454,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A40"
-    },
-    {
-        "siteid":"27\/000710\/",
-        "longitude":-0.2924408756,
-        "latitude":51.5271859361,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"27\/000715\/",
-        "longitude":-0.2881314988,
-        "latitude":51.502707123,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"27\/000718\/",
-        "longitude":-0.4566452668,
-        "latitude":51.5551515942,
-        "signtext":"A406 N\/BND   |JCT POPES LANE |   ACCIDENT    |USE OTHER ROUTE",
-        "roadnr":"A40"
-    },
-    {
-        "siteid":"28\/000701\/",
-        "longitude":-0.2344237202,
-        "latitude":51.5327310108,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A404"
-    },
-    {
-        "siteid":"28\/000712\/T",
-        "longitude":-0.2478932526,
-        "latitude":51.5663768845,
-        "signtext":"NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E\/B   | WEEKENDS ONLY",
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"30\/000734\/",
-        "longitude":-0.1768159467,
-        "latitude":51.5994892605,
-        "signtext":null,
-        "roadnr":"A406"
-    },
-    {
-        "siteid":"31\/000706\/",
-        "longitude":-0.0638890486,
-        "latitude":51.5854869509,
-        "signtext":null,
-        "roadnr":"A10"
-    },
-    {
-        "siteid":"31\/000708\/",
-        "longitude":-0.1426451857,
-        "latitude":51.5750027779,
-        "signtext":"MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W\/B   | WEEKENDS ONLY",
-        "roadnr":"A1"
-    },
-    {
-        "siteid":"32\/000730\/",
-        "longitude":-0.0528241578,
-        "latitude":51.675417216,
-        "signtext":null,
-        "roadnr":"A10"
-    },
-    {
-        "siteid":"32\/000733\/",
-        "longitude":-0.0294340126,
-        "latitude":51.6504777311,
-        "signtext":null,
-        "roadnr":"A1055"
-    },
-    {
-        "siteid":"32\/000734\/",
-        "longitude":-0.0529047109,
-        "latitude":51.6742135714,
-        "signtext":null,
-        "roadnr":"A10"
-    },
-    {
-        "siteid":"39\/000702\/",
-        "longitude":-0.358121635,
-        "latitude":51.3744789959,
-        "signtext":"EWELL ROAD\/ OAK| HILL CRESCENT |  ROAD CLOSED  |USE OTHER ROUTE",
-        "roadnr":"A307"
-    },
-    {
-        "siteid":"49\/000701\/",
-        "longitude":0.325882632,
-        "latitude":51.5758812729,
-        "signtext":null,
-        "roadnr":"A127"
-    }
+  {
+    "lat": 51.50953,
+    "lon": -0.085427,
+    "siteid": "VMS_00/000705/",
+    "roadnr": "A3211",
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.523701,
+    "lon": -0.146135,
+    "siteid": "VMS_01/000707/",
+    "roadnr": "A501",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.523959,
+    "lon": -0.145805,
+    "siteid": "VMS_01/000708/",
+    "roadnr": "A501",
+    "signtext": "CLERKENWELL RD | CLOSED E/B AT |GRAYS INN ROAD | EXPECT DELAYS ",
+    "modified": "2022-01-25T08:42:32.5Z"
+  }
+]
+[
+  {
+    "lat": 51.524054,
+    "lon": -0.175808,
+    "siteid": "VMS_01/000728/",
+    "roadnr": "A5",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.488805,
+    "lon": -0.1302,
+    "siteid": "VMS_01/000775/",
+    "roadnr": "A202",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.540523,
+    "lon": -0.175411,
+    "siteid": "VMS_02/000701/",
+    "roadnr": "A41",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.554201,
+    "lon": -0.114061,
+    "siteid": "VMS_03/000723/",
+    "roadnr": "",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.513303,
+    "lon": -0.043819,
+    "siteid": "VMS_05/000703/",
+    "roadnr": "A13",
+    "signtext": " BARKING ROAD  |J/W HERMIT ROAD|  ROAD CLOSED  |  BURST MAIN   ",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.510438,
+    "lon": -0.044,
+    "siteid": "VMS_05/000704/",
+    "roadnr": "",
+    "signtext": " BARKING ROAD  |J/W HERMIT ROAD|  ROAD CLOSED  |  BURST MAIN   ",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.518818,
+    "lon": -0.060741,
+    "siteid": "VMS_05/000709/",
+    "roadnr": "A11",
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.514124,
+    "lon": -0.051737,
+    "siteid": "VMS_05/000712/",
+    "roadnr": "A13",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.516434,
+    "lon": -0.072684,
+    "siteid": "VMS_05/000738/",
+    "roadnr": "",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.513253,
+    "lon": -0.07008,
+    "siteid": "VMS_05/000739/",
+    "roadnr": "A1202",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.509869,
+    "lon": -0.049803,
+    "siteid": "VMS_05/000742/",
+    "roadnr": "A1203",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T15:42:59.67Z"
+  }
+]
+[
+  {
+    "lat": 51.459329,
+    "lon": 0.046783,
+    "siteid": "VMS_06/000701/",
+    "roadnr": "",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T19:43:01.037Z"
+  }
+]
+[
+  {
+    "lat": 51.478136,
+    "lon": 0.05833,
+    "siteid": "VMS_06/000702/",
+    "roadnr": "A205",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T19:43:01.037Z"
+  }
+]
+[
+  {
+    "lat": 51.469116,
+    "lon": 0.054329,
+    "siteid": "VMS_06/000703/",
+    "roadnr": "A205",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T15:42:59.67Z"
+  }
+]
+[
+  {
+    "lat": 51.494986,
+    "lon": 0.008296,
+    "siteid": "VMS_06/000705/",
+    "roadnr": "",
+    "signtext": "",
+    "modified": "2022-01-25T10:42:44.91Z"
+  }
+]
+[
+  {
+    "lat": 51.498109,
+    "lon": 0.001842,
+    "siteid": "VMS_06/000713/",
+    "roadnr": "A102",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.445494,
+    "lon": 0.03111,
+    "siteid": "VMS_06/000714/",
+    "roadnr": "A20",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T20:43:10.797Z"
+  }
+]
+[
+  {
+    "lat": 51.479467,
+    "lon": 0.021742,
+    "siteid": "VMS_06/000721/",
+    "roadnr": "A102",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T15:42:59.67Z"
+  }
+]
+[
+  {
+    "lat": 51.446736,
+    "lon": 0.016382,
+    "siteid": "VMS_07/000708/",
+    "roadnr": "A205",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T19:43:01.037Z"
+  }
+]
+[
+  {
+    "lat": 51.442336,
+    "lon": -0.037025,
+    "siteid": "VMS_07/000710/T",
+    "roadnr": "A205",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.494313,
+    "lon": -0.088672,
+    "siteid": "VMS_08/000704/",
+    "roadnr": "A201",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.494057,
+    "lon": -0.090584,
+    "siteid": "VMS_08/000705/",
+    "roadnr": "A201",
+    "signtext": " 22 NOV-04 FEB |  WESTMINSTER  | BRIDGE-WORKS  | EXPECT DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.476878,
+    "lon": -0.099856,
+    "siteid": "VMS_08/000711/",
+    "roadnr": "A202",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.423493,
+    "lon": -0.130079,
+    "siteid": "VMS_09/000704/",
+    "roadnr": "A23",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.447822,
+    "lon": -0.132249,
+    "siteid": "VMS_09/000713/T",
+    "roadnr": "A205",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.44306,
+    "lon": -0.116772,
+    "siteid": "VMS_09/000714/T",
+    "roadnr": "A205",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.458138,
+    "lon": -0.117692,
+    "siteid": "VMS_09/000716/",
+    "roadnr": "A23",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.449775,
+    "lon": -0.122785,
+    "siteid": "VMS_09/000717/",
+    "roadnr": "A23",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.458251,
+    "lon": -0.142288,
+    "siteid": "VMS_09/000724/",
+    "roadnr": "A24",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.468574,
+    "lon": -0.112367,
+    "siteid": "VMS_09/000747/",
+    "roadnr": "A23",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.492487,
+    "lon": -0.101339,
+    "siteid": "VMS_09/000748/",
+    "roadnr": "",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.447756,
+    "lon": -0.148809,
+    "siteid": "VMS_10/000701/",
+    "roadnr": "A24",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.441478,
+    "lon": -0.243061,
+    "siteid": "VMS_10/000702/",
+    "roadnr": "A3",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.458809,
+    "lon": -0.155969,
+    "siteid": "VMS_10/000710/",
+    "roadnr": "A205",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.45849,
+    "lon": -0.175282,
+    "siteid": "VMS_10/000711/",
+    "roadnr": "A3",
+    "signtext": "",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.441021,
+    "lon": -0.24315,
+    "siteid": "VMS_10/000716/T",
+    "roadnr": "A3",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.452269,
+    "lon": -0.2146,
+    "siteid": "VMS_10/000718/",
+    "roadnr": "A3",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.444501,
+    "lon": -0.168547,
+    "siteid": "VMS_10/000720/",
+    "roadnr": "A214",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.46422,
+    "lon": -0.182269,
+    "siteid": "VMS_10/000737/",
+    "roadnr": "A3205",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T04:45:53.027Z"
+  }
+]
+[
+  {
+    "lat": 51.462054,
+    "lon": -0.243792,
+    "siteid": "VMS_10/000738/",
+    "roadnr": "A306",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.431924,
+    "lon": -0.150449,
+    "siteid": "VMS_10/000740/",
+    "roadnr": "A214",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.514363,
+    "lon": -0.243126,
+    "siteid": "VMS_11/000702/",
+    "roadnr": "A40",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.491447,
+    "lon": -0.23983,
+    "siteid": "VMS_11/000703/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.490702,
+    "lon": -0.211694,
+    "siteid": "VMS_11/000704/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.490493,
+    "lon": -0.243713,
+    "siteid": "VMS_11/000705/",
+    "roadnr": "A4",
+    "signtext": "",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.49166,
+    "lon": -0.202944,
+    "siteid": "VMS_11/000716/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.49465,
+    "lon": -0.212652,
+    "siteid": "VMS_11/000718/",
+    "roadnr": "",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.57542,
+    "lon": 0.093453,
+    "siteid": "VMS_14/000721/",
+    "roadnr": "A12",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T15:42:59.67Z"
+  }
+]
+[
+  {
+    "lat": 51.574541,
+    "lon": 0.088615,
+    "siteid": "VMS_14/000722/",
+    "roadnr": "A12",
+    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-25T15:42:59.67Z"
+  }
+]
+[
+  {
+    "lat": 51.586845,
+    "lon": 0.052995,
+    "siteid": "VMS_14/000734/",
+    "roadnr": "A1400",
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.594456,
+    "lon": 0.033197,
+    "siteid": "VMS_14/000736/",
+    "roadnr": "A406",
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.585626,
+    "lon": 0.039862,
+    "siteid": "VMS_14/000737/",
+    "roadnr": "A406",
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.594057,
+    "lon": 0.03907,
+    "siteid": "VMS_14/000739/",
+    "roadnr": "A406",
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-25T11:42:50.293Z"
+  }
+]
+[
+  {
+    "lat": 51.595511,
+    "lon": 0.193971,
+    "siteid": "VMS_15/000717/",
+    "roadnr": "A12",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.528445,
+    "lon": 0.084219,
+    "siteid": "VMS_16/000713/",
+    "roadnr": "A13",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.537729,
+    "lon": -0.002338,
+    "siteid": "VMS_17/000720/",
+    "roadnr": "A118",
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-01-26T07:45:55.203Z"
+  }
+]
+[
+  {
+    "lat": 51.519847,
+    "lon": 0.049058,
+    "siteid": "VMS_17/000722/",
+    "roadnr": "A13",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.523197,
+    "lon": 0.066724,
+    "siteid": "VMS_17/000725/",
+    "roadnr": "A13",
+    "signtext": " 2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128 ",
+    "modified": "2022-01-26T08:45:58.293Z"
+  }
+]
+[
+  {
+    "lat": 51.526096,
+    "lon": 0.076182,
+    "siteid": "VMS_17/000726/",
+    "roadnr": "A13",
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-26T08:45:58.293Z"
+  }
+]
+[
+  {
+    "lat": 51.452665,
+    "lon": 0.100525,
+    "siteid": "VMS_18/000725/",
+    "roadnr": "A2",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.36313,
+    "lon": 0.057684,
+    "siteid": "VMS_19/000720/",
+    "roadnr": "A21",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.366961,
+    "lon": 0.047929,
+    "siteid": "VMS_19/000723/",
+    "roadnr": "A232",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.346413,
+    "lon": 0.126094,
+    "siteid": "VMS_19/000727/",
+    "roadnr": "A21",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.373355,
+    "lon": -0.006786,
+    "siteid": "VMS_19/000728/",
+    "roadnr": "A232",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.372585,
+    "lon": -0.004363,
+    "siteid": "VMS_19/000729/",
+    "roadnr": "A232",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.375564,
+    "lon": -0.119199,
+    "siteid": "VMS_20/000723/T",
+    "roadnr": "A23",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.354936,
+    "lon": -0.115673,
+    "siteid": "VMS_20/000724/T",
+    "roadnr": "A23",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.353775,
+    "lon": -0.11584,
+    "siteid": "VMS_20/000725/",
+    "roadnr": "A23",
+    "signtext": "",
+    "modified": "2022-01-26T01:43:16.227Z"
+  }
+]
+[
+  {
+    "lat": 51.367687,
+    "lon": -0.123127,
+    "siteid": "VMS_21/000707/",
+    "roadnr": "A232",
+    "signtext": "",
+    "modified": "2022-01-26T01:43:16.227Z"
+  }
+]
+[
+  {
+    "lat": 51.363278,
+    "lon": -0.214409,
+    "siteid": "VMS_21/000709/",
+    "roadnr": "A217",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.359171,
+    "lon": -0.210504,
+    "siteid": "VMS_21/000710/",
+    "roadnr": "A232",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.380442,
+    "lon": -0.197819,
+    "siteid": "VMS_22/000711/",
+    "roadnr": "A217",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.400657,
+    "lon": -0.237969,
+    "siteid": "VMS_22/000714/",
+    "roadnr": "",
+    "signtext": "",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.409375,
+    "lon": -0.231681,
+    "siteid": "VMS_22/000715/",
+    "roadnr": "A238",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.407044,
+    "lon": -0.225588,
+    "siteid": "VMS_22/000716/",
+    "roadnr": "A289",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.355239,
+    "lon": -0.311962,
+    "siteid": "VMS_23/000723/",
+    "roadnr": "A243",
+    "signtext": "",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.333873,
+    "lon": -0.322113,
+    "siteid": "VMS_23/000724/",
+    "roadnr": "A243",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.373505,
+    "lon": -0.27463,
+    "siteid": "VMS_23/000725/",
+    "roadnr": "A240",
+    "signtext": "",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.373111,
+    "lon": -0.274127,
+    "siteid": "VMS_23/000726/",
+    "roadnr": "A240",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.382182,
+    "lon": -0.247905,
+    "siteid": "VMS_23/000776/",
+    "roadnr": "A2043",
+    "signtext": "",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.465259,
+    "lon": -0.254591,
+    "siteid": "VMS_24/000709/",
+    "roadnr": "A205",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.447388,
+    "lon": -0.356609,
+    "siteid": "VMS_24/000710/",
+    "roadnr": "A316",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.472836,
+    "lon": -0.276472,
+    "siteid": "VMS_24/000713/T",
+    "roadnr": "A205",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.491399,
+    "lon": -0.291998,
+    "siteid": "VMS_25/000711/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.474642,
+    "lon": -0.405432,
+    "siteid": "VMS_25/000712/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.494307,
+    "lon": -0.409909,
+    "siteid": "VMS_25/000713/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.495768,
+    "lon": -0.282061,
+    "siteid": "VMS_25/000717/",
+    "roadnr": "A406",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.489754,
+    "lon": -0.286464,
+    "siteid": "VMS_25/000718/",
+    "roadnr": "A205",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.477202,
+    "lon": -0.377386,
+    "siteid": "VMS_25/000719/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.478692,
+    "lon": -0.368301,
+    "siteid": "VMS_25/000720/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.440463,
+    "lon": -0.369434,
+    "siteid": "VMS_25/000725/",
+    "roadnr": "A316",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.439341,
+    "lon": -0.385171,
+    "siteid": "VMS_25/000728/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.4857,
+    "lon": -0.410453,
+    "siteid": "VMS_25/000735/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.47244,
+    "lon": -0.453111,
+    "siteid": "VMS_26/000712/",
+    "roadnr": "",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.48784,
+    "lon": -0.45232,
+    "siteid": "VMS_26/000713/",
+    "roadnr": "",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.481729,
+    "lon": -0.470934,
+    "siteid": "VMS_26/000720/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.481591,
+    "lon": -0.471356,
+    "siteid": "VMS_26/000721/",
+    "roadnr": "A4",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.532139,
+    "lon": -0.389603,
+    "siteid": "VMS_26/000724/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.532157,
+    "lon": -0.390237,
+    "siteid": "VMS_26/000725/",
+    "roadnr": "A312",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.524337,
+    "lon": -0.268012,
+    "siteid": "VMS_27/000707/",
+    "roadnr": "A40",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.527186,
+    "lon": -0.292426,
+    "siteid": "VMS_27/000710/",
+    "roadnr": "A406",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.502707,
+    "lon": -0.288117,
+    "siteid": "VMS_27/000715/",
+    "roadnr": "A406",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-26T17:46:33.577Z"
+  }
+]
+[
+  {
+    "lat": 51.555152,
+    "lon": -0.45663,
+    "siteid": "VMS_27/000718/",
+    "roadnr": "A40",
+    "signtext": " NOV 21 - MAR 2|2  A40 WESTWAY |CLOSEDE/B WEEKE|NDS ONLY ",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.532731,
+    "lon": -0.234409,
+    "siteid": "VMS_28/000701/",
+    "roadnr": "A404",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.566377,
+    "lon": -0.247878,
+    "siteid": "VMS_28/000712/T",
+    "roadnr": "A406",
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T14:41:55.1Z"
+  }
+]
+[
+  {
+    "lat": 51.599489,
+    "lon": -0.176801,
+    "siteid": "VMS_30/000734/",
+    "roadnr": "A406",
+    "signtext": "",
+    "modified": "2022-01-25T21:43:05.33Z"
+  }
+]
+[
+  {
+    "lat": 51.585487,
+    "lon": -0.063874,
+    "siteid": "VMS_31/000706/",
+    "roadnr": "A10",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.575003,
+    "lon": -0.14263,
+    "siteid": "VMS_31/000708/",
+    "roadnr": "A1",
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.675417,
+    "lon": -0.052809,
+    "siteid": "VMS_32/000730/",
+    "roadnr": "A10",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.650477,
+    "lon": -0.029419,
+    "siteid": "VMS_32/000733/",
+    "roadnr": "A1055",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
+]
+[
+  {
+    "lat": 51.674213,
+    "lon": -0.05289,
+    "siteid": "VMS_32/000734/",
+    "roadnr": "A10",
+    "signtext": "",
+    "modified": "2022-01-26T09:46:14.987Z"
+  }
+]
+[
+  {
+    "lat": 51.374479,
+    "lon": -0.358107,
+    "siteid": "VMS_39/000702/",
+    "roadnr": "A307",
+    "signtext": "",
+    "modified": "2022-01-26T13:46:16.583Z"
+  }
+]
+[
+  {
+    "lat": 51.57588,
+    "lon": 0.325897,
+    "siteid": "VMS_49/000701/",
+    "roadnr": "A127",
+    "signtext": "",
+    "modified": "2022-01-24T12:41:51.243Z"
+  }
 ]
