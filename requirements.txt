@@ -1,5 +1,2 @@
-pandas
-lxml
 git-history
 datasette-publish-vercel
-pyproj
