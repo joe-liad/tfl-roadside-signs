@@ -1,0 +1,52 @@
+name: Scrape latest data
+ 
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
+ 
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check out this repo
+      uses: actions/checkout@v2
+
+    - name: Fetch latest data
+      run: |-
+        curl https://api.tfl.gov.uk/Place/Type/VariableMessageSign | jq '
+        . | map(.["siteid"] = .id  | .["roadnr"] = .commonName
+        | .["signtext"] = .additionalProperties[].value
+        | .["modified"] = .additionalProperties[].modified
+        | del(.url, ."$type", .id, .commonName, .placeType, .additionalProperties, .children, .childrenUrls ))' \
+        > signs.json
+
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+    
+    - name: Install Python Dependencies
+      run: pip install -r ./requirements.txt
+      
+    - name: Build git-history
+      run: |-
+        git-history file tfl-roadside-signs-history.db signs.json --id siteid --namespace sign
+    
+    - name: Deploy Datasette using Vercel
+      env:
+        # NOW_TOKEN github secret must exist to create $NOW_TOKEN env var used later
+        NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+      run: |-
+        datasette publish vercel tfl-roadside-signs-history.db \
+          --install datasette-cluster-map \
+          --install datasette-vega \
+          --metadata metadata.json \
+          --token $NOW_TOKEN \
+          --project lewisham-tfl-roadside-signs-history

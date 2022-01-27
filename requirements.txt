@@ -1,0 +1,2 @@
+git-history
+datasette-publish-vercel
