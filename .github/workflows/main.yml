@@ -10,21 +10,19 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-    
+
     - name: Check out this repo
       uses: actions/checkout@v2
-    
+
     - name: Fetch latest data
       run: |-
         curl https://api.tfl.gov.uk/Place/Type/VariableMessageSign | jq '
-        .[] | .["siteid"] = .id
-        | .["roadnr"] = .commonName
+        . | map(.["siteid"] = .id  | .["roadnr"] = .commonName
         | .["signtext"] = .additionalProperties[].value
         | .["modified"] = .additionalProperties[].modified
-        | del(.url, ."$type", .id, .commonName, .placeType, .additionalProperties[]."$type", .additionalProperties[].category, .additionalProperties[].sourceSystemKey, .additionalProperties[].key, .additionalProperties[].value, .additionalProperties[].modified )
-        | [ [leaf_paths as $path | {"key": $path | join("_"), "value": getpath($path)}] | from_entries ]' \
+        | del(.url, ."$type", .id, .commonName, .placeType, .additionalProperties, .children, .childrenUrls ))' \
         > signs.json
-        
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
