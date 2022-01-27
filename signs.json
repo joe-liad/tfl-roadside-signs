@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " BARKING ROAD  |J/W HERMIT ROAD|  ROAD CLOSED  |  BURST MAIN   ",
-    "modified": "2022-01-26T13:46:16.583Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": " BARKING ROAD  |J/W HERMIT ROAD|  ROAD CLOSED  |  BURST MAIN   ",
-    "modified": "2022-01-26T13:46:16.583Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.518818,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.513253,
@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T15:42:59.67Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T19:43:01.037Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T19:43:01.037Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T15:42:59.67Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.494986,
@@ -156,24 +156,24 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T20:43:10.797Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T15:42:59.67Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T19:43:01.037Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T15:42:59.67Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  WEDS 26 JAN  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-25T15:42:59.67Z"
+    "signtext": "THURS 27TH JAN |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.586845,
@@ -468,16 +468,16 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-01-26T07:45:55.203Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.519847,
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.523197,
@@ -492,8 +492,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-26T08:45:58.293Z"
+    "signtext": "   BLACKWALL   | TUNNEL CLOSED |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.452665,
@@ -556,8 +556,8 @@
     "lon": -0.115673,
     "siteid": "VMS_20/000724/T",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  A23 PURLEY   |   CROSS E/B   |B/DOWN VEHICLE | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.353775,
@@ -572,8 +572,8 @@
     "lon": -0.123127,
     "siteid": "VMS_21/000707/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-01-26T01:43:16.227Z"
+    "signtext": "  A23 PURLEY   |   CROSS E/B   |B/DOWN VEHICLE | EXPECT DELAYS ",
+    "modified": "2022-01-27T08:47:14.913Z"
   },
   {
     "lat": 51.363278,
