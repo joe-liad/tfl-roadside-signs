@@ -6,7 +6,7 @@ _history of changes on tfl variable message signs_
 
 ...with a [github action](./.github/workflows/main.yml) running every twenty minutes:
 
-1. use cURL to fetch variable message [sign feed](https://api.tfl.gov.uk/Place/Type/VariableMessageSign)and save to [signs.json](./signs.json)
+1. use cURL to fetch variable message [sign feed](https://api.tfl.gov.uk/Place/Type/VariableMessageSign) and save to [signs.json](./signs.json)
 2. commit the json if the data has changed since the last run
 3. create a [git-history](https://github.com/simonw/git-history) database/api with [datasette](https://datasette.io) 
 4. publish to [vercel](https://lewisham-tfl-roadside-signs-history.vercel.app/tfl-roadside-signs-history)
