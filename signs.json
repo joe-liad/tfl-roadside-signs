@@ -28,16 +28,16 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  PICCADILLY   |CLOSED E/BOUND |POLICE INCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-27T14:47:41.44Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  PICCADILLY   |CLOSED E/BOUND |POLICE INCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-27T14:47:41.44Z"
   },
   {
     "lat": 51.540523,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  PICCADILLY   |CLOSED E/BOUND |POLICE INCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-27T14:47:41.44Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  PICCADILLY   |CLOSED E/BOUND |POLICE INCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-27T14:47:41.44Z"
   },
   {
     "lat": 51.57542,
@@ -844,8 +844,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": " NOV 21 - MAR 2|2  A40 WESTWAY |CLOSEDE/B WEEKE|NDS ONLY ",
-    "modified": "2022-01-26T13:46:16.583Z"
+    "signtext": "",
+    "modified": "2022-01-27T14:47:41.44Z"
   },
   {
     "lat": 51.532731,
