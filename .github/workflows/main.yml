@@ -32,6 +32,9 @@ jobs:
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
     
+    - name: Install Python Dependencies
+      run: pip install -r ./requirements.txt
+      
     - name: Build git-history
       run: |-
         git-history file tfl-roadside-signs-history.db signs.json --id siteid --namespace sign
