@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.523959,
@@ -28,24 +28,24 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.540523,
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.554201,
@@ -356,8 +356,8 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": "",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.491447,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.57542,
@@ -412,8 +412,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.586845,
@@ -484,16 +484,16 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "               |WOOLWICH FERRY |  NO SERVICE   |               ",
-    "modified": "2022-01-28T07:49:41.513Z"
+    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "               |WOOLWICH FERRY |  NO SERVICE   |               ",
-    "modified": "2022-01-28T07:49:41.513Z"
+    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.452665,
@@ -828,16 +828,16 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.555152,
@@ -852,8 +852,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": "   WESTWAY/    |  PADDINGTON   |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-28T14:50:31.603Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-28T16:50:55.617Z"
   },
   {
     "lat": 51.566377,
