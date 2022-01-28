@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.518818,
@@ -84,8 +84,8 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.516434,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.459329,
@@ -356,8 +356,8 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.491447,
@@ -812,8 +812,8 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.524337,
@@ -828,24 +828,24 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.555152,
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-01-27T14:47:41.44Z"
+    "signtext": "A40 WESTWAY CLO|SEDEASTBOUND - |WORKS  USE OTHE|R ROUTE  ",
+    "modified": "2022-01-28T22:51:10.233Z"
   },
   {
     "lat": 51.532731,
