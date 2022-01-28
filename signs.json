@@ -412,8 +412,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": "",
+    "modified": "2022-01-28T19:51:00.653Z"
   },
   {
     "lat": 51.586845,
@@ -484,16 +484,16 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": " 2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128 ",
+    "modified": "2022-01-28T19:51:00.653Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "    M11 N/B    | AT A406 SPLIT | VEHICLE FIRE  | EXPECT DELAYS ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T19:51:00.653Z"
   },
   {
     "lat": 51.452665,
