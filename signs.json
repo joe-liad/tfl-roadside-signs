@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL|  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.510438,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL|  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "ROTHERHITHE TNL|  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.513253,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "ROTHERHITHE TNL|  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.459329,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": "ROTHERHITHE TUN|    CLOSED     |BROKEN DOWN VEH|USE ALT ROUTES ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.494057,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TUN|    CLOSED     |BROKEN DOWN VEH|USE ALT ROUTES ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-28T11:50:28.143Z"
   },
   {
     "lat": 51.523197,
