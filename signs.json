@@ -684,8 +684,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-26T17:46:33.577Z"
+    "signtext": "A4/SUTTON COURT| RD EASTBOUND  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-01-28T09:49:28.73Z"
   },
   {
     "lat": 51.491399,
@@ -716,16 +716,16 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "A4/SUTTON COURT| RD EASTBOUND  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-01-28T09:49:28.73Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-26T17:46:33.577Z"
+    "signtext": "A4/SUTTON COURT| RD EASTBOUND  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-01-28T09:49:28.73Z"
   },
   {
     "lat": 51.477202,
@@ -740,8 +740,8 @@
     "lon": -0.368301,
     "siteid": "VMS_25/000720/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-26T17:46:33.577Z"
+    "signtext": "A4/SUTTON COURT| RD EASTBOUND  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-01-28T09:49:28.73Z"
   },
   {
     "lat": 51.440463,
@@ -900,8 +900,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "  MONTAGU RD/  | CONDUIT LANE  |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-01-28T08:49:25.297Z"
+    "signtext": "",
+    "modified": "2022-01-28T09:49:28.73Z"
   },
   {
     "lat": 51.674213,
