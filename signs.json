@@ -164,8 +164,8 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "    CAUTION    |  QUEUE AFTER  | NEXT JUNCTION |               ",
-    "modified": "2022-01-28T13:50:36.317Z"
+    "signtext": "",
+    "modified": "2022-01-28T20:50:47.297Z"
   },
   {
     "lat": 51.446736,
@@ -868,8 +868,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-01-25T21:43:05.33Z"
+    "signtext": " A406 SOUTHEND |ROAD E/B AFTER | M11 ACCIDENT  | EXPECT DELAYS ",
+    "modified": "2022-01-28T20:50:47.297Z"
   },
   {
     "lat": 51.585487,
@@ -908,8 +908,8 @@
     "lon": -0.05289,
     "siteid": "VMS_32/000734/",
     "roadnr": "A10",
-    "signtext": "",
-    "modified": "2022-01-26T09:46:14.987Z"
+    "signtext": " A406 SOUTHEND |ROAD E/B AFTER | M11 ACCIDENT  | EXPECT DELAYS ",
+    "modified": "2022-01-28T20:50:47.297Z"
   },
   {
     "lat": 51.374479,
