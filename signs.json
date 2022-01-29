@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-29T03:51:11.347Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " 2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128 ",
+    "modified": "2022-01-29T03:51:11.347Z"
   },
   {
     "lat": 51.518818,
@@ -84,8 +84,8 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-29T03:51:11.347Z"
   },
   {
     "lat": 51.516434,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "A13 E/B OFFSLIP|TO A406 BECKTON|CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": "",
+    "modified": "2022-01-29T03:51:11.347Z"
   },
   {
     "lat": 51.459329,
@@ -828,8 +828,8 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-29T03:51:11.347Z"
   },
   {
     "lat": 51.502707,
