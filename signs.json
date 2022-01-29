@@ -116,32 +116,32 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "               |WOOLWICH FERRY |  NO SERVICE   |               ",
-    "modified": "2022-01-28T07:49:41.513Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "               |WOOLWICH FERRY |  NO SERVICE   |               ",
-    "modified": "2022-01-28T07:49:41.513Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.498109,
@@ -156,8 +156,8 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.479467,
@@ -172,8 +172,8 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.442336,
@@ -404,8 +404,8 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |   CROSSINGS   ",
-    "modified": "2022-01-28T10:50:18.173Z"
+    "signtext": "",
+    "modified": "2022-01-29T00:51:01.073Z"
   },
   {
     "lat": 51.574541,
