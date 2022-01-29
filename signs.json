@@ -116,16 +116,16 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.469116,
@@ -172,8 +172,8 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "  A406 ILFORD  |  FLYOVER S/B  |BROKEN DOWN VEH|  USE CAUTION  ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-01-28T19:51:00.653Z"
+    "signtext": "  A406 ILFORD  |  FLYOVER S/B  |BROKEN DOWN VEH|  USE CAUTION  ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.586845,
@@ -484,16 +484,16 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "    A13 E/B    | AT WENNINGTON |   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-01-29T06:51:18.777Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T19:51:00.653Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
+    "modified": "2022-01-29T07:51:20.003Z"
   },
   {
     "lat": 51.452665,
