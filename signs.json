@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-01-29T03:51:11.347Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
-    "modified": "2022-01-29T07:51:20.003Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
-    "modified": "2022-01-29T07:51:20.003Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.494986,
@@ -164,16 +164,16 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-01-28T20:50:47.297Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
-    "modified": "2022-01-29T07:51:20.003Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.442336,
@@ -484,16 +484,16 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
-    "modified": "2022-01-29T07:51:20.003Z"
+    "signtext": " 2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128 ",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE|               ",
-    "modified": "2022-01-29T07:51:20.003Z"
+    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-29T08:51:25.407Z"
   },
   {
     "lat": 51.452665,
