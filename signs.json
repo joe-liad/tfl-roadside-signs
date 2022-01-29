@@ -420,32 +420,32 @@
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": "  A406 W/B AT  |CROOKED BILLETR|   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-01-29T02:51:06.04Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-29T06:51:18.777Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "  A406 W/B AT  |CROOKED BILLETR|   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-01-29T02:51:06.04Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-29T06:51:18.777Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "  A406 W/B AT  |CROOKED BILLETR|   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-01-29T02:51:06.04Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-29T06:51:18.777Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "  A406 W/B AT  |CROOKED BILLETR|   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-01-29T02:51:06.04Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-01-29T06:51:18.777Z"
   },
   {
     "lat": 51.595511,
@@ -484,8 +484,8 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": " 2200 28 JAN-  |  0500 31 JAN  |A13 CLOSED BTWN|A1089 AND A128 ",
-    "modified": "2022-01-28T19:51:00.653Z"
+    "signtext": "    A13 E/B    | AT WENNINGTON |   ACCIDENT    |  USE CAUTION  ",
+    "modified": "2022-01-29T06:51:18.777Z"
   },
   {
     "lat": 51.526096,
