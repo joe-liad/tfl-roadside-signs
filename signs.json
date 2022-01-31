@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-31T08:53:25.22Z"
+    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.510438,
@@ -84,8 +84,8 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-31T08:53:25.22Z"
+    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.516434,
@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T08:51:25.407Z"
+    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T08:51:25.407Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T08:51:25.407Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-31T08:53:25.22Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.494986,
@@ -156,24 +156,24 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-30T15:52:25.203Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T08:51:25.407Z"
+    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T08:51:25.407Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T09:51:21.76Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-01-29T09:51:21.76Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.586845,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-31T08:53:25.22Z"
+    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.523197,
@@ -844,8 +844,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "A40 WESTWAY CLO|SEDEASTBOUND - |WORKS  USE OTHE|R ROUTE  ",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": "",
+    "modified": "2022-01-31T20:53:49.96Z"
   },
   {
     "lat": 51.532731,
