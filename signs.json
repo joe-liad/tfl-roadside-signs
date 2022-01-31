@@ -356,8 +356,8 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": "",
+    "modified": "2022-01-31T16:54:00.683Z"
   },
   {
     "lat": 51.491447,
@@ -812,8 +812,8 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-31T16:54:00.683Z"
   },
   {
     "lat": 51.524337,
@@ -836,8 +836,8 @@
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "  A40 WESTWAY  |   EASTBOUND   |CLOSED - WORKS |USE OTHER ROUTE",
-    "modified": "2022-01-28T22:51:10.233Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-01-31T16:54:00.683Z"
   },
   {
     "lat": 51.555152,
@@ -884,8 +884,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " BARNET BYPASS | /BOREHAMWOOD  |  CLOSED N/B   |   COLLISION   ",
+    "modified": "2022-01-31T16:54:00.683Z"
   },
   {
     "lat": 51.675417,
