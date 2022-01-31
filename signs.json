@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-29T03:51:11.347Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.510438,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-29T03:51:11.347Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.513253,
@@ -132,8 +132,8 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-29T14:51:33.927Z"
+    "signtext": "  MON 31 JAN   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.494986,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.494057,
@@ -204,8 +204,8 @@
     "lon": -0.099856,
     "siteid": "VMS_08/000711/",
     "roadnr": "A202",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.423493,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-28T11:50:28.143Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.523197,
@@ -492,8 +492,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": " 31 JAN-19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-29T23:51:52.73Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-01-31T08:53:25.22Z"
   },
   {
     "lat": 51.452665,
