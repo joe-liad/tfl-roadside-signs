@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-31T20:53:49.96Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.510438,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "COMMERCIAL RD/ | BRUNTON PLACE |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-01-31T20:53:49.96Z"
+    "signtext": "",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.459329,
@@ -356,24 +356,24 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-01-31T16:54:00.683Z"
+    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.490702,
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.490493,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
+    "modified": "2022-02-01T05:54:26.187Z"
   },
   {
     "lat": 51.57542,
