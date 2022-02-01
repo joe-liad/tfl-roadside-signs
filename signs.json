@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.523701,
@@ -76,24 +76,24 @@
     "lon": -0.060741,
     "siteid": "VMS_05/000709/",
     "roadnr": "A11",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.514124,
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.513253,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.494057,
@@ -236,8 +236,8 @@
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": "",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.449775,
@@ -468,16 +468,16 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.519847,
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL| FULLY CLOSED  | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-01-31T22:53:54.93Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-01T04:54:10.647Z"
   },
   {
     "lat": 51.523197,
