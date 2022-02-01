@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "  HARROW ROAD  |U/PASS - CLOSED|OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-02-01T00:54:03.073Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-01T11:54:33.7Z"
   },
   {
     "lat": 51.523959,
@@ -164,8 +164,8 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  A102/ROBIN   | HOOD SLIP N/B |   ACCIDENT    |  USE CAUTION  ",
-    "modified": "2022-02-01T10:54:37.863Z"
+    "signtext": "",
+    "modified": "2022-02-01T11:54:33.7Z"
   },
   {
     "lat": 51.446736,
