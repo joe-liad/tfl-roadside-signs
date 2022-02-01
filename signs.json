@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-01T11:54:33.7Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |  CLOSED W/B   |   DIVERSION   ",
+    "modified": "2022-02-01T14:54:48.037Z"
   },
   {
     "lat": 51.523959,
@@ -28,16 +28,16 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T16:50:55.617Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |  CLOSED W/B   |   DIVERSION   ",
+    "modified": "2022-02-01T14:54:48.037Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": "CROMWELL ROAD /|  QUEENSBERRY  |PLACE-CLOSED WB|USE OTHER ROUTE",
-    "modified": "2022-02-01T00:54:03.073Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |  CLOSED W/B   |   DIVERSION   ",
+    "modified": "2022-02-01T14:54:48.037Z"
   },
   {
     "lat": 51.540523,
@@ -140,8 +140,8 @@
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "   BLACKWALL   |TUNNEL N/BOUND |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-01T13:54:37.897Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |  CLOSED W/B   |   DIVERSION   ",
+    "modified": "2022-02-01T14:54:48.037Z"
   },
   {
     "lat": 51.498109,
