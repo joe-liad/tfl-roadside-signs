@@ -724,8 +724,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-28T13:50:36.317Z"
+    "signtext": "  GUNNERSBURY  |LANE J/W BOLLO |  LANE CLOSED  | EXPECT DELAYS ",
+    "modified": "2022-02-01T18:54:54.363Z"
   },
   {
     "lat": 51.477202,
@@ -908,8 +908,8 @@
     "lon": -0.05289,
     "siteid": "VMS_32/000734/",
     "roadnr": "A10",
-    "signtext": "",
-    "modified": "2022-01-28T21:51:02.02Z"
+    "signtext": "   A10 GREAT   | CAMBRIDGE RD  | S/B COLLISION |    CLOSED     ",
+    "modified": "2022-02-01T18:54:54.363Z"
   },
   {
     "lat": 51.374479,
