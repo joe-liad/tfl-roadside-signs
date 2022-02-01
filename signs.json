@@ -140,8 +140,8 @@
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-01-29T00:51:01.073Z"
+    "signtext": "   BLACKWALL   |TUNNEL N/BOUND |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-01T13:54:37.897Z"
   },
   {
     "lat": 51.498109,
@@ -164,24 +164,24 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-01T11:54:33.7Z"
+    "signtext": "   BLACKWALL   |TUNNEL N/BOUND |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-01T13:54:37.897Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-31T20:53:49.96Z"
+    "signtext": "   BLACKWALL   |TUNNEL N/BOUND |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-01T13:54:37.897Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": "   BLACKWALL   |TUNNEL N/BOUND |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-01T13:54:37.897Z"
   },
   {
     "lat": 51.494313,
