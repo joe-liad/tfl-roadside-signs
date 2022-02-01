@@ -132,8 +132,8 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-01-31T20:53:49.96Z"
+    "signtext": "A20 LEE HIGH RD|AT BELMONT HILL| TEMPS SIGNALS | EXPECT DELAYS ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.494986,
@@ -156,8 +156,8 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-01-31T20:53:49.96Z"
+    "signtext": "A20 LEE HIGH RD|AT BELMONT HILL| TEMPS SIGNALS | EXPECT DELAYS ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.479467,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-01T04:54:10.647Z"
+    "signtext": "A20 LEE HIGH RD|AT BELMONT HILL| TEMPS SIGNALS | EXPECT DELAYS ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.494057,
@@ -204,8 +204,8 @@
     "lon": -0.099856,
     "siteid": "VMS_08/000711/",
     "roadnr": "A202",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-01-31T08:53:25.22Z"
+    "signtext": "A20 LEE HIGH RD|AT BELMONT HILL| TEMPS SIGNALS | EXPECT DELAYS ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.423493,
@@ -356,24 +356,24 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
-    "modified": "2022-02-01T05:54:26.187Z"
+    "signtext": "",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
-    "modified": "2022-02-01T05:54:26.187Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.490702,
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
-    "modified": "2022-02-01T05:54:26.187Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.490493,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
-    "modified": "2022-02-01T05:54:26.187Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " BAYSWATER RD  |LANCASTER TERR |CLOSED BOTH WAY|USE OTHER ROUTE",
-    "modified": "2022-02-01T05:54:26.187Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-01T07:54:20.26Z"
   },
   {
     "lat": 51.57542,
