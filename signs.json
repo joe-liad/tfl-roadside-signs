@@ -700,16 +700,16 @@
     "lon": -0.405432,
     "siteid": "VMS_25/000712/",
     "roadnr": "A312",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.494307,
     "lon": -0.409909,
     "siteid": "VMS_25/000713/",
     "roadnr": "A312",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.495768,
@@ -732,8 +732,8 @@
     "lon": -0.377386,
     "siteid": "VMS_25/000719/",
     "roadnr": "A4",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.478692,
@@ -772,24 +772,24 @@
     "lon": -0.453111,
     "siteid": "VMS_26/000712/",
     "roadnr": "",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.48784,
     "lon": -0.45232,
     "siteid": "VMS_26/000713/",
     "roadnr": "",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.481729,
     "lon": -0.470934,
     "siteid": "VMS_26/000720/",
     "roadnr": "A4",
-    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-02T21:56:14.633Z"
   },
   {
     "lat": 51.481591,
