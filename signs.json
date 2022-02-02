@@ -148,8 +148,8 @@
     "lon": 0.001842,
     "siteid": "VMS_06/000713/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-01-28T07:49:41.513Z"
+    "signtext": "A205 BOTH WAYS | JCT BARING RD | UTILITY WORKS | EXPECT DELAYS ",
+    "modified": "2022-02-02T08:55:36.56Z"
   },
   {
     "lat": 51.445494,
@@ -180,8 +180,8 @@
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-02T00:55:11.143Z"
+    "signtext": "A205 JCT BARING| ROAD - THAMES |  WATER WORKS  | EXPECT DELAYS ",
+    "modified": "2022-02-02T08:55:36.56Z"
   },
   {
     "lat": 51.494313,
