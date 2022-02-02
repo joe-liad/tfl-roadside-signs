@@ -108,24 +108,24 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-02T04:55:24.37Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-01T15:54:45.723Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-01T15:54:45.723Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.469116,
@@ -164,16 +164,16 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-02T00:55:11.143Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-02T00:55:11.143Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-01T15:54:45.723Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  WEDS 2 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-01T15:54:45.723Z"
+    "signtext": "",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.586845,
@@ -700,16 +700,16 @@
     "lon": -0.405432,
     "siteid": "VMS_25/000712/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.494307,
     "lon": -0.409909,
     "siteid": "VMS_25/000713/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-26T17:46:33.577Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.495768,
@@ -732,8 +732,8 @@
     "lon": -0.377386,
     "siteid": "VMS_25/000719/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-26T17:46:33.577Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.478692,
@@ -772,24 +772,24 @@
     "lon": -0.453111,
     "siteid": "VMS_26/000712/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.48784,
     "lon": -0.45232,
     "siteid": "VMS_26/000713/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.481729,
     "lon": -0.470934,
     "siteid": "VMS_26/000720/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-01-24T12:41:51.243Z"
+    "signtext": " A4 BATH ROAD  |AT SIPSON ROAD |SIGNALS ALL OUT|  USE CAUTION  ",
+    "modified": "2022-02-02T20:56:25.28Z"
   },
   {
     "lat": 51.481591,
