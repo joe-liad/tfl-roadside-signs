@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-03T05:00:19.713Z"
+    "signtext": "A13 CANNING TWN|TOWN FLYOVER EB|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-01-31T04:53:08.1Z"
+    "signtext": "A13 CANNING TWN|TOWN FLYOVER EB|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.518818,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-02T04:55:24.37Z"
+    "signtext": "A13 CANNING TWN|TOWN FLYOVER EB|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-01T04:54:10.647Z"
+    "signtext": "A13 CANNING TWN|TOWN FLYOVER EB|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.513253,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-02-02T20:56:25.28Z"
+    "signtext": "A13 CANNING TWN|TOWN FLYOVER EB|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.459329,
@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "A406 GUNNERSBRY| AVE W5 CLOSED |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-02-03T01:58:51.417Z"
+    "signtext": "",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.49166,
@@ -716,16 +716,16 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "A406 GUNNERSBRY| AVE W5 CLOSED |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-02-03T01:58:51.417Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "A406 GUNNERSBRY| AVE W5 CLOSED |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-02-03T01:58:51.417Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.477202,
@@ -820,8 +820,8 @@
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": "A406 GUNNERSBRY| AVE W5 CLOSED |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-02-03T01:58:51.417Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T06:00:20.597Z"
   },
   {
     "lat": 51.527186,
