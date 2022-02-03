@@ -20,16 +20,16 @@
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": "  CITY ROAD/   | UPPER STREET  | TEMP SIGNALS  | EXPECT DELAYS ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T04:00:15.757Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": "  CITY ROAD/   | UPPER STREET  | TEMP SIGNALS  | EXPECT DELAYS ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T04:00:15.757Z"
   },
   {
     "lat": 51.488805,
@@ -44,8 +44,8 @@
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": "  CITY ROAD/   | UPPER STREET  | TEMP SIGNALS  | EXPECT DELAYS ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T04:00:15.757Z"
   },
   {
     "lat": 51.554201,
@@ -76,8 +76,8 @@
     "lon": -0.060741,
     "siteid": "VMS_05/000709/",
     "roadnr": "A11",
-    "signtext": "  CITY ROAD/   | UPPER STREET  | TEMP SIGNALS  | EXPECT DELAYS ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-03T04:00:15.757Z"
   },
   {
     "lat": 51.514124,
