@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " NO ACCESS TO  |CANNING TWN FLY| FROM A13 EAST |INDIA DOCK ROAD",
-    "modified": "2022-02-03T12:02:47.397Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-03T19:03:15.413Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": " NO ACCESS TO  |CANNING TWN FLY| FROM A13 EAST |INDIA DOCK ROAD",
-    "modified": "2022-02-03T12:02:47.397Z"
+    "signtext": "",
+    "modified": "2022-02-03T19:03:15.413Z"
   },
   {
     "lat": 51.518818,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": " NO ACCESS TO  |CANNING TWN FLY| FROM A13 EAST |INDIA DOCK ROAD",
-    "modified": "2022-02-03T12:02:47.397Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-03T19:03:15.413Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": " NO ACCESS TO  |CANNING TWN FLY| FROM A13 EAST |INDIA DOCK ROAD",
-    "modified": "2022-02-03T12:02:47.397Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-03T19:03:15.413Z"
   },
   {
     "lat": 51.513253,
@@ -108,8 +108,8 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": " NO ACCESS TO  |CANNING TWN FLY| FROM A13 EAST |INDIA DOCK ROAD",
-    "modified": "2022-02-03T12:02:47.397Z"
+    "signtext": "   FRI 4 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-03T19:03:15.413Z"
   },
   {
     "lat": 51.459329,
