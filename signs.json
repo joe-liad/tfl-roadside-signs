@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.510438,
@@ -140,24 +140,24 @@
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": "",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.498109,
     "lon": 0.001842,
     "siteid": "VMS_06/000713/",
     "roadnr": "A102",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": "",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.445494,
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": "",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.479467,
@@ -172,8 +172,8 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": "",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.442336,
@@ -468,8 +468,8 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": " A2 CLOSED E/B | WESTHORNE AVE | ROADWORKS USE | OTHER ROUTES  ",
-    "modified": "2022-02-02T22:56:26.977Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.519847,
@@ -684,8 +684,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "A406 GUNNERSBRY| AVE W5 CLOSED |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-02-03T01:58:51.417Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-03T05:00:19.713Z"
   },
   {
     "lat": 51.491399,
