@@ -12,24 +12,24 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.523959,
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T16:07:27.327Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.488805,
@@ -44,8 +44,8 @@
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.554201,
@@ -76,8 +76,8 @@
     "lon": -0.060741,
     "siteid": "VMS_05/000709/",
     "roadnr": "A11",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-02-04T16:07:27.327Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.514124,
@@ -100,8 +100,8 @@
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.509869,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": "22 NOV - 04 FEB|  WESTMINSTER  |BRIDGE - WORKS | EXPECT DELAYS ",
-    "modified": "2022-02-04T17:07:32.053Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.476878,
@@ -236,8 +236,8 @@
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.449775,
@@ -268,8 +268,8 @@
     "lon": -0.101339,
     "siteid": "VMS_09/000748/",
     "roadnr": "",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.447756,
@@ -332,8 +332,8 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.462054,
@@ -356,24 +356,24 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.490702,
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.490493,
@@ -388,8 +388,8 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.49465,
@@ -852,8 +852,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
+    "modified": "2022-02-04T18:07:24.32Z"
   },
   {
     "lat": 51.566377,
