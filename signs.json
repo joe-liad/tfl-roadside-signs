@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " 22 NOV-04 FEB |  WESTMINSTER  | BRIDGE-WORKS  | EXPECT DELAYS ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "22 NOV - 04 FEB|  WESTMINSTER  |BRIDGE - WORKS | EXPECT DELAYS ",
+    "modified": "2022-02-04T17:07:32.053Z"
   },
   {
     "lat": 51.476878,
@@ -284,8 +284,8 @@
     "lon": -0.243061,
     "siteid": "VMS_10/000702/",
     "roadnr": "A3",
-    "signtext": "ROEHAMPTON LANE| / HOLFORD WAY |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-02-04T15:07:09.443Z"
+    "signtext": "",
+    "modified": "2022-02-04T17:07:32.053Z"
   },
   {
     "lat": 51.458809,
@@ -316,8 +316,8 @@
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": "ROEHAMPTON LANE| / HOLFORD WAY |CLOSED ACCIDENT|USE OTHER ROUTE",
-    "modified": "2022-02-04T15:07:09.443Z"
+    "signtext": "",
+    "modified": "2022-02-04T17:07:32.053Z"
   },
   {
     "lat": 51.444501,
@@ -764,8 +764,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "   A312 THE    |  PARKWAY N/B  |   COLLISION   |  LONG DELAYS  ",
+    "modified": "2022-02-04T17:07:32.053Z"
   },
   {
     "lat": 51.47244,
