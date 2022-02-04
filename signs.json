@@ -860,16 +860,16 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "A406 CLOSED E/B| AT M11 DUE TO | ROADWORKS USE | OTHERS ROUTES ",
-    "modified": "2022-02-03T23:03:18.903Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-04T02:03:16.61Z"
   },
   {
     "lat": 51.599489,
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "A406 CLOSED E/B| AT M11 DUE TO | ROADWORKS USE | OTHERS ROUTES ",
-    "modified": "2022-02-03T23:03:18.903Z"
+    "signtext": "",
+    "modified": "2022-02-04T02:03:16.61Z"
   },
   {
     "lat": 51.585487,
@@ -884,8 +884,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "A406 CLOSED E/B| AT M11 DUE TO | ROADWORKS USE | OTHERS ROUTES ",
-    "modified": "2022-02-03T23:03:18.903Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-04T02:03:16.61Z"
   },
   {
     "lat": 51.675417,
