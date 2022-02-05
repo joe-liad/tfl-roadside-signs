@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " A13 EB CLOSED | P REGENT LANE |TO BECKTON ALPS|USE OTHER ROUTE",
+    "modified": "2022-02-05T00:07:37.273Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " A13 EB CLOSED | P REGENT LANE |TO BECKTON ALPS|USE OTHER ROUTE",
+    "modified": "2022-02-05T00:07:37.273Z"
   },
   {
     "lat": 51.518818,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": "A20 LEE HIGH RD|AT BELMONT HILL| TEMPS SIGNALS | EXPECT DELAYS ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-05T00:07:37.273Z"
   },
   {
     "lat": 51.494057,
