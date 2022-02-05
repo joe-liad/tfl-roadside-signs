@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " A13 EB CLOSED | P REGENT LANE |TO BECKTON ALPS|USE OTHER ROUTE",
-    "modified": "2022-02-05T00:07:37.273Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": " A13 EB CLOSED | P REGENT LANE |TO BECKTON ALPS|USE OTHER ROUTE",
-    "modified": "2022-02-05T00:07:37.273Z"
+    "signtext": "",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.518818,
@@ -692,8 +692,8 @@
     "lon": -0.291998,
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
-    "signtext": "   M4 CLOSED   |  JCT 3-JCT 5  |  ROAD WORKS   |USE OTHER ROUTE",
-    "modified": "2022-02-04T23:07:36.487Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.474642,
@@ -708,24 +708,24 @@
     "lon": -0.409909,
     "siteid": "VMS_25/000713/",
     "roadnr": "A312",
-    "signtext": "   M4 CLOSED   |  JCT 3-JCT 5  |  ROAD WORKS   |USE OTHER ROUTE",
-    "modified": "2022-02-04T23:07:36.487Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.495768,
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "   M4 CLOSED   |  JCT 3-JCT 5  |  ROAD WORKS   |USE OTHER ROUTE",
-    "modified": "2022-02-04T23:07:36.487Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "   M4 CLOSED   |  JCT 3-JCT 5  |  ROAD WORKS   |USE OTHER ROUTE",
-    "modified": "2022-02-04T23:07:36.487Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.477202,
@@ -764,8 +764,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": "   M4 CLOSED   |  JCT 3-JCT 5  |  ROAD WORKS   |USE OTHER ROUTE",
-    "modified": "2022-02-04T23:07:36.487Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T06:07:58.873Z"
   },
   {
     "lat": 51.47244,
