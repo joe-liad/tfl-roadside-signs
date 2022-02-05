@@ -468,16 +468,16 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " BLACKWALL TNL |  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-05T16:09:06.72Z"
   },
   {
     "lat": 51.519847,
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " BLACKWALL TNL |  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-05T16:09:06.72Z"
   },
   {
     "lat": 51.523197,
@@ -492,8 +492,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " BLACKWALL TNL |  SOUTHBOUND   |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-05T16:09:06.72Z"
   },
   {
     "lat": 51.452665,
@@ -836,8 +836,8 @@
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "     A406      |GUNNERSBURY AVE| ROADWORKS N/B | EXPECT DELAYS ",
-    "modified": "2022-02-05T14:09:14.883Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-05T16:09:06.72Z"
   },
   {
     "lat": 51.555152,
