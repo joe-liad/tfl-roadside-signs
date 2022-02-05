@@ -148,8 +148,8 @@
     "lon": 0.001842,
     "siteid": "VMS_06/000713/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-05T20:09:17.6Z"
   },
   {
     "lat": 51.445494,
@@ -164,8 +164,8 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-04T19:07:42.583Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-05T20:09:17.6Z"
   },
   {
     "lat": 51.446736,
