@@ -4,40 +4,40 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-02-04T16:07:27.327Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.523701,
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "",
-    "modified": "2022-02-06T14:10:03.273Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.523959,
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-04T18:07:24.32Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-04T18:07:24.32Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.540523,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-04T18:07:24.32Z"
+    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.476878,
@@ -484,8 +484,8 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": " A406 NBND JCT |ILFORD FLYOVER | VEHICLE FIRE  |USE OTHER ROUTE",
-    "modified": "2022-02-07T09:10:49.14Z"
+    "signtext": "",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.526096,
@@ -836,8 +836,8 @@
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "GUNNERSBURY AVE|AT EVELYN GROVE|   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-07T09:10:49.14Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-07T10:11:02.347Z"
   },
   {
     "lat": 51.555152,
