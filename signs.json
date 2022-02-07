@@ -124,8 +124,8 @@
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |  INDUSTRIAL   |    ACTION     ",
-    "modified": "2022-02-07T08:10:48.38Z"
+    "signtext": " A406 NBND JCT |ILFORD FLYOVER | VEHICLE FIRE  |USE OTHER ROUTE",
+    "modified": "2022-02-07T09:10:49.14Z"
   },
   {
     "lat": 51.469116,
@@ -484,8 +484,8 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "",
-    "modified": "2022-02-04T14:07:14.99Z"
+    "signtext": " A406 NBND JCT |ILFORD FLYOVER | VEHICLE FIRE  |USE OTHER ROUTE",
+    "modified": "2022-02-07T09:10:49.14Z"
   },
   {
     "lat": 51.526096,
@@ -836,8 +836,8 @@
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-06T16:09:54.703Z"
+    "signtext": "GUNNERSBURY AVE|AT EVELYN GROVE|   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-07T09:10:49.14Z"
   },
   {
     "lat": 51.555152,
