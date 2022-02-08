@@ -116,64 +116,64 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-08T08:23:34.757Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-07T20:23:05.637Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-08T09:23:32.607Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-08T09:23:32.607Z"
+    "signtext": " SHOOTERS HILL |  ROAD CLOSED  |  B/WAYS NEAR  |A102-COLLISION ",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.498109,
     "lon": 0.001842,
     "siteid": "VMS_06/000713/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-08T09:23:32.607Z"
+    "signtext": " SHOOTERS HILL |  ROAD CLOSED  |  B/WAYS NEAR  |A102-COLLISION ",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.445494,
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-02-08T09:23:32.607Z"
+    "signtext": " SHOOTERS HILL |  ROAD CLOSED  |  B/WAYS NEAR  |A102-COLLISION ",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-07T20:23:05.637Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-08T08:23:34.757Z"
+    "signtext": " SHOOTERS HILL |  ROAD CLOSED  |  B/WAYS NEAR  |A102-COLLISION ",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-08T08:23:34.757Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-08T08:23:34.757Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-08T15:23:41.52Z"
   },
   {
     "lat": 51.586845,
