@@ -812,24 +812,24 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-08T14:23:38.837Z"
+    "signtext": "  A40/TARGET   | UNDERPASS W/B |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-08T16:23:44.38Z"
   },
   {
     "lat": 51.524337,
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "  A40/TARGET   | UNDERPASS W/B |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-08T16:23:44.38Z"
   },
   {
     "lat": 51.527186,
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "  A40/TARGET   | UNDERPASS W/B |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-08T16:23:44.38Z"
   },
   {
     "lat": 51.502707,
