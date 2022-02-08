@@ -860,8 +860,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-08T05:23:20.64Z"
+    "signtext": "   M1 J1-J4    |  NORTHBOUND   |    CLOSED     |OVERNIGHT WORKS",
+    "modified": "2022-02-08T23:24:03.13Z"
   },
   {
     "lat": 51.599489,
@@ -884,8 +884,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "   M1 J1-J4    |  NORTHBOUND   |    CLOSED     |OVERNIGHT WORKS",
+    "modified": "2022-02-08T23:24:03.13Z"
   },
   {
     "lat": 51.675417,
