@@ -180,8 +180,8 @@
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": " LADYWELL RD / |LEWISHAM HI ST |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-09T09:24:26.957Z"
+    "signtext": "",
+    "modified": "2022-02-09T21:26:41.853Z"
   },
   {
     "lat": 51.494313,
@@ -204,8 +204,8 @@
     "lon": -0.099856,
     "siteid": "VMS_08/000711/",
     "roadnr": "A202",
-    "signtext": " LADYWELL RD / |LEWISHAM HI ST |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-09T09:24:26.957Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-09T21:26:41.853Z"
   },
   {
     "lat": 51.423493,
