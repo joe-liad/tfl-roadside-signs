@@ -156,32 +156,32 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": " BLACKWALL TNL | CLOSED N/BND  |BROKEN DOWN VEH| EXPECT DELAYS ",
-    "modified": "2022-02-09T08:24:31.77Z"
+    "signtext": " BLACKWALL TNL |  CONGESTION   |  NORTHBOUND   | EXPECT DELAYS ",
+    "modified": "2022-02-09T09:24:26.957Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": " BLACKWALL TNL | CLOSED N/BND  |BROKEN DOWN VEH| EXPECT DELAYS ",
-    "modified": "2022-02-09T08:24:31.77Z"
+    "signtext": " BLACKWALL TNL |  CONGESTION   |  NORTHBOUND   | EXPECT DELAYS ",
+    "modified": "2022-02-09T09:24:26.957Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL | CLOSED N/BND  |BROKEN DOWN VEH| EXPECT DELAYS ",
-    "modified": "2022-02-09T08:24:31.77Z"
+    "signtext": " BLACKWALL TNL |  CONGESTION   |  NORTHBOUND   | EXPECT DELAYS ",
+    "modified": "2022-02-09T09:24:26.957Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-08T09:23:32.607Z"
+    "signtext": " LADYWELL RD / |LEWISHAM HI ST |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-09T09:24:26.957Z"
   },
   {
     "lat": 51.494313,
@@ -204,8 +204,8 @@
     "lon": -0.099856,
     "siteid": "VMS_08/000711/",
     "roadnr": "A202",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-08T08:23:34.757Z"
+    "signtext": " LADYWELL RD / |LEWISHAM HI ST |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-09T09:24:26.957Z"
   },
   {
     "lat": 51.423493,
