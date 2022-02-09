@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "A12 BTWN LEY ST|AND GANTS HILL |  W/B CLOSED   |USE OTHER ROUTE",
-    "modified": "2022-02-08T17:23:48.983Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-09T00:24:06.603Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "A12 BTWN LEY ST|AND GANTS HILL |  W/B CLOSED   |USE OTHER ROUTE",
-    "modified": "2022-02-08T17:23:48.983Z"
+    "signtext": "WEDNESDAY 9 FEB|WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-09T00:24:06.603Z"
   },
   {
     "lat": 51.586845,
@@ -452,8 +452,8 @@
     "lon": 0.193971,
     "siteid": "VMS_15/000717/",
     "roadnr": "A12",
-    "signtext": "A12 BTWN LEY ST|AND GANTS HILL |  W/B CLOSED   |USE OTHER ROUTE",
-    "modified": "2022-02-08T17:23:48.983Z"
+    "signtext": "",
+    "modified": "2022-02-09T00:24:06.603Z"
   },
   {
     "lat": 51.528445,
@@ -468,8 +468,8 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": "A12 BTWN LEY ST|AND GANTS HILL |  W/B CLOSED   |USE OTHER ROUTE",
-    "modified": "2022-02-08T17:23:48.983Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-09T00:24:06.603Z"
   },
   {
     "lat": 51.519847,
