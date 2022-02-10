@@ -12,32 +12,32 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T13:26:03.91Z"
   },
   {
     "lat": 51.523959,
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T13:26:03.91Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T13:26:03.91Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T13:26:03.91Z"
   },
   {
     "lat": 51.540523,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T13:26:03.91Z"
   },
   {
     "lat": 51.476878,
