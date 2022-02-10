@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-10T13:26:03.91Z"
+    "signtext": " SAVOY CIRCUS  |TRAFFIC SIGNALS|    ALL OUT    |    CAUTION    ",
+    "modified": "2022-02-10T17:26:13.743Z"
   },
   {
     "lat": 51.523959,
@@ -28,8 +28,8 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-10T13:26:03.91Z"
+    "signtext": " SAVOY CIRCUS  |TRAFFIC SIGNALS|    ALL OUT    |    CAUTION    ",
+    "modified": "2022-02-10T17:26:13.743Z"
   },
   {
     "lat": 51.488805,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " SAVOY CIRCUS  |TRAFFIC SIGNALS|    ALL OUT    |    CAUTION    ",
+    "modified": "2022-02-10T17:26:13.743Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " SAVOY CIRCUS  |TRAFFIC SIGNALS|    ALL OUT    |    CAUTION    ",
+    "modified": "2022-02-10T17:26:13.743Z"
   },
   {
     "lat": 51.57542,
