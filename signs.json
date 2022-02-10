@@ -116,16 +116,16 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-10T15:26:12.763Z"
+    "signtext": "      A13      |ALL DIRECTIONS |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-10T16:26:09.773Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-10T15:26:12.763Z"
+    "signtext": "      A13      |ALL DIRECTIONS |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-10T16:26:09.773Z"
   },
   {
     "lat": 51.469116,
@@ -828,8 +828,8 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " SAVOY CIRCUS  |TRAFFIC SIGNALS|    ALL OUT    |    CAUTION    ",
+    "modified": "2022-02-10T16:26:09.773Z"
   },
   {
     "lat": 51.502707,
