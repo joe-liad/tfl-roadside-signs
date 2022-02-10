@@ -116,16 +116,16 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "      A13      |ALL DIRECTIONS |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-10T16:26:09.773Z"
+    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-10T23:26:23.57Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "      A13      |ALL DIRECTIONS |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-10T16:26:09.773Z"
+    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-10T23:26:23.57Z"
   },
   {
     "lat": 51.469116,
@@ -428,8 +428,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " A406 FORE ST  |  TNL- CLOSED  |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-02-10T23:26:23.57Z"
   },
   {
     "lat": 51.585626,
@@ -868,8 +868,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " A406 FORE ST  |  TNL- CLOSED  |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-02-10T23:26:23.57Z"
   },
   {
     "lat": 51.585487,
@@ -900,8 +900,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " A406 FORE ST  |  TNL- CLOSED  |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-02-10T23:26:23.57Z"
   },
   {
     "lat": 51.674213,
