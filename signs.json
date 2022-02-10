@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "SHAFTESBURY AVE|   RUPERT ST   |  TEMP LIGHTS  | EXPECT DELAYS ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "TOWER BRIDGE RD|  / TANNER ST  |ACCIDENT S/BND | EXPECT DELAYS ",
+    "modified": "2022-02-10T07:27:12.837Z"
   },
   {
     "lat": 51.523701,
@@ -76,8 +76,8 @@
     "lon": -0.060741,
     "siteid": "VMS_05/000709/",
     "roadnr": "A11",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "TOWER BRIDGE RD|  / TANNER ST  |ACCIDENT S/BND | EXPECT DELAYS ",
+    "modified": "2022-02-10T07:27:12.837Z"
   },
   {
     "lat": 51.514124,
@@ -92,16 +92,16 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "TOWER BRIDGE RD|  / TANNER ST  |ACCIDENT S/BND | EXPECT DELAYS ",
+    "modified": "2022-02-10T07:27:12.837Z"
   },
   {
     "lat": 51.513253,
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "TOWER BRIDGE RD|  / TANNER ST  |ACCIDENT S/BND | EXPECT DELAYS ",
+    "modified": "2022-02-10T07:27:12.837Z"
   },
   {
     "lat": 51.509869,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "TOWER BRIDGE RD|     LANE      | RESTRICTIONS  |USE OTHER ROUTE",
+    "modified": "2022-02-10T07:27:12.837Z"
   },
   {
     "lat": 51.523197,
