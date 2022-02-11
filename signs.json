@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "NORTH CIRC/M11 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-11T03:26:31.79Z"
+    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-11T05:26:39.527Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "NORTH CIRC/M11 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-11T03:26:31.79Z"
+    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-11T05:26:39.527Z"
   },
   {
     "lat": 51.586845,
@@ -436,8 +436,8 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "NORTH CIRC/M11 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-11T03:26:31.79Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-11T05:26:39.527Z"
   },
   {
     "lat": 51.594057,
@@ -484,16 +484,16 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": "NORTH CIRC/M11 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-11T03:26:31.79Z"
+    "signtext": " 2200 11FEB -  |  0500 14 FEB  |A13 CLOSED BTWN|A1089 AND A128 ",
+    "modified": "2022-02-11T05:26:39.527Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "NORTH CIRC/M11 |   WESTBOUND   |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-11T03:26:31.79Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-11T05:26:39.527Z"
   },
   {
     "lat": 51.452665,
