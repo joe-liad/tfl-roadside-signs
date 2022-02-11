@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
-    "modified": "2022-02-11T15:27:05.193Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.523959,
@@ -28,8 +28,8 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
-    "modified": "2022-02-11T15:27:05.193Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.488805,
@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": " A13 ALFRED'S  |    WAY E/B    |     WORKS     | EXPECT DELAYS ",
-    "modified": "2022-02-11T16:27:23.737Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.510438,
@@ -484,8 +484,8 @@
     "lon": 0.066724,
     "siteid": "VMS_17/000725/",
     "roadnr": "A13",
-    "signtext": " 2200 11FEB -  |  0500 14 FEB  |A13 CLOSED BTWN|A1089 AND A128 ",
-    "modified": "2022-02-11T05:26:39.527Z"
+    "signtext": "",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.526096,
@@ -820,16 +820,16 @@
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
-    "modified": "2022-02-11T15:27:05.193Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.527186,
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
-    "modified": "2022-02-11T15:27:05.193Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-11T17:27:25.527Z"
   },
   {
     "lat": 51.502707,
