@@ -156,8 +156,8 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "     A205      |STANSTEAD ROAD |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-11T08:27:11.053Z"
+    "signtext": " FRIDAY 11 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-11T09:26:53.473Z"
   },
   {
     "lat": 51.479467,
@@ -180,8 +180,8 @@
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "     A205      |STANSTEAD ROAD |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-11T08:27:11.053Z"
+    "signtext": "",
+    "modified": "2022-02-11T09:26:53.473Z"
   },
   {
     "lat": 51.494313,
@@ -212,8 +212,8 @@
     "lon": -0.130079,
     "siteid": "VMS_09/000704/",
     "roadnr": "A23",
-    "signtext": "     A205      |STANSTEAD ROAD |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-11T08:27:11.053Z"
+    "signtext": "",
+    "modified": "2022-02-11T09:26:53.473Z"
   },
   {
     "lat": 51.447822,
