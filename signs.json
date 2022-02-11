@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-10T18:26:12.157Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
+    "modified": "2022-02-11T15:27:05.193Z"
   },
   {
     "lat": 51.523959,
@@ -28,8 +28,8 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-10T18:26:12.157Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
+    "modified": "2022-02-11T15:27:05.193Z"
   },
   {
     "lat": 51.488805,
@@ -820,16 +820,16 @@
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
+    "modified": "2022-02-11T15:27:05.193Z"
   },
   {
     "lat": 51.527186,
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-10T18:26:12.157Z"
+    "signtext": " A40 WESTBOUND | AT TARGET RBT |BROKEN DOWN HGV| EXPECT DELAYS ",
+    "modified": "2022-02-11T15:27:05.193Z"
   },
   {
     "lat": 51.502707,
