@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " SUNDAY 13 FEB |CENTRAL LONDON |     EVENT     | ROAD CLOSURES ",
-    "modified": "2022-02-11T18:27:15.55Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T09:27:56.52Z"
   },
   {
     "lat": 51.523959,
@@ -436,16 +436,16 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-11T05:26:39.527Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T09:27:56.52Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T09:27:56.52Z"
   },
   {
     "lat": 51.595511,
