@@ -420,16 +420,16 @@
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T08:27:56.84Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-11T04:26:42.083Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T08:27:56.84Z"
   },
   {
     "lat": 51.585626,
@@ -860,8 +860,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T08:27:56.84Z"
   },
   {
     "lat": 51.599489,
@@ -884,8 +884,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-09T15:25:07.69Z"
+    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
+    "modified": "2022-02-12T08:27:56.84Z"
   },
   {
     "lat": 51.675417,
