@@ -428,8 +428,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "A406 WB JCT GRT| CAM UNDERPASS | BKN DOWN VEH  |USE OTHER ROUTE",
-    "modified": "2022-02-14T14:32:20.04Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-14T16:32:22.173Z"
   },
   {
     "lat": 51.585626,
@@ -860,16 +860,16 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
-    "modified": "2022-02-12T08:27:56.84Z"
+    "signtext": " A1 NORTHBOUND |  APEX CORNER  |EMERGENCY WORKS| EXPECT DELAYS ",
+    "modified": "2022-02-14T16:32:22.173Z"
   },
   {
     "lat": 51.599489,
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-14T12:32:09.973Z"
+    "signtext": " A1 NORTHBOUND |  APEX CORNER  |EMERGENCY WORKS| EXPECT DELAYS ",
+    "modified": "2022-02-14T16:32:22.173Z"
   },
   {
     "lat": 51.585487,
