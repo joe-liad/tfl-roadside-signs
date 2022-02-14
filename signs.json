@@ -420,24 +420,24 @@
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": "A406 W/BND JCT |  GREEN LANES  |SIGNALS ALL OUT| EXPECT DELAYS ",
-    "modified": "2022-02-14T10:31:56.14Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-14T12:32:09.973Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "A406 W/BND JCT |  GREEN LANES  |SIGNALS ALL OUT| EXPECT DELAYS ",
-    "modified": "2022-02-14T10:31:56.14Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-14T12:32:09.973Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "A406 W/BND JCT |  GREEN LANES  |SIGNALS ALL OUT| EXPECT DELAYS ",
-    "modified": "2022-02-14T10:31:56.14Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-14T12:32:09.973Z"
   },
   {
     "lat": 51.594057,
@@ -868,8 +868,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "CLOCKHOUSE JCT |SIGNALS ALL OUT| EXPECT DELAYS |               ",
-    "modified": "2022-02-14T09:32:05.233Z"
+    "signtext": "",
+    "modified": "2022-02-14T12:32:09.973Z"
   },
   {
     "lat": 51.585487,
