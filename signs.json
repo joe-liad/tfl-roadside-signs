@@ -860,16 +860,16 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": " A1 NORTHBOUND |  APEX CORNER  |EMERGENCY WORKS| EXPECT DELAYS ",
-    "modified": "2022-02-14T16:31:46.933Z"
+    "signtext": "A406 / HIGH RD |EASTBOUND LANE | RESTRICTIONS  | WORKS DELAYS  ",
+    "modified": "2022-02-14T22:31:57.267Z"
   },
   {
     "lat": 51.599489,
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": " A1 NORTHBOUND |  APEX CORNER  |EMERGENCY WORKS| EXPECT DELAYS ",
-    "modified": "2022-02-14T16:31:46.933Z"
+    "signtext": "A406 / HIGH RD |EASTBOUND LANE | RESTRICTIONS  | WORKS DELAYS  ",
+    "modified": "2022-02-14T22:31:57.267Z"
   },
   {
     "lat": 51.585487,
