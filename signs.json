@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
-    "modified": "2022-02-12T09:29:38.613Z"
+    "signtext": " A40 GYPSY CNR |2100 - 0500 HRS|   HS2 WORKS   | EXPECT DELAYS ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.523959,
@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.518818,
@@ -116,32 +116,32 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.498109,
@@ -172,8 +172,8 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.442336,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-14T09:31:38.2Z"
+    "signtext": "WOOLWICH FERRY |ALL DIRECTIONS |   ONE BOAT    |    SERVICE    ",
+    "modified": "2022-02-15T00:32:03.623Z"
   },
   {
     "lat": 51.586845,
