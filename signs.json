@@ -20,8 +20,8 @@
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-10T13:27:33.573Z"
+    "signtext": "OLD STREET RBT |TRAFFIC SIGNALS|ARE NOT WORKING|  USE CAUTION  ",
+    "modified": "2022-02-15T19:04:52.57Z"
   },
   {
     "lat": 51.524054,
@@ -52,8 +52,8 @@
     "lon": -0.114061,
     "siteid": "VMS_03/000723/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-07T10:22:59.43Z"
+    "signtext": "OLD STREET RBT |TRAFFIC SIGNALS|ARE NOT WORKING|  USE CAUTION  ",
+    "modified": "2022-02-15T19:04:52.57Z"
   },
   {
     "lat": 51.513303,
