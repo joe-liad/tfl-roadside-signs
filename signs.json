@@ -428,8 +428,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-14T16:31:46.933Z"
+    "signtext": "A406 GRT CAM RD|UNDERPASS [W/B]|CLOSED  DIVERT |   VIA SLIPS   ",
+    "modified": "2022-02-15T23:04:42.32Z"
   },
   {
     "lat": 51.585626,
@@ -852,8 +852,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "A406/HIGH ROAD |   EASTBOUND   |LANE ONE WORKS | EXPECT DELAYS ",
+    "modified": "2022-02-15T23:04:42.32Z"
   },
   {
     "lat": 51.599489,
@@ -892,8 +892,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "",
-    "modified": "2022-02-14T02:31:11.823Z"
+    "signtext": "A406 GRT CAM RD|UNDERPASS [W/B]|CLOSED  DIVERT |   VIA SLIPS   ",
+    "modified": "2022-02-15T23:04:42.32Z"
   },
   {
     "lat": 51.674213,
