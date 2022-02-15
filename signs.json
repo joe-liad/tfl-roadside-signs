@@ -364,8 +364,8 @@
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": "A219 SHEPHERDS | BUSH RD [N/B] | CLOSED WORKS  |USE ALT ROUTES ",
-    "modified": "2022-02-13T21:31:08.427Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-15T20:04:52.383Z"
   },
   {
     "lat": 51.490702,
@@ -444,8 +444,8 @@
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
-    "modified": "2022-02-12T09:29:38.613Z"
+    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-15T20:04:52.383Z"
   },
   {
     "lat": 51.595511,
@@ -876,8 +876,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "A1 WATFORD WAY | AT MILL HILL  |  BURST MAIN   | EXPECT DELAYS ",
-    "modified": "2022-02-12T08:29:23.397Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-15T20:04:52.383Z"
   },
   {
     "lat": 51.675417,
