@@ -116,8 +116,8 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.478136,
@@ -156,32 +156,32 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-15T15:34:50.57Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-15T15:34:50.57Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-11T13:28:47.133Z"
+    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.494313,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-15T12:34:32.65Z"
+    "signtext": " NEW KENT RD/  | ELEPHANT AND  |CASTLE ACCIDENT|  USE CAUTION  ",
+    "modified": "2022-02-16T08:05:06.017Z"
   },
   {
     "lat": 51.476878,
