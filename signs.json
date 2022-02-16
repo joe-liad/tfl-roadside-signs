@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.518818,
@@ -124,24 +124,24 @@
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.498109,
@@ -404,48 +404,48 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |DELAYS POSSIBLE",
-    "modified": "2022-02-15T06:34:16.257Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.586845,
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-14T12:31:40.033Z"
+    "signtext": "",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-16T00:04:45.263Z"
+    "signtext": "",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-14T12:31:40.033Z"
+    "signtext": "",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": " 11 JAN-30 APR |A406 W/B ONSLIP| LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-15T20:04:52.383Z"
+    "signtext": "",
+    "modified": "2022-02-16T11:05:16.913Z"
   },
   {
     "lat": 51.595511,
