@@ -116,8 +116,8 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-16T08:05:06.017Z"
+    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-16T10:05:16.647Z"
   },
   {
     "lat": 51.478136,
@@ -156,32 +156,32 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-16T08:05:06.017Z"
+    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-16T10:05:16.647Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-16T08:05:06.017Z"
+    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-16T10:05:16.647Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-16T08:05:06.017Z"
+    "signtext": "  WEDS 16 FEB  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-16T10:05:16.647Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL |  NORTHBOUND   |  CONGESTION   | EXPECT DELAYS ",
-    "modified": "2022-02-16T08:05:06.017Z"
+    "signtext": "",
+    "modified": "2022-02-16T10:05:16.647Z"
   },
   {
     "lat": 51.494313,
