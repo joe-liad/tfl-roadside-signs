@@ -76,8 +76,8 @@
     "lon": -0.060741,
     "siteid": "VMS_05/000709/",
     "roadnr": "A11",
-    "signtext": "OXFORD ST W/BND| / GT.PORT ST  | BKN DOWN  BUS | ROAD BLOCKED  ",
-    "modified": "2022-02-16T16:21:07.527Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-16T17:21:27.88Z"
   },
   {
     "lat": 51.514124,
@@ -372,8 +372,8 @@
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " SHEPERDS BUSH | RD SOUTHBOUND | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-16T16:21:07.527Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T17:21:27.88Z"
   },
   {
     "lat": 51.490493,
@@ -388,16 +388,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " SHEPERDS BUSH | RD SOUTHBOUND | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-16T16:21:07.527Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T17:21:27.88Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " SHEPERDS BUSH | RD SOUTHBOUND | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-16T16:21:07.527Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T17:21:27.88Z"
   },
   {
     "lat": 51.57542,
