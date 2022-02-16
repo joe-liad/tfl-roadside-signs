@@ -12,16 +12,16 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "A40 WESTERN AVE| GYPSY CORNER  |   HS2 WORKS   | EXPECT DELAYS ",
-    "modified": "2022-02-15T22:04:39.43Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T05:04:59.62Z"
   },
   {
     "lat": 51.523959,
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": "OLD STREET RBT |TRAFFIC SIGNALS|ARE NOT WORKING|  USE CAUTION  ",
-    "modified": "2022-02-15T19:04:52.57Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T05:04:59.62Z"
   },
   {
     "lat": 51.524054,
@@ -52,8 +52,8 @@
     "lon": -0.114061,
     "siteid": "VMS_03/000723/",
     "roadnr": "",
-    "signtext": "OLD STREET RBT |TRAFFIC SIGNALS|ARE NOT WORKING|  USE CAUTION  ",
-    "modified": "2022-02-15T19:04:52.57Z"
+    "signtext": "",
+    "modified": "2022-02-16T05:04:59.62Z"
   },
   {
     "lat": 51.513303,
@@ -852,8 +852,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "A406/HIGH ROAD |   EASTBOUND   |LANE ONE WORKS | EXPECT DELAYS ",
-    "modified": "2022-02-15T23:04:42.32Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-16T05:04:59.62Z"
   },
   {
     "lat": 51.599489,
