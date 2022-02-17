@@ -500,16 +500,16 @@
     "lon": 0.057684,
     "siteid": "VMS_19/000720/",
     "roadnr": "A21",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
+    "modified": "2022-02-17T08:22:06.917Z"
   },
   {
     "lat": 51.366961,
     "lon": 0.047929,
     "siteid": "VMS_19/000723/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
+    "modified": "2022-02-17T08:22:06.917Z"
   },
   {
     "lat": 51.346413,
@@ -532,8 +532,8 @@
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
+    "modified": "2022-02-17T08:22:06.917Z"
   },
   {
     "lat": 51.375564,
