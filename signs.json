@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   A406 W/B    |    AT M11     |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-17T03:21:39.457Z"
   },
   {
     "lat": 51.510438,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   A406 W/B    |    AT M11     |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-17T03:21:39.457Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   A406 W/B    |    AT M11     |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-17T03:21:39.457Z"
   },
   {
     "lat": 51.586845,
@@ -436,8 +436,8 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   A406 W/B    |    AT M11     |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-17T03:21:39.457Z"
   },
   {
     "lat": 51.594057,
@@ -484,8 +484,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   A406 W/B    |    AT M11     |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-17T03:21:39.457Z"
   },
   {
     "lat": 51.452665,
