@@ -68,8 +68,8 @@
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.518818,
@@ -124,24 +124,24 @@
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |   USE OTHER   |     ROUTE     ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.498109,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " NEW KENT RD/  | ELEPHANT AND  |CASTLE ACCIDENT|  USE CAUTION  ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.476878,
@@ -852,8 +852,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "A406/HIGH ROAD |  CARRIAGEWAY  |    REPAIRS    | EXPECT DELAYS ",
-    "modified": "2022-02-16T22:21:37.637Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-17T05:21:42.44Z"
   },
   {
     "lat": 51.599489,
