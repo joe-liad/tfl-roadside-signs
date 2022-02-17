@@ -500,16 +500,16 @@
     "lon": 0.057684,
     "siteid": "VMS_19/000720/",
     "roadnr": "A21",
-    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
-    "modified": "2022-02-17T08:22:06.917Z"
+    "signtext": "",
+    "modified": "2022-02-17T14:22:30.517Z"
   },
   {
     "lat": 51.366961,
     "lon": 0.047929,
     "siteid": "VMS_19/000723/",
     "roadnr": "A232",
-    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
-    "modified": "2022-02-17T08:22:06.917Z"
+    "signtext": "",
+    "modified": "2022-02-17T14:22:30.517Z"
   },
   {
     "lat": 51.346413,
@@ -532,8 +532,8 @@
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "FARNBOROUGH CMN|/ CROYDON ROAD |  SIGNALS OUT  |  USE CAUTION  ",
-    "modified": "2022-02-17T08:22:06.917Z"
+    "signtext": "",
+    "modified": "2022-02-17T14:22:30.517Z"
   },
   {
     "lat": 51.375564,
@@ -916,7 +916,7 @@
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T09:22:07.18Z"
+    "signtext": "   STRONG WINDS|        FORECAS|T         FRI 1|8 FEB    ",
+    "modified": "2022-02-17T14:22:30.517Z"
   }
 ]
