@@ -412,8 +412,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T09:22:07.18Z"
+    "signtext": "",
+    "modified": "2022-02-17T12:22:18.033Z"
   },
   {
     "lat": 51.586845,
@@ -444,8 +444,8 @@
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T09:22:07.18Z"
+    "signtext": "",
+    "modified": "2022-02-17T12:22:18.033Z"
   },
   {
     "lat": 51.595511,
@@ -700,8 +700,8 @@
     "lon": -0.409909,
     "siteid": "VMS_25/000713/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "",
+    "modified": "2022-02-17T12:22:18.033Z"
   },
   {
     "lat": 51.495768,
