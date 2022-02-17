@@ -52,8 +52,8 @@
     "lon": -0.114061,
     "siteid": "VMS_03/000723/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.513303,
@@ -108,16 +108,16 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-02-16T21:21:20.673Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-16T21:21:20.673Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.478136,
@@ -148,40 +148,40 @@
     "lon": 0.001842,
     "siteid": "VMS_06/000713/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.445494,
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-02-16T21:21:20.673Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-16T21:21:20.673Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-16T21:21:20.673Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.494313,
@@ -212,32 +212,32 @@
     "lon": -0.130079,
     "siteid": "VMS_09/000704/",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.447822,
     "lon": -0.132249,
     "siteid": "VMS_09/000713/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.44306,
     "lon": -0.116772,
     "siteid": "VMS_09/000714/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.458138,
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.449775,
@@ -276,16 +276,16 @@
     "lon": -0.148809,
     "siteid": "VMS_10/000701/",
     "roadnr": "A24",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.441478,
     "lon": -0.243061,
     "siteid": "VMS_10/000702/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.458809,
@@ -300,32 +300,32 @@
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.441021,
     "lon": -0.24315,
     "siteid": "VMS_10/000716/T",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.452269,
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.444501,
     "lon": -0.168547,
     "siteid": "VMS_10/000720/",
     "roadnr": "A214",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.46422,
@@ -340,24 +340,24 @@
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.431924,
     "lon": -0.150449,
     "siteid": "VMS_10/000740/",
     "roadnr": "A214",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.514363,
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.491447,
@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.49166,
@@ -404,56 +404,56 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-17T04:21:46Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-17T04:21:46Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.586845,
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-17T04:21:46Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.595511,
     "lon": 0.193971,
     "siteid": "VMS_15/000717/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.528445,
@@ -516,16 +516,16 @@
     "lon": 0.126094,
     "siteid": "VMS_19/000727/",
     "roadnr": "A21",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.373355,
     "lon": -0.006786,
     "siteid": "VMS_19/000728/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.372585,
@@ -556,112 +556,112 @@
     "lon": -0.11584,
     "siteid": "VMS_20/000725/",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.367687,
     "lon": -0.123127,
     "siteid": "VMS_21/000707/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.363278,
     "lon": -0.214409,
     "siteid": "VMS_21/000709/",
     "roadnr": "A217",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.359171,
     "lon": -0.210504,
     "siteid": "VMS_21/000710/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.380442,
     "lon": -0.197819,
     "siteid": "VMS_22/000711/",
     "roadnr": "A217",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.400657,
     "lon": -0.237969,
     "siteid": "VMS_22/000714/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.409375,
     "lon": -0.231681,
     "siteid": "VMS_22/000715/",
     "roadnr": "A238",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.407044,
     "lon": -0.225588,
     "siteid": "VMS_22/000716/",
     "roadnr": "A289",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.355239,
     "lon": -0.311962,
     "siteid": "VMS_23/000723/",
     "roadnr": "A243",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.333873,
     "lon": -0.322113,
     "siteid": "VMS_23/000724/",
     "roadnr": "A243",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.373505,
     "lon": -0.27463,
     "siteid": "VMS_23/000725/",
     "roadnr": "A240",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.373111,
     "lon": -0.274127,
     "siteid": "VMS_23/000726/",
     "roadnr": "A240",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.382182,
     "lon": -0.247905,
     "siteid": "VMS_23/000776/",
     "roadnr": "A2043",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.465259,
     "lon": -0.254591,
     "siteid": "VMS_24/000709/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.447388,
@@ -796,8 +796,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.532157,
@@ -836,8 +836,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.532731,
@@ -860,8 +860,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.585487,
@@ -884,16 +884,16 @@
     "lon": -0.052809,
     "siteid": "VMS_32/000730/",
     "roadnr": "A10",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.650477,
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.674213,
@@ -908,15 +908,15 @@
     "lon": -0.358107,
     "siteid": "VMS_39/000702/",
     "roadnr": "A307",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   },
   {
     "lat": 51.57588,
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": "",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
+    "modified": "2022-02-17T09:22:07.18Z"
   }
 ]
