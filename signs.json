@@ -172,16 +172,16 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T11:22:04.28Z"
+    "signtext": "A20 ELTHAM RD/ |  LEE HIGH RD  |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-17T20:22:28.153Z"
   },
   {
     "lat": 51.442336,
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T11:22:04.28Z"
+    "signtext": "A20 ELTHAM RD/ |  LEE HIGH RD  |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-17T20:22:28.153Z"
   },
   {
     "lat": 51.494313,
@@ -228,8 +228,8 @@
     "lon": -0.116772,
     "siteid": "VMS_09/000714/T",
     "roadnr": "A205",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T09:22:07.18Z"
+    "signtext": "A20 ELTHAM RD/ |  LEE HIGH RD  |    CLOSED     |USE OTHER ROUTE",
+    "modified": "2022-02-17T20:22:28.153Z"
   },
   {
     "lat": 51.458138,
