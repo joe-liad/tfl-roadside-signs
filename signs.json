@@ -412,8 +412,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-17T12:22:18.033Z"
+    "signtext": " FRIDAY 18 FEB |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-17T15:22:27.29Z"
   },
   {
     "lat": 51.586845,
@@ -836,8 +836,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": " STRONG WINDS  |   FORECAST    |  FRI 18 FEB   |               ",
-    "modified": "2022-02-17T09:22:07.18Z"
+    "signtext": "   STRONG WINDS|        FORECAS|T      FRIDAY 1|8TH FEB  ",
+    "modified": "2022-02-17T15:22:27.29Z"
   },
   {
     "lat": 51.532731,
