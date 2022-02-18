@@ -68,8 +68,8 @@
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
+    "modified": "2022-02-18T06:24:40.61Z"
   },
   {
     "lat": 51.518818,
@@ -124,24 +124,24 @@
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
+    "modified": "2022-02-18T06:24:40.61Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
+    "modified": "2022-02-18T06:24:40.61Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |   ONE BOAT    |    SERVICE    |               ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
+    "modified": "2022-02-18T06:24:40.61Z"
   },
   {
     "lat": 51.498109,
