@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "  M4 J1 TO J3  |  CLOSED W/B   |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-02-19T00:29:18.097Z"
+    "signtext": "",
+    "modified": "2022-02-19T04:29:29.467Z"
   },
   {
     "lat": 51.49166,
@@ -708,16 +708,16 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "  M4 J1 TO J3  |  CLOSED W/B   |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-02-19T00:29:18.097Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-19T04:29:29.467Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "  M4 J1 TO J3  |  CLOSED W/B   |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-02-19T00:29:18.097Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-19T04:29:29.467Z"
   },
   {
     "lat": 51.477202,
@@ -908,7 +908,7 @@
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": "   STRONG WINDS|        FORECAS|T         FRI 1|8 FEB    ",
-    "modified": "2022-02-17T14:22:30.517Z"
+    "signtext": "",
+    "modified": "2022-02-19T04:29:29.467Z"
   }
 ]
