@@ -804,8 +804,8 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "STAPLES CRN F/O|  E/B-CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-02-19T06:30:15.357Z"
   },
   {
     "lat": 51.524337,
@@ -820,16 +820,16 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-19T05:30:03.39Z"
+    "signtext": "STAPLES CRN F/O|  E/B-CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-02-19T06:30:15.357Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "STAPLES CRN F/O|  E/B-CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-02-19T06:30:15.357Z"
   },
   {
     "lat": 51.555152,
@@ -852,8 +852,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "STAPLES CRN F/O|  E/B-CLOSED   |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-02-19T06:30:15.357Z"
   },
   {
     "lat": 51.599489,
