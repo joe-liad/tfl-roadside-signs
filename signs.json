@@ -36,8 +36,8 @@
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": "SHAFTESBURY AVE| / DEAN STREET | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |CLOSED - WORKS |   DIVERSION   ",
+    "modified": "2022-02-19T09:30:10.637Z"
   },
   {
     "lat": 51.540523,
@@ -68,8 +68,8 @@
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
-    "modified": "2022-02-18T06:24:40.61Z"
+    "signtext": "",
+    "modified": "2022-02-19T09:30:10.637Z"
   },
   {
     "lat": 51.518818,
@@ -132,16 +132,16 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
-    "modified": "2022-02-18T06:24:40.61Z"
+    "signtext": "",
+    "modified": "2022-02-19T09:30:10.637Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "WOOLWICH FERRY |  NO SERVICE   |USE ALTERNATIVE|     ROUTE     ",
-    "modified": "2022-02-18T06:24:40.61Z"
+    "signtext": "",
+    "modified": "2022-02-19T09:30:10.637Z"
   },
   {
     "lat": 51.498109,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-17T05:21:42.44Z"
+    "signtext": "A4 CROMWELL RD |AT QUEENS GATE |CLOSED - WORKS |   DIVERSION   ",
+    "modified": "2022-02-19T09:30:10.637Z"
   },
   {
     "lat": 51.476878,
