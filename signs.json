@@ -468,24 +468,24 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-02-16T14:20:55.61Z"
+    "signtext": "   BLACKWALL   |  TUNNEL S/B   |  CONGESTION   |  LONG DELAYS  ",
+    "modified": "2022-02-20T18:31:54.863Z"
   },
   {
     "lat": 51.519847,
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-20T15:31:36.457Z"
+    "signtext": "A13 /BLACKWALL |  TUNNEL W/B   |  CONGESTION   |  LONG DELAYS  ",
+    "modified": "2022-02-20T18:31:54.863Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-19T02:29:24.317Z"
+    "signtext": "A13 /BLACKWALL |  TUNNEL W/B   |  CONGESTION   |  LONG DELAYS  ",
+    "modified": "2022-02-20T18:31:54.863Z"
   },
   {
     "lat": 51.452665,
