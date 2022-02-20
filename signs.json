@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-02-19T08:30:09.307Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-19T08:30:09.307Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-19T16:30:41.837Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-19T09:30:10.637Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.494986,
@@ -164,16 +164,16 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-19T02:29:24.317Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-18T20:29:12.003Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.442336,
@@ -404,8 +404,8 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-19T08:30:09.307Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.574541,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": " A13 / PRINCE  |REGENT LNE W/B |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-20T14:31:45.59Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-20T15:31:36.457Z"
   },
   {
     "lat": 51.526096,
