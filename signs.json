@@ -180,8 +180,8 @@
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "A205/CATFORD RD| TEMP SIGNALS  | STUCK ON RED  |CAUTION ON APPR",
-    "modified": "2022-02-20T02:30:56.96Z"
+    "signtext": "",
+    "modified": "2022-02-20T08:31:17.643Z"
   },
   {
     "lat": 51.494313,
@@ -820,8 +820,8 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-19T07:30:13Z"
+    "signtext": "A406 AT HARROW |ROAD UNDERPASS |BROKEN DOWN CAR|  USE CAUTION  ",
+    "modified": "2022-02-20T08:31:17.643Z"
   },
   {
     "lat": 51.502707,
