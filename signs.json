@@ -852,16 +852,16 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": " A406 AT HALE  | END ROAD E/B  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-02-21T09:18:34.117Z"
   },
   {
     "lat": 51.599489,
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-19T09:16:34.2Z"
+    "signtext": " A406 AT HALE  | END ROAD E/B  |BROKEN DOWN VEH| EXPECT DELAYS ",
+    "modified": "2022-02-21T09:18:34.117Z"
   },
   {
     "lat": 51.585487,
