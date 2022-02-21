@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "A13 NEWHAM WAY |AT NEW BARN ST |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-21T06:18:11.757Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.518818,
@@ -84,32 +84,32 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.513253,
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.509869,
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.459329,
@@ -284,24 +284,24 @@
     "lon": -0.243061,
     "siteid": "VMS_10/000702/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-19T09:16:34.2Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.458809,
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.45849,
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.441021,
@@ -316,8 +316,8 @@
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-02-19T09:16:34.2Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.444501,
@@ -340,8 +340,8 @@
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "",
-    "modified": "2022-02-21T05:18:15.59Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.431924,
@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-02-19T05:16:35.42Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.49166,
@@ -404,16 +404,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "  M11-CHARLIE  | BROWNS R/ABT  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  M11-CHARLIE  | BROWNS R/ABT  |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.586845,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "A13 EAST INDIA |DOCK RD CLOSED | AT CHRISP ST  |USE OTHER ROUTE",
-    "modified": "2022-02-21T16:18:36.82Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.526096,
@@ -668,8 +668,8 @@
     "lon": -0.356609,
     "siteid": "VMS_24/000710/",
     "roadnr": "A316",
-    "signtext": "",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.472836,
@@ -708,8 +708,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.489754,
@@ -740,8 +740,8 @@
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-17T17:15:13.363Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.439341,
@@ -900,8 +900,8 @@
     "lon": -0.358107,
     "siteid": "VMS_39/000702/",
     "roadnr": "A307",
-    "signtext": "",
-    "modified": "2022-02-19T09:16:34.2Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-21T17:18:47.807Z"
   },
   {
     "lat": 51.57588,
