@@ -116,32 +116,32 @@
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.498109,
@@ -156,8 +156,8 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.479467,
@@ -172,8 +172,8 @@
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "  MON 21 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.442336,
@@ -420,32 +420,32 @@
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": "   A406 W/B    |APP WATERWORKS |BROKEN DOWN VEH|  USE CAUTION  ",
-    "modified": "2022-02-21T13:18:32.077Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "   A406 W/B    |APP WATERWORKS |BROKEN DOWN VEH|  USE CAUTION  ",
-    "modified": "2022-02-21T13:18:32.077Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "   A406 W/B    |APP WATERWORKS |BROKEN DOWN VEH|  USE CAUTION  ",
-    "modified": "2022-02-21T13:18:32.077Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "   A406 W/B    |APP WATERWORKS |BROKEN DOWN VEH|  USE CAUTION  ",
-    "modified": "2022-02-21T13:18:32.077Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.595511,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "A13 NEWHAM WAY |AT NEW BARN ST |SIGNALS ALL OUT|  USE CAUTION  ",
-    "modified": "2022-02-21T06:18:11.757Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.526096,
@@ -500,16 +500,16 @@
     "lon": 0.057684,
     "siteid": "VMS_19/000720/",
     "roadnr": "A21",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.366961,
     "lon": 0.047929,
     "siteid": "VMS_19/000723/",
     "roadnr": "A232",
-    "signtext": " BLACKWALL TNL | NORTHBND BORE |CLOSED AT 12PM |  FOR REPAIRS  ",
-    "modified": "2022-02-21T12:18:25.55Z"
+    "signtext": "",
+    "modified": "2022-02-21T14:18:46.737Z"
   },
   {
     "lat": 51.346413,
