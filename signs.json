@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
-    "modified": "2022-02-17T17:15:13.363Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.523701,
@@ -60,8 +60,8 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-21T17:18:47.807Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.510438,
@@ -84,16 +84,16 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-21T17:18:47.807Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-21T17:18:47.807Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.513253,
@@ -188,8 +188,8 @@
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
     "roadnr": "A201",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-19T10:16:37.41Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.494057,
@@ -476,16 +476,16 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-21T17:18:47.807Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-20T23:17:46.72Z"
+    "signtext": "  ROTHERHITHE  |    TUNNEL     |CLOSED - WORKS |USE OTHER ROUTE",
+    "modified": "2022-02-21T23:18:52.987Z"
   },
   {
     "lat": 51.452665,
