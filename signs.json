@@ -468,8 +468,8 @@
     "lon": -0.002338,
     "siteid": "VMS_17/000720/",
     "roadnr": "A118",
-    "signtext": "   BLACKWALL   |  TUNNEL S/B   |  CONGESTION   |  LONG DELAYS  ",
-    "modified": "2022-02-20T18:17:28.56Z"
+    "signtext": " 4 JAN ONWARDS |MANSELL STREET | CYCLE SCHEME  |WORKS - DELAYS ",
+    "modified": "2022-02-22T02:18:54.993Z"
   },
   {
     "lat": 51.519847,
@@ -692,8 +692,8 @@
     "lon": -0.405432,
     "siteid": "VMS_25/000712/",
     "roadnr": "A312",
-    "signtext": "A4020 UXBRIDGE |ROAD/SOUTH ROAD| DEMONSTRATION | EXPECT DELAYS ",
-    "modified": "2022-02-20T17:17:38.57Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-22T02:18:54.993Z"
   },
   {
     "lat": 51.494307,
@@ -756,8 +756,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": "A4020 UXBRIDGE |ROAD/SOUTH ROAD| DEMONSTRATION | EXPECT DELAYS ",
-    "modified": "2022-02-20T17:17:38.57Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-22T02:18:54.993Z"
   },
   {
     "lat": 51.47244,
@@ -780,8 +780,8 @@
     "lon": -0.470934,
     "siteid": "VMS_26/000720/",
     "roadnr": "A4",
-    "signtext": "A4020 UXBRIDGE |ROAD/SOUTH ROAD| DEMONSTRATION | EXPECT DELAYS ",
-    "modified": "2022-02-20T17:17:38.57Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-22T02:18:54.993Z"
   },
   {
     "lat": 51.481591,
@@ -796,8 +796,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "A4020 UXBRIDGE |ROAD/SOUTH ROAD| DEMONSTRATION | EXPECT DELAYS ",
-    "modified": "2022-02-20T17:17:38.57Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-22T02:18:54.993Z"
   },
   {
     "lat": 51.532157,
