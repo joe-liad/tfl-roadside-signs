@@ -180,8 +180,8 @@
     "lon": -0.037025,
     "siteid": "VMS_07/000710/T",
     "roadnr": "A205",
-    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  |  LONG DELAYS  ",
-    "modified": "2022-02-22T17:00:48.557Z"
+    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-22T21:00:48.76Z"
   },
   {
     "lat": 51.494313,
@@ -220,8 +220,8 @@
     "lon": -0.132249,
     "siteid": "VMS_09/000713/T",
     "roadnr": "A205",
-    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  |  LONG DELAYS  ",
-    "modified": "2022-02-22T17:00:48.557Z"
+    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  | EXPECT DELAYS ",
+    "modified": "2022-02-22T21:00:48.76Z"
   },
   {
     "lat": 51.44306,
