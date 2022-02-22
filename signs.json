@@ -852,8 +852,8 @@
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "  M1 J1-4 N/B  |   ACCIDENT    |  ROAD CLOSED  |USE OTHER ROUTE",
-    "modified": "2022-02-22T18:00:38.34Z"
+    "signtext": " A406/BRENT ST |   EASTBOUND   | LANE CLOSURES | EXPECT DELAYS ",
+    "modified": "2022-02-22T20:00:30.86Z"
   },
   {
     "lat": 51.599489,
@@ -876,8 +876,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "  M1 J1-4 N/B  |   ACCIDENT    |  ROAD CLOSED  |USE OTHER ROUTE",
-    "modified": "2022-02-22T16:00:30.533Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-22T20:00:30.86Z"
   },
   {
     "lat": 51.675417,
