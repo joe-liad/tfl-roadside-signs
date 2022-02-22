@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-21T17:18:47.807Z"
+    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
+    "modified": "2022-02-22T08:19:35.843Z"
   },
   {
     "lat": 51.49166,
@@ -716,8 +716,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
+    "modified": "2022-02-22T08:19:35.843Z"
   },
   {
     "lat": 51.477202,
@@ -812,8 +812,8 @@
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
+    "modified": "2022-02-22T08:19:35.843Z"
   },
   {
     "lat": 51.527186,
