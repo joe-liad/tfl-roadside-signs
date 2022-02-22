@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
-    "modified": "2022-02-22T08:19:35.843Z"
+    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.49166,
@@ -716,8 +716,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
-    "modified": "2022-02-22T08:19:35.843Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.477202,
@@ -804,32 +804,32 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": " A406/BRENT ST |   EASTBOUND   | LANE CLOSURES | EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.524337,
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": "GUNNERSBURY AVE| /KINGSBRIDGE  |  AVE - WORKS  | EXPECT DELAYS ",
-    "modified": "2022-02-22T08:19:35.843Z"
+    "signtext": " A406/BRENT ST |   EASTBOUND   | LANE CLOSURES | EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.527186,
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": " A406/BRENT ST |   EASTBOUND   | LANE CLOSURES | EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-21T07:18:33.373Z"
+    "signtext": " A406/BRENT ST |   EASTBOUND   | LANE CLOSURES | EXPECT DELAYS ",
+    "modified": "2022-02-22T11:19:40.217Z"
   },
   {
     "lat": 51.555152,
