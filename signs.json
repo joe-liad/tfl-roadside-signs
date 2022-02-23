@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": " THW HIGHWAY / |   GLAMIS RD   |   COLLISION   | EXPECT DELAYS ",
-    "modified": "2022-02-23T09:01:10.033Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-02-23T11:01:09.317Z"
   },
   {
     "lat": 51.523701,
@@ -100,8 +100,8 @@
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": " THW HIGHWAY / |   GLAMIS RD   |   COLLISION   | EXPECT DELAYS ",
-    "modified": "2022-02-23T09:01:10.033Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-23T11:01:09.317Z"
   },
   {
     "lat": 51.509869,
@@ -476,8 +476,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": " THW HIGHWAY / |   GLAMIS RD   |   COLLISION   | EXPECT DELAYS ",
-    "modified": "2022-02-23T09:01:10.033Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-02-23T11:01:09.317Z"
   },
   {
     "lat": 51.526096,
