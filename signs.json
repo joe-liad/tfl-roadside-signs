@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.494986,
@@ -156,24 +156,24 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.442336,
@@ -372,8 +372,8 @@
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": " SCOTCH CORNER | JCT SLOANE ST | BKN DOWN BUS  | EXPECT DELAYS ",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.490493,
@@ -396,16 +396,16 @@
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": " SCOTCH CORNER | JCT SLOANE ST | BKN DOWN BUS  | EXPECT DELAYS ",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.57542,
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "  WED 23 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "",
+    "modified": "2022-02-23T20:06:31.18Z"
   },
   {
     "lat": 51.574541,
