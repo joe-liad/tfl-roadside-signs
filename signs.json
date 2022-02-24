@@ -108,32 +108,32 @@
     "lon": -0.049803,
     "siteid": "VMS_05/000742/",
     "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.459329,
     "lon": 0.046783,
     "siteid": "VMS_06/000701/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.478136,
     "lon": 0.05833,
     "siteid": "VMS_06/000702/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.494986,
@@ -156,24 +156,24 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.442336,
@@ -404,8 +404,8 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-23T20:06:31.18Z"
+    "signtext": "  FRI 25 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.574541,
@@ -820,8 +820,8 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-24T06:07:02.093Z"
+    "signtext": "   A406 NCR    |   HARROW RD   |   ACCIDENT    | EXPECT DELAYS ",
+    "modified": "2022-02-24T15:07:17.03Z"
   },
   {
     "lat": 51.502707,
