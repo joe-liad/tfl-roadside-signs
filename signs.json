@@ -20,8 +20,8 @@
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " STRAND CLOSED | BTWN ALDWYCH  |TRAFALGAR SQRE |USE OTHER ROUTE",
-    "modified": "2022-02-24T11:07:16.32Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-24T13:07:32.017Z"
   },
   {
     "lat": 51.524054,
@@ -36,8 +36,8 @@
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " STRAND CLOSED | BTWN ALDWYCH  |TRAFALGAR SQRE |USE OTHER ROUTE",
-    "modified": "2022-02-24T11:07:16.32Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-24T13:07:32.017Z"
   },
   {
     "lat": 51.540523,
@@ -92,8 +92,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": " STRAND CLOSED | BTWN ALDWYCH  |TRAFALGAR SQRE |USE OTHER ROUTE",
-    "modified": "2022-02-24T11:07:16.32Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-02-24T13:07:32.017Z"
   },
   {
     "lat": 51.513253,
