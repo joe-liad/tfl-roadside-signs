@@ -340,8 +340,8 @@
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "  M4 CHISWICK  |    FLYOVER    |CLOSED W/BOUND |USE OTHER ROUTE",
+    "modified": "2022-02-24T08:07:13.897Z"
   },
   {
     "lat": 51.431924,
@@ -380,8 +380,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-24T07:07:02.223Z"
+    "signtext": "  M4 CHISWICK  |    FLYOVER    |CLOSED W/BOUND |USE OTHER ROUTE",
+    "modified": "2022-02-24T08:07:13.897Z"
   },
   {
     "lat": 51.49166,
@@ -676,8 +676,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "  M4 CHISWICK  |    FLYOVER    |CLOSED W/BOUND |USE OTHER ROUTE",
+    "modified": "2022-02-24T08:07:13.897Z"
   },
   {
     "lat": 51.491399,
@@ -708,8 +708,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "  M4 CHISWICK  |    FLYOVER    |CLOSED W/BOUND |USE OTHER ROUTE",
+    "modified": "2022-02-24T08:07:13.897Z"
   },
   {
     "lat": 51.489754,
