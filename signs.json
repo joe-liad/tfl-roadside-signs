@@ -412,8 +412,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "  A406 W/B AT  | HEATHER ROAD  |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-25T01:07:43.027Z"
+    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
+    "modified": "2022-02-25T15:08:26.583Z"
   },
   {
     "lat": 51.585626,
@@ -428,8 +428,8 @@
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "  A406 W/B AT  | HEATHER ROAD  |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-25T01:07:43.027Z"
+    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
+    "modified": "2022-02-25T15:08:26.583Z"
   },
   {
     "lat": 51.595511,
@@ -860,8 +860,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "  A406 W/B AT  | HEATHER ROAD  |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-02-25T01:07:43.027Z"
+    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
+    "modified": "2022-02-25T15:08:26.583Z"
   },
   {
     "lat": 51.675417,
