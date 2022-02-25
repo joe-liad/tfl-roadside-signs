@@ -484,16 +484,16 @@
     "lon": 0.057684,
     "siteid": "VMS_19/000720/",
     "roadnr": "A21",
-    "signtext": "",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "BROMLEY RD N/B |  DOWNHAM WAY  | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-02-25T19:08:30.78Z"
   },
   {
     "lat": 51.366961,
     "lon": 0.047929,
     "siteid": "VMS_19/000723/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "BROMLEY RD N/B |  DOWNHAM WAY  | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-02-25T19:08:30.78Z"
   },
   {
     "lat": 51.346413,
@@ -516,8 +516,8 @@
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "BROMLEY RD N/B |  DOWNHAM WAY  | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-02-25T19:08:30.78Z"
   },
   {
     "lat": 51.375564,
