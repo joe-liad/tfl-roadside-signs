@@ -4,40 +4,40 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": "GREAT TOWER ST |  E/B-CLOSED   |BROKEN DOWN BUS|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.523701,
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " SCOTCH CORNER | JCT SLOANE ST | BKN DOWN BUS  | EXPECT DELAYS ",
-    "modified": "2022-02-23T19:06:43.863Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.523959,
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-24T13:07:32.017Z"
+    "signtext": " PARLIAMENT ST |    CLOSED     |CRANE OPERATION|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-23T21:06:50.49Z"
+    "signtext": " PARLIAMENT ST |    CLOSED     |CRANE OPERATION|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-24T13:07:32.017Z"
+    "signtext": " HORSEFERRY RD |   /MILLBANK   |CLOSED-CRANE OP|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.540523,
@@ -92,8 +92,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-02-24T13:07:32.017Z"
+    "signtext": "GREAT TOWER ST |  E/B-CLOSED   |BROKEN DOWN BUS|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.513253,
@@ -196,8 +196,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-23T15:06:16.217Z"
+    "signtext": " HORSEFERRY RD |   /MILLBANK   |CLOSED-CRANE OP|USE OTHER ROUTE",
+    "modified": "2022-02-25T07:08:13.803Z"
   },
   {
     "lat": 51.476878,
