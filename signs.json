@@ -412,8 +412,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
-    "modified": "2022-02-25T14:31:35.69Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-26T15:33:32.98Z"
   },
   {
     "lat": 51.585626,
@@ -428,8 +428,8 @@
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
-    "modified": "2022-02-25T14:31:35.69Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-26T15:33:32.98Z"
   },
   {
     "lat": 51.595511,
@@ -860,8 +860,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": " A406 STAPLES  |  CNR FLYOVER  | CLOSED W/BND  |USE OTHER ROUTE",
-    "modified": "2022-02-25T14:31:35.69Z"
+    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
+    "modified": "2022-02-26T15:33:32.98Z"
   },
   {
     "lat": 51.675417,
