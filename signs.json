@@ -268,24 +268,24 @@
     "lon": -0.243061,
     "siteid": "VMS_10/000702/",
     "roadnr": "A3",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.458809,
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.45849,
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.441021,
@@ -300,8 +300,8 @@
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.444501,
@@ -324,8 +324,8 @@
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "  A40 WESTWAY  |  E/B CLOSED   | FRIDAY 22:00  |TO MONDAY 05:00",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.431924,
@@ -364,8 +364,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.49166,
@@ -652,8 +652,8 @@
     "lon": -0.356609,
     "siteid": "VMS_24/000710/",
     "roadnr": "A316",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.472836,
@@ -692,8 +692,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.489754,
@@ -716,24 +716,24 @@
     "lon": -0.368301,
     "siteid": "VMS_25/000720/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.440463,
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.439341,
     "lon": -0.385171,
     "siteid": "VMS_25/000728/",
     "roadnr": "A312",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.4857,
@@ -780,8 +780,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.532157,
@@ -884,8 +884,8 @@
     "lon": -0.358107,
     "siteid": "VMS_39/000702/",
     "roadnr": "A307",
-    "signtext": "  SAT 26 FEB   |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-26T20:33:45.637Z"
   },
   {
     "lat": 51.57588,
