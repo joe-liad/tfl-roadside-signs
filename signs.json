@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.523701,
@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.518818,
@@ -84,24 +84,24 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.513253,
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.509869,
@@ -396,8 +396,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.586845,
@@ -460,16 +460,16 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   BLACKWALL   | TUNNEL S/BND  |    CLOSED     |   0100-0800   ",
+    "modified": "2022-02-27T01:34:02.36Z"
   },
   {
     "lat": 51.452665,
