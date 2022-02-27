@@ -12,8 +12,8 @@
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.523959,
@@ -372,8 +372,8 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.49465,
@@ -396,40 +396,40 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-27T07:34:29.153Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.586845,
     "lon": 0.052995,
     "siteid": "VMS_14/000734/",
     "roadnr": "A1400",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.594456,
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-26T15:33:32.98Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.594057,
     "lon": 0.03907,
     "siteid": "VMS_14/000739/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-26T15:33:32.98Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.595511,
@@ -644,8 +644,8 @@
     "lon": -0.254591,
     "siteid": "VMS_24/000709/",
     "roadnr": "A205",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.447388,
@@ -660,8 +660,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.491399,
@@ -700,8 +700,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.477202,
@@ -788,32 +788,32 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.524337,
     "lon": -0.268012,
     "siteid": "VMS_27/000707/",
     "roadnr": "A40",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.527186,
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.555152,
@@ -828,16 +828,16 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.566377,
     "lon": -0.247878,
     "siteid": "VMS_28/000712/T",
     "roadnr": "A406",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.599489,
@@ -860,8 +860,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-26T15:33:32.98Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.675417,
@@ -876,8 +876,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-27T20:34:53.037Z"
   },
   {
     "lat": 51.374479,
