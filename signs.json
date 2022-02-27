@@ -116,8 +116,8 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-25T20:32:10.957Z"
+    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.494986,
@@ -140,24 +140,24 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-02-25T20:32:10.957Z"
+    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-25T20:32:10.957Z"
+    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-25T20:32:10.957Z"
+    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.442336,
@@ -668,16 +668,16 @@
     "lon": -0.291998,
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.474642,
     "lon": -0.405432,
     "siteid": "VMS_25/000712/",
     "roadnr": "A312",
-    "signtext": "  SUN 27 FEB   |WEMBLEY STADIUM|  MAJOR EVENT  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.494307,
@@ -716,8 +716,8 @@
     "lon": -0.368301,
     "siteid": "VMS_25/000720/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-26T20:33:45.637Z"
+    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.440463,
@@ -740,8 +740,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.47244,
@@ -780,8 +780,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-02-26T20:33:45.637Z"
+    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
+    "modified": "2022-02-27T15:34:43.97Z"
   },
   {
     "lat": 51.532157,
