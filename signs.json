@@ -116,16 +116,16 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
+    "modified": "2022-02-28T09:35:29.773Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
+    "modified": "2022-02-28T09:35:29.773Z"
   },
   {
     "lat": 51.498109,
@@ -148,8 +148,8 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
+    "modified": "2022-02-28T09:35:29.773Z"
   },
   {
     "lat": 51.446736,
@@ -158,14 +158,6 @@
     "roadnr": "A205",
     "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
     "modified": "2022-02-27T15:34:43.97Z"
-  },
-  {
-    "lat": 51.442336,
-    "lon": -0.037025,
-    "siteid": "VMS_07/000710/T",
-    "roadnr": "A205",
-    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
   },
   {
     "lat": 51.494313,
@@ -672,14 +664,6 @@
     "modified": "2022-02-27T15:34:43.97Z"
   },
   {
-    "lat": 51.474642,
-    "lon": -0.405432,
-    "siteid": "VMS_25/000712/",
-    "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-02-27T15:34:43.97Z"
-  },
-  {
     "lat": 51.494307,
     "lon": -0.409909,
     "siteid": "VMS_25/000713/",
@@ -844,8 +828,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "CROOKED BILLET |  E/B BLOCKED  |   COLLISION   |  LONG DELAYS  ",
-    "modified": "2022-02-28T08:35:29.143Z"
+    "signtext": "",
+    "modified": "2022-02-28T09:35:29.773Z"
   },
   {
     "lat": 51.585487,
