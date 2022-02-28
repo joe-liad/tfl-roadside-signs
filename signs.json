@@ -116,16 +116,16 @@
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
     "roadnr": "A205",
-    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
-    "modified": "2022-02-28T09:35:29.773Z"
+    "signtext": "",
+    "modified": "2022-02-28T12:35:36.09Z"
   },
   {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
-    "modified": "2022-02-28T09:35:29.773Z"
+    "signtext": "",
+    "modified": "2022-02-28T12:35:36.09Z"
   },
   {
     "lat": 51.498109,
@@ -148,16 +148,16 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": " BLACKWALL TNL |NORTHBOUND EXIT|   ACCIDENT    |  LONG DELAYS  ",
-    "modified": "2022-02-28T09:35:29.773Z"
+    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-02-28T12:35:36.09Z"
   },
   {
     "lat": 51.446736,
     "lon": 0.016382,
     "siteid": "VMS_07/000708/",
     "roadnr": "A205",
-    "signtext": "  MON 28 FEB   |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": "",
+    "modified": "2022-02-28T12:35:36.09Z"
   },
   {
     "lat": 51.494313,
