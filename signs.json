@@ -104,14 +104,6 @@
     "modified": "2022-03-01T05:36:18.42Z"
   },
   {
-    "lat": 51.509869,
-    "lon": -0.049803,
-    "siteid": "VMS_05/000742/",
-    "roadnr": "A1203",
-    "signtext": "",
-    "modified": "2022-02-25T20:32:10.957Z"
-  },
-  {
     "lat": 51.469116,
     "lon": 0.054329,
     "siteid": "VMS_06/000703/",
@@ -152,14 +144,6 @@
     "modified": "2022-02-28T20:35:53.07Z"
   },
   {
-    "lat": 51.446736,
-    "lon": 0.016382,
-    "siteid": "VMS_07/000708/",
-    "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-28T12:35:36.09Z"
-  },
-  {
     "lat": 51.494313,
     "lon": -0.088672,
     "siteid": "VMS_08/000704/",
@@ -196,8 +180,8 @@
     "lon": -0.132249,
     "siteid": "VMS_09/000713/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-03-01T00:36:02.347Z"
+    "signtext": " LEWISHAM HIGH |ST-LADYWELL RD |TEMPS IN PLACE |  LONG DELAYS  ",
+    "modified": "2022-03-01T09:36:29.907Z"
   },
   {
     "lat": 51.44306,
@@ -438,14 +422,6 @@
     "roadnr": "A13",
     "signtext": "",
     "modified": "2022-02-25T12:31:34.343Z"
-  },
-  {
-    "lat": 51.537729,
-    "lon": -0.002338,
-    "siteid": "VMS_17/000720/",
-    "roadnr": "A118",
-    "signtext": "",
-    "modified": "2022-02-28T02:35:07.837Z"
   },
   {
     "lat": 51.519847,
