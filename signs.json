@@ -380,16 +380,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T08:36:34.297Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T08:36:34.297Z"
   },
   {
     "lat": 51.586845,
@@ -428,8 +428,8 @@
     "lon": 0.193971,
     "siteid": "VMS_15/000717/",
     "roadnr": "A12",
-    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T08:36:34.297Z"
   },
   {
     "lat": 51.528445,
@@ -452,16 +452,16 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-03-01T05:36:18.42Z"
+    "signtext": "      A13      | LONDON BOUND  |  CONGESTION   |  LONG DELAYS  ",
+    "modified": "2022-03-01T08:36:34.297Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "      A13      | LONDON BOUND  |  CONGESTION   |  LONG DELAYS  ",
+    "modified": "2022-03-01T08:36:34.297Z"
   },
   {
     "lat": 51.452665,
