@@ -180,8 +180,8 @@
     "lon": -0.132249,
     "siteid": "VMS_09/000713/T",
     "roadnr": "A205",
-    "signtext": " LEWISHAM HIGH |ST-LADYWELL RD |TEMPS IN PLACE |  LONG DELAYS  ",
-    "modified": "2022-03-01T09:36:29.907Z"
+    "signtext": "",
+    "modified": "2022-03-01T12:36:41.713Z"
   },
   {
     "lat": 51.44306,
@@ -388,8 +388,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T12:36:41.713Z"
   },
   {
     "lat": 51.585626,
@@ -804,8 +804,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T12:36:41.713Z"
   },
   {
     "lat": 51.585487,
@@ -820,8 +820,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-01T12:36:41.713Z"
   },
   {
     "lat": 51.675417,
@@ -836,8 +836,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
-    "modified": "2022-03-01T06:36:22.287Z"
+    "signtext": "",
+    "modified": "2022-03-01T12:36:41.713Z"
   },
   {
     "lat": 51.374479,
