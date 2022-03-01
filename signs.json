@@ -20,8 +20,8 @@
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " PARLIAMENT ST |    CLOSED     |CRANE OPERATION|USE OTHER ROUTE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " HIGH HOLBORN/ |  PROCTER ST   |CLOSED-ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-03-01T11:36:50.863Z"
   },
   {
     "lat": 51.524054,
@@ -92,8 +92,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-03-01T05:36:18.42Z"
+    "signtext": " HIGH HOLBORN/ |  PROCTER ST   |CLOSED-ACCIDENT|USE OTHER ROUTE",
+    "modified": "2022-03-01T11:36:50.863Z"
   },
   {
     "lat": 51.513253,
@@ -428,16 +428,16 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "      A13      | LONDON BOUND  |  CONGESTION   |  LONG DELAYS  ",
-    "modified": "2022-03-01T08:36:34.297Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T11:36:50.863Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "      A13      | LONDON BOUND  |  CONGESTION   |  LONG DELAYS  ",
-    "modified": "2022-03-01T08:36:34.297Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T11:36:50.863Z"
   },
   {
     "lat": 51.452665,
