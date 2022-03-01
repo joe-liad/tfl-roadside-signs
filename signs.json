@@ -172,8 +172,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " HORSEFERRY RD |   /MILLBANK   |CLOSED-CRANE OP|USE OTHER ROUTE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-01T00:36:02.347Z"
   },
   {
     "lat": 51.476878,
@@ -196,8 +196,8 @@
     "lon": -0.132249,
     "siteid": "VMS_09/000713/T",
     "roadnr": "A205",
-    "signtext": "ST MILDREDS RD | AT BARING RD  | LANE CLOSURE  | EXPECT DELAYS ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "",
+    "modified": "2022-03-01T00:36:02.347Z"
   },
   {
     "lat": 51.44306,
@@ -244,8 +244,8 @@
     "lon": -0.101339,
     "siteid": "VMS_09/000748/",
     "roadnr": "",
-    "signtext": "A3205 NINE ELMS|  LANE CLOSED  |   ACCIDENT    |USE ALT ROUTES ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-01T00:36:02.347Z"
   },
   {
     "lat": 51.447756,
@@ -308,8 +308,8 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": "A3205 NINE ELMS|  LANE CLOSED  |   ACCIDENT    |USE ALT ROUTES ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-01T00:36:02.347Z"
   },
   {
     "lat": 51.462054,
