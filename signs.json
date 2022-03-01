@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.518818,
@@ -84,24 +84,24 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.513253,
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.509869,
@@ -124,8 +124,8 @@
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.498109,
@@ -140,8 +140,8 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.479467,
@@ -180,8 +180,8 @@
     "lon": -0.099856,
     "siteid": "VMS_08/000711/",
     "roadnr": "A202",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.423493,
@@ -452,8 +452,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "  ROTHERHITHE  |   TUNNEL IS   |  CLOSED USE   | ANOTHER ROUTE ",
-    "modified": "2022-02-28T22:36:05.533Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-01T05:36:18.42Z"
   },
   {
     "lat": 51.526096,
