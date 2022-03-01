@@ -332,8 +332,8 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "   A501 J/W    | GLOUCESTER PL |  E/B LANE 1   |BROKEN DOWN VEH",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.491447,
@@ -380,16 +380,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-28T20:35:53.07Z"
+    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-28T04:35:15.157Z"
+    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.586845,
@@ -404,8 +404,8 @@
     "lon": 0.033197,
     "siteid": "VMS_14/000736/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.585626,
@@ -428,8 +428,8 @@
     "lon": 0.193971,
     "siteid": "VMS_15/000717/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-02-27T14:34:29.9Z"
+    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.528445,
@@ -460,8 +460,8 @@
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-02-27T07:34:29.153Z"
+    "signtext": " A12 JUST PAST | GREEN MAN TUN | LANES 1 AND 2 | CLOSED WORKS  ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.452665,
@@ -828,8 +828,8 @@
     "lon": -0.176801,
     "siteid": "VMS_30/000734/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-02-28T15:35:51.563Z"
+    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.585487,
@@ -844,8 +844,8 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.675417,
@@ -860,8 +860,8 @@
     "lon": -0.029419,
     "siteid": "VMS_32/000733/",
     "roadnr": "A1055",
-    "signtext": "",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "    A406 AT    |  GREEN LANES  |SIGNALS ALL OUT|    CAUTION    ",
+    "modified": "2022-03-01T06:36:22.287Z"
   },
   {
     "lat": 51.374479,
