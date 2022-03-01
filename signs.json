@@ -4,16 +4,16 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-02-27T07:34:29.153Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.523701,
     "lon": -0.146135,
     "siteid": "VMS_01/000707/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.523959,
@@ -28,32 +28,32 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " PARLIAMENT ST |    CLOSED     |CRANE OPERATION|USE OTHER ROUTE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-25T15:31:58.23Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.540523,
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.554201,
     "lon": -0.114061,
     "siteid": "VMS_03/000723/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.513303,
@@ -100,8 +100,8 @@
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-01T05:36:18.42Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.469116,
@@ -140,8 +140,8 @@
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-28T20:35:53.07Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.494313,
@@ -156,8 +156,8 @@
     "lon": -0.090584,
     "siteid": "VMS_08/000705/",
     "roadnr": "A201",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-01T00:36:02.347Z"
+    "signtext": "",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.476878,
@@ -196,8 +196,8 @@
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
-    "modified": "2022-02-25T12:31:34.343Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.449775,
@@ -324,8 +324,8 @@
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T22:34:55.01Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.490702,
@@ -340,16 +340,16 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-02-26T20:33:45.637Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.49166,
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.49465,
@@ -652,16 +652,16 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-26T20:33:45.637Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.477202,
@@ -676,8 +676,8 @@
     "lon": -0.368301,
     "siteid": "VMS_25/000720/",
     "roadnr": "A4",
-    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.440463,
@@ -788,8 +788,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-02-27T20:34:53.037Z"
+    "signtext": "CENTRAL LONDON |  CONGESTION   |    EXPECT     |  LONG DELAYS  ",
+    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.566377,
