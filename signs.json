@@ -636,8 +636,8 @@
     "lon": -0.291998,
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
-    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-02T06:38:03.94Z"
   },
   {
     "lat": 51.494307,
@@ -700,8 +700,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-02T06:38:03.94Z"
   },
   {
     "lat": 51.47244,
@@ -740,8 +740,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "SOUTH RD/UXB RD|SOUTHALL-WORKS | EXPECT DELAYS |USE OTHER ROUTE",
-    "modified": "2022-02-27T15:34:43.97Z"
+    "signtext": "",
+    "modified": "2022-03-02T06:38:03.94Z"
   },
   {
     "lat": 51.532157,
