@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.523701,
@@ -60,16 +60,16 @@
     "lon": -0.043819,
     "siteid": "VMS_05/000703/",
     "roadnr": "A13",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.518818,
@@ -84,24 +84,24 @@
     "lon": -0.051737,
     "siteid": "VMS_05/000712/",
     "roadnr": "A13",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.513253,
     "lon": -0.07008,
     "siteid": "VMS_05/000739/",
     "roadnr": "A1202",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.469116,
@@ -428,16 +428,16 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.526096,
     "lon": 0.076182,
     "siteid": "VMS_17/000726/",
     "roadnr": "A13",
-    "signtext": "LIMEHOUSE LINK | TUNNEL CLOSED |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-01T23:37:12.353Z"
+    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
+    "modified": "2022-03-02T05:37:50.373Z"
   },
   {
     "lat": 51.452665,
