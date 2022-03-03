@@ -116,16 +116,16 @@
     "lon": 0.03111,
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
-    "signtext": "",
-    "modified": "2022-03-03T06:02:50.837Z"
+    "signtext": "  FRI 4 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-03T15:03:22.98Z"
   },
   {
     "lat": 51.479467,
     "lon": 0.021742,
     "siteid": "VMS_06/000721/",
     "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-03-03T06:02:50.837Z"
+    "signtext": "  FRI 4 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-03T15:03:22.98Z"
   },
   {
     "lat": 51.476878,
@@ -332,16 +332,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-02T21:00:30.707Z"
+    "signtext": "  FRI 4 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-03T15:03:22.98Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-02T21:00:30.707Z"
+    "signtext": "  FRI 4 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-03T15:03:22.98Z"
   },
   {
     "lat": 51.586845,
@@ -612,8 +612,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": " CHISWICK HIGH |RD/MAYFIELD AV |   ACCIDENT    |USE OTHER ROUTE",
-    "modified": "2022-03-03T11:03:08.543Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-03T15:03:22.98Z"
   },
   {
     "lat": 51.489754,
