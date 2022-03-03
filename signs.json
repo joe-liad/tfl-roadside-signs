@@ -104,28 +104,12 @@
     "modified": "2022-03-02T05:37:50.373Z"
   },
   {
-    "lat": 51.469116,
-    "lon": 0.054329,
-    "siteid": "VMS_06/000703/",
-    "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-28T12:35:36.09Z"
-  },
-  {
     "lat": 51.494986,
     "lon": 0.008296,
     "siteid": "VMS_06/000705/",
     "roadnr": "",
     "signtext": "",
     "modified": "2022-03-01T05:36:18.42Z"
-  },
-  {
-    "lat": 51.498109,
-    "lon": 0.001842,
-    "siteid": "VMS_06/000713/",
-    "roadnr": "A102",
-    "signtext": "",
-    "modified": "2022-02-25T12:31:34.343Z"
   },
   {
     "lat": 51.445494,
@@ -142,22 +126,6 @@
     "roadnr": "A102",
     "signtext": "",
     "modified": "2022-03-02T20:40:18.477Z"
-  },
-  {
-    "lat": 51.494313,
-    "lon": -0.088672,
-    "siteid": "VMS_08/000704/",
-    "roadnr": "A201",
-    "signtext": "",
-    "modified": "2022-03-01T23:37:12.353Z"
-  },
-  {
-    "lat": 51.494057,
-    "lon": -0.090584,
-    "siteid": "VMS_08/000705/",
-    "roadnr": "A201",
-    "signtext": "",
-    "modified": "2022-03-01T13:36:46.333Z"
   },
   {
     "lat": 51.476878,
@@ -608,14 +576,6 @@
     "modified": "2022-02-25T12:31:34.343Z"
   },
   {
-    "lat": 51.465259,
-    "lon": -0.254591,
-    "siteid": "VMS_24/000709/",
-    "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-02-27T20:34:53.037Z"
-  },
-  {
     "lat": 51.447388,
     "lon": -0.356609,
     "siteid": "VMS_24/000710/",
@@ -652,8 +612,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-01T21:37:04.027Z"
+    "signtext": " CHISWICK HIGH |RD/MAYFIELD AV |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-03-03T11:42:41.927Z"
   },
   {
     "lat": 51.489754,
