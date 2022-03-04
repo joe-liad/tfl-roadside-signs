@@ -188,8 +188,8 @@
     "lon": -0.112367,
     "siteid": "VMS_09/000747/",
     "roadnr": "A23",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": " A3 BATTERSEA  | RISE-INCIDENT | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-03-04T19:31:56.82Z"
   },
   {
     "lat": 51.492487,
@@ -212,8 +212,8 @@
     "lon": -0.243061,
     "siteid": "VMS_10/000702/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": " A3 BATTERSEA  | RISE-INCIDENT | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-03-04T19:31:56.82Z"
   },
   {
     "lat": 51.458809,
@@ -260,16 +260,16 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": " A3 BATTERSEA  | RISE-INCIDENT | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-03-04T19:31:56.82Z"
   },
   {
     "lat": 51.462054,
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": " A3 BATTERSEA  | RISE-INCIDENT | ROAD BLOCKED  |USE OTHER ROUTE",
+    "modified": "2022-03-04T19:31:56.82Z"
   },
   {
     "lat": 51.431924,
