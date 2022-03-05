@@ -396,8 +396,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 19 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "EAST INDIA DOCK|RD/LEAMOUTH RD |WORKS IN PLACE | EXPECT DELAYS ",
+    "modified": "2022-03-05T07:32:22.28Z"
   },
   {
     "lat": 51.526096,
@@ -740,8 +740,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": " A406 EAST CLOS|ED   AT NEASDEN| JCT      ROADW|ORKS     ",
-    "modified": "2022-03-04T22:32:02.073Z"
+    "signtext": "A40 EAST CLOSED| AT A3220 WHITE| CITY     ROADW|ORKS     ",
+    "modified": "2022-03-05T07:32:22.28Z"
   },
   {
     "lat": 51.532731,
