@@ -20,24 +20,24 @@
     "lon": -0.145805,
     "siteid": "VMS_01/000708/",
     "roadnr": "A501",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
     "roadnr": "A202",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.540523,
@@ -220,8 +220,8 @@
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.45849,
@@ -260,8 +260,8 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T21:32:05.62Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.462054,
@@ -300,8 +300,8 @@
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.490493,
@@ -748,8 +748,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": "   TRAFALGAR   |SQUARE-PROTESTS|  CONGESTION   |USE OTHER ROUTE",
+    "modified": "2022-03-05T14:32:50.54Z"
   },
   {
     "lat": 51.566377,
