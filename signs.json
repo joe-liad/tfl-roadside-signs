@@ -620,8 +620,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "   A406 EAST   |  NEASDEN JCT  |   ROADWORKS   |  ROAD CLOSED  ",
-    "modified": "2022-03-04T22:32:02.073Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-05T03:32:14.45Z"
   },
   {
     "lat": 51.477202,
@@ -708,8 +708,8 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "   A406 EAST   |  NEASDEN JCT  |   ROADWORKS   |  ROAD CLOSED  ",
-    "modified": "2022-03-04T22:32:02.073Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-05T03:32:14.45Z"
   },
   {
     "lat": 51.524337,
@@ -724,16 +724,16 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "   A406 EAST   |  NEASDEN JCT  |   ROADWORKS   |  ROAD CLOSED  ",
-    "modified": "2022-03-04T22:32:02.073Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-05T03:32:14.45Z"
   },
   {
     "lat": 51.502707,
     "lon": -0.288117,
     "siteid": "VMS_27/000715/",
     "roadnr": "A406",
-    "signtext": "   A406 EAST   |  NEASDEN JCT  |   ROADWORKS   |  ROAD CLOSED  ",
-    "modified": "2022-03-04T22:32:02.073Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-05T03:32:14.45Z"
   },
   {
     "lat": 51.555152,
