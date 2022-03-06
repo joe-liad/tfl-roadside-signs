@@ -28,8 +28,8 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.488805,
@@ -44,8 +44,8 @@
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.554201,
@@ -92,8 +92,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.513253,
@@ -204,8 +204,8 @@
     "lon": -0.148809,
     "siteid": "VMS_10/000701/",
     "roadnr": "A24",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": "",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.441478,
@@ -220,8 +220,8 @@
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.45849,
@@ -260,16 +260,16 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.462054,
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": "",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.431924,
@@ -284,24 +284,24 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": "",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.490702,
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.490493,
@@ -316,8 +316,8 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.49465,
@@ -588,8 +588,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.491399,
@@ -612,16 +612,16 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.489754,
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.477202,
@@ -724,8 +724,8 @@
     "lon": -0.292426,
     "siteid": "VMS_27/000710/",
     "roadnr": "A406",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.502707,
@@ -748,8 +748,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": "CENTRAL LONDON |DEMONSTRATIONS | EXPECT DELAYS |               ",
-    "modified": "2022-03-06T13:33:47.88Z"
+    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-06T14:33:57.113Z"
   },
   {
     "lat": 51.566377,
