@@ -28,8 +28,8 @@
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
     "roadnr": "A5",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.488805,
@@ -44,8 +44,8 @@
     "lon": -0.175411,
     "siteid": "VMS_02/000701/",
     "roadnr": "A41",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.554201,
@@ -92,8 +92,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.513253,
@@ -164,8 +164,8 @@
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
-    "modified": "2022-03-04T11:31:31.153Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.449775,
@@ -204,8 +204,8 @@
     "lon": -0.148809,
     "siteid": "VMS_10/000701/",
     "roadnr": "A24",
-    "signtext": "",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.441478,
@@ -260,8 +260,8 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.462054,
@@ -284,24 +284,24 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.490702,
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.490493,
@@ -316,8 +316,8 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.49465,
@@ -748,8 +748,8 @@
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-06T14:33:57.113Z"
+    "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
+    "modified": "2022-03-07T08:34:32.043Z"
   },
   {
     "lat": 51.566377,
