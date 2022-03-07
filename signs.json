@@ -56,34 +56,10 @@
     "modified": "2022-03-04T11:31:31.153Z"
   },
   {
-    "lat": 51.513303,
-    "lon": -0.043819,
-    "siteid": "VMS_05/000703/",
-    "roadnr": "A13",
-    "signtext": "",
-    "modified": "2022-03-04T18:32:13.84Z"
-  },
-  {
     "lat": 51.510438,
     "lon": -0.044,
     "siteid": "VMS_05/000704/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.518818,
-    "lon": -0.060741,
-    "siteid": "VMS_05/000709/",
-    "roadnr": "A11",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.514124,
-    "lon": -0.051737,
-    "siteid": "VMS_05/000712/",
-    "roadnr": "A13",
     "signtext": "",
     "modified": "2022-03-04T11:31:31.153Z"
   },
@@ -94,14 +70,6 @@
     "roadnr": "",
     "signtext": " SUN 13 MARCH  |  WESTMINSTER  | AREA - EVENT  | ROAD CLOSURES ",
     "modified": "2022-03-07T08:34:32.043Z"
-  },
-  {
-    "lat": 51.513253,
-    "lon": -0.07008,
-    "siteid": "VMS_05/000739/",
-    "roadnr": "A1202",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
   },
   {
     "lat": 51.494986,
@@ -126,14 +94,6 @@
     "roadnr": "A102",
     "signtext": "",
     "modified": "2022-03-04T20:32:11.373Z"
-  },
-  {
-    "lat": 51.476878,
-    "lon": -0.099856,
-    "siteid": "VMS_08/000711/",
-    "roadnr": "A202",
-    "signtext": "",
-    "modified": "2022-03-04T18:32:13.84Z"
   },
   {
     "lat": 51.423493,
@@ -190,14 +150,6 @@
     "roadnr": "A23",
     "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
     "modified": "2022-03-04T21:32:05.62Z"
-  },
-  {
-    "lat": 51.492487,
-    "lon": -0.101339,
-    "siteid": "VMS_09/000748/",
-    "roadnr": "",
-    "signtext": "",
-    "modified": "2022-03-06T13:33:47.88Z"
   },
   {
     "lat": 51.447756,
@@ -344,42 +296,10 @@
     "modified": "2022-03-04T20:32:11.373Z"
   },
   {
-    "lat": 51.586845,
-    "lon": 0.052995,
-    "siteid": "VMS_14/000734/",
-    "roadnr": "A1400",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.594456,
-    "lon": 0.033197,
-    "siteid": "VMS_14/000736/",
-    "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.594057,
-    "lon": 0.03907,
-    "siteid": "VMS_14/000739/",
-    "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.595511,
-    "lon": 0.193971,
-    "siteid": "VMS_15/000717/",
-    "roadnr": "A12",
     "signtext": "",
     "modified": "2022-03-04T11:31:31.153Z"
   },
@@ -398,14 +318,6 @@
     "roadnr": "A13",
     "signtext": "EAST INDIA DOCK|RD/LEAMOUTH RD |WORKS IN PLACE | EXPECT DELAYS ",
     "modified": "2022-03-05T07:32:22.28Z"
-  },
-  {
-    "lat": 51.526096,
-    "lon": 0.076182,
-    "siteid": "VMS_17/000726/",
-    "roadnr": "A13",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
   },
   {
     "lat": 51.452665,
@@ -760,14 +672,6 @@
     "modified": "2022-03-04T11:31:31.153Z"
   },
   {
-    "lat": 51.599489,
-    "lon": -0.176801,
-    "siteid": "VMS_30/000734/",
-    "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
     "lat": 51.585487,
     "lon": -0.063874,
     "siteid": "VMS_31/000706/",
@@ -788,14 +692,6 @@
     "lon": -0.052809,
     "siteid": "VMS_32/000730/",
     "roadnr": "A10",
-    "signtext": "",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.650477,
-    "lon": -0.029419,
-    "siteid": "VMS_32/000733/",
-    "roadnr": "A1055",
     "signtext": "",
     "modified": "2022-03-04T11:31:31.153Z"
   },
