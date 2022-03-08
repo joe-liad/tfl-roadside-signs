@@ -172,16 +172,16 @@
     "lon": -0.24315,
     "siteid": "VMS_10/000716/T",
     "roadnr": "A3",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": "",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.452269,
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": " SAT 12 MARCH  |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.444501,
@@ -412,24 +412,24 @@
     "lon": -0.237969,
     "siteid": "VMS_22/000714/",
     "roadnr": "",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": "",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.409375,
     "lon": -0.231681,
     "siteid": "VMS_22/000715/",
     "roadnr": "A238",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": "",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.407044,
     "lon": -0.225588,
     "siteid": "VMS_22/000716/",
     "roadnr": "A289",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": "",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.355239,
@@ -468,8 +468,8 @@
     "lon": -0.247905,
     "siteid": "VMS_23/000776/",
     "roadnr": "A2043",
-    "signtext": " A3 MALDEN WAY |   WESTBOUND   |   ACCIDENT    |  ROAD CLOSED  ",
-    "modified": "2022-03-08T21:59:26.56Z"
+    "signtext": "",
+    "modified": "2022-03-08T22:59:14.627Z"
   },
   {
     "lat": 51.472836,
