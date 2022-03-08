@@ -332,8 +332,8 @@
     "lon": 0.057684,
     "siteid": "VMS_19/000720/",
     "roadnr": "A21",
-    "signtext": "",
-    "modified": "2022-03-08T04:35:31.733Z"
+    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
+    "modified": "2022-03-08T07:35:42.873Z"
   },
   {
     "lat": 51.366961,
@@ -356,8 +356,8 @@
     "lon": -0.006786,
     "siteid": "VMS_19/000728/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-08T04:35:31.733Z"
+    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
+    "modified": "2022-03-08T07:35:42.873Z"
   },
   {
     "lat": 51.372585,
@@ -372,8 +372,8 @@
     "lon": -0.119199,
     "siteid": "VMS_20/000723/T",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-03-08T04:35:31.733Z"
+    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
+    "modified": "2022-03-08T07:35:42.873Z"
   },
   {
     "lat": 51.354936,
@@ -388,16 +388,16 @@
     "lon": -0.11584,
     "siteid": "VMS_20/000725/",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-03-08T04:35:31.733Z"
+    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
+    "modified": "2022-03-08T07:35:42.873Z"
   },
   {
     "lat": 51.367687,
     "lon": -0.123127,
     "siteid": "VMS_21/000707/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-08T04:35:31.733Z"
+    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
+    "modified": "2022-03-08T07:35:42.873Z"
   },
   {
     "lat": 51.363278,
