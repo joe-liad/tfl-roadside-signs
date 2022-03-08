@@ -8,14 +8,6 @@
     "modified": "2022-03-08T05:35:29.483Z"
   },
   {
-    "lat": 51.523959,
-    "lon": -0.145805,
-    "siteid": "VMS_01/000708/",
-    "roadnr": "A501",
-    "signtext": "",
-    "modified": "2022-03-05T14:32:50.54Z"
-  },
-  {
     "lat": 51.524054,
     "lon": -0.175808,
     "siteid": "VMS_01/000728/",
@@ -480,14 +472,6 @@
     "modified": "2022-03-04T16:31:46.467Z"
   },
   {
-    "lat": 51.447388,
-    "lon": -0.356609,
-    "siteid": "VMS_24/000710/",
-    "roadnr": "A316",
-    "signtext": "",
-    "modified": "2022-03-06T13:33:47.88Z"
-  },
-  {
     "lat": 51.472836,
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
@@ -501,14 +485,6 @@
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
     "signtext": " NOV 21-MAR 22 |  A40 WESTWAY  |  CLOSED E/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-04T11:31:31.153Z"
-  },
-  {
-    "lat": 51.494307,
-    "lon": -0.409909,
-    "siteid": "VMS_25/000713/",
-    "roadnr": "A312",
-    "signtext": "",
     "modified": "2022-03-04T11:31:31.153Z"
   },
   {
