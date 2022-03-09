@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "  FROM 27 FEB  |PRESCOT ST AND | ROYAL MINT ST |CLOSED - WORKS ",
-    "modified": "2022-03-08T11:59:01.81Z"
+    "signtext": "  WHITECHAPEL  |  HIGH STREET  |    CLOSED     |USE OTHE ROUTE ",
+    "modified": "2022-03-09T07:59:31.523Z"
   },
   {
     "lat": 51.524054,
@@ -52,8 +52,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "  WHITECHAPEL  |  HIGH STREET  |   INCIDENT    |    CLOSED     ",
-    "modified": "2022-03-08T11:59:01.81Z"
+    "signtext": "  WHITECHAPEL  |  HIGH STREET  |    CLOSED     |USE OTHE ROUTE ",
+    "modified": "2022-03-09T07:59:31.523Z"
   },
   {
     "lat": 51.494986,
@@ -300,8 +300,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "7 FEB - 30 MAR |ROTHERHITHE TNL| LANE CLOSURES |DELAYS POSSIBLE",
-    "modified": "2022-03-08T11:59:01.81Z"
+    "signtext": "  WHITECHAPEL  |  HIGH STREET  |    CLOSED     |USE OTHE ROUTE ",
+    "modified": "2022-03-09T07:59:31.523Z"
   },
   {
     "lat": 51.452665,
