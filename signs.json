@@ -32,14 +32,6 @@
     "modified": "2022-03-09T13:02:04.503Z"
   },
   {
-    "lat": 51.510438,
-    "lon": -0.044,
-    "siteid": "VMS_05/000704/",
-    "roadnr": "",
-    "signtext": "",
-    "modified": "2022-03-09T13:02:04.503Z"
-  },
-  {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
@@ -212,16 +204,16 @@
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-10T09:02:46.167Z"
+    "signtext": "A219 WOOD LANE |JCT STH AFRICA | ROAD - CLOSED |POLICE INCIDENT",
+    "modified": "2022-03-10T13:03:04.843Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-03-09T13:02:04.503Z"
+    "signtext": "A219 WOOD LANE |JCT STH AFRICA | ROAD - CLOSED |POLICE INCIDENT",
+    "modified": "2022-03-10T13:03:04.843Z"
   },
   {
     "lat": 51.490702,
