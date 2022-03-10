@@ -252,16 +252,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": " FRI 11 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-10T15:53:42.947Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-10T14:53:43.56Z"
+    "signtext": " FRI 11 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-10T15:53:42.947Z"
   },
   {
     "lat": 51.585626,
@@ -508,16 +508,16 @@
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": "APEX CORNER JCT|A13 COUNTRY WAY|   COLLISION   | EXPECT DELAYS ",
-    "modified": "2022-03-10T11:53:41.957Z"
+    "signtext": "",
+    "modified": "2022-03-10T15:53:42.947Z"
   },
   {
     "lat": 51.439341,
     "lon": -0.385171,
     "siteid": "VMS_25/000728/",
     "roadnr": "A312",
-    "signtext": "APEX CORNER JCT|A13 COUNTRY WAY|   COLLISION   | EXPECT DELAYS ",
-    "modified": "2022-03-10T11:53:41.957Z"
+    "signtext": " SAT 12 MARCH  |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
+    "modified": "2022-03-10T15:53:42.947Z"
   },
   {
     "lat": 51.4857,
