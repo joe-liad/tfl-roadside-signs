@@ -16,22 +16,6 @@
     "modified": "2022-03-10T10:53:52.883Z"
   },
   {
-    "lat": 51.540523,
-    "lon": -0.175411,
-    "siteid": "VMS_02/000701/",
-    "roadnr": "A41",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
-    "lat": 51.554201,
-    "lon": -0.114061,
-    "siteid": "VMS_03/000723/",
-    "roadnr": "",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
     "lat": 51.516434,
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
@@ -53,14 +37,6 @@
     "siteid": "VMS_06/000714/",
     "roadnr": "A20",
     "signtext": "A205 LONDON RD | TEMP SIGNALS  |    EXPECT     |    DELAYS     ",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
-    "lat": 51.479467,
-    "lon": 0.021742,
-    "siteid": "VMS_06/000721/",
-    "roadnr": "A102",
-    "signtext": "",
     "modified": "2022-03-10T10:53:52.883Z"
   },
   {
@@ -576,30 +552,6 @@
     "modified": "2022-03-10T10:53:52.883Z"
   },
   {
-    "lat": 51.524337,
-    "lon": -0.268012,
-    "siteid": "VMS_27/000707/",
-    "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
-    "lat": 51.527186,
-    "lon": -0.292426,
-    "siteid": "VMS_27/000710/",
-    "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
-    "lat": 51.502707,
-    "lon": -0.288117,
-    "siteid": "VMS_27/000715/",
-    "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
     "lat": 51.555152,
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
@@ -613,14 +565,6 @@
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
     "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-10T10:53:52.883Z"
-  },
-  {
-    "lat": 51.566377,
-    "lon": -0.247878,
-    "siteid": "VMS_28/000712/T",
-    "roadnr": "A406",
-    "signtext": "",
     "modified": "2022-03-10T10:53:52.883Z"
   },
   {
