@@ -228,8 +228,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": " SAT 12 MARCH  |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": " M4 CLOSED W/B |   OVERNIGHT   |    JCT 1-5    |USE OTHER ROUTE",
+    "modified": "2022-03-10T23:54:14.33Z"
   },
   {
     "lat": 51.49166,
@@ -356,16 +356,16 @@
     "lon": -0.11584,
     "siteid": "VMS_20/000725/",
     "roadnr": "A23",
-    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": "A23 THORNTON RD|   ACCIDENT    |  ROAD CLOSED  |USE OTHER ROUTE",
+    "modified": "2022-03-11T00:54:17.423Z"
   },
   {
     "lat": 51.367687,
     "lon": -0.123127,
     "siteid": "VMS_21/000707/",
     "roadnr": "A232",
-    "signtext": "  09-11 MARCH  |   2000-0500   |A212 GRAVEL HIL|WORKS-DIVERSION",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": "A23 THORNTON RD|   ACCIDENT    |  ROAD CLOSED  |USE OTHER ROUTE",
+    "modified": "2022-03-11T00:54:17.423Z"
   },
   {
     "lat": 51.363278,
@@ -476,8 +476,8 @@
     "lon": -0.282061,
     "siteid": "VMS_25/000717/",
     "roadnr": "A406",
-    "signtext": " SAT 12 MARCH  |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": "",
+    "modified": "2022-03-10T23:54:14.33Z"
   },
   {
     "lat": 51.489754,
