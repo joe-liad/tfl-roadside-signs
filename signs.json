@@ -204,8 +204,8 @@
     "lon": -0.243713,
     "siteid": "VMS_11/000705/",
     "roadnr": "A4",
-    "signtext": " SAT 12 MARCH  |  TWICKENHAM   |STADIUM - EVENT| EXPECT DELAYS ",
-    "modified": "2022-03-11T05:54:25.793Z"
+    "signtext": "M4 BETWEEN J1/ | J3 W/B CLOSED |     WORKS     |USE OTHER ROUTE",
+    "modified": "2022-03-11T23:55:49.883Z"
   },
   {
     "lat": 51.49166,
@@ -460,8 +460,8 @@
     "lon": -0.286464,
     "siteid": "VMS_25/000718/",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": " A406/VILLAGE  |      WAY      |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-03-11T23:55:49.883Z"
   },
   {
     "lat": 51.477202,
