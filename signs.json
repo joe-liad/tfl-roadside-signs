@@ -236,16 +236,16 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-12T07:56:23.88Z"
+    "signtext": "  A10 N/B AT   |BULLSMORE LANE |CLOSED - WORKS |   DIVERSION   ",
+    "modified": "2022-03-12T11:56:31.753Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "  11-14 MARCH  |   2200-0500   |    A10/M25    |WORKS-DIVERSION",
-    "modified": "2022-03-10T10:53:52.883Z"
+    "signtext": "  A10 N/B AT   |BULLSMORE LANE |CLOSED - WORKS |   DIVERSION   ",
+    "modified": "2022-03-12T11:56:31.753Z"
   },
   {
     "lat": 51.528445,
