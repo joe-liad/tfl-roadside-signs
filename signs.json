@@ -212,16 +212,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": " MON 14 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-13T16:01:18.827Z"
+    "signtext": "",
+    "modified": "2022-03-14T20:06:17.523Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": " MON 14 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-14T05:05:00.267Z"
+    "signtext": "",
+    "modified": "2022-03-14T20:06:17.523Z"
   },
   {
     "lat": 51.585626,
@@ -524,16 +524,16 @@
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "GREENFORD ROAD |   NORTH OF    | GREENFORD RBT |WORKS - DELAYS ",
-    "modified": "2022-03-11T14:54:52.76Z"
+    "signtext": "",
+    "modified": "2022-03-14T20:06:17.523Z"
   },
   {
     "lat": 51.555152,
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "GREENFORD RD NO|RTH OF GREENFOR|D RBT   WORKS -| DELAYS  ",
-    "modified": "2022-03-11T14:54:52.76Z"
+    "signtext": "",
+    "modified": "2022-03-14T20:06:17.523Z"
   },
   {
     "lat": 51.532731,
