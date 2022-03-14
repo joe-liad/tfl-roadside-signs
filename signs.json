@@ -196,8 +196,8 @@
     "lon": -0.211694,
     "siteid": "VMS_11/000704/",
     "roadnr": "A4",
-    "signtext": "  A40 WESTWAY  |  W/B CLOSED   | FRIDAY 22:00  |TO MONDAY 05:00",
-    "modified": "2022-03-13T17:01:09.01Z"
+    "signtext": "",
+    "modified": "2022-03-14T05:05:00.267Z"
   },
   {
     "lat": 51.490493,
@@ -212,16 +212,16 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": "  A40 WESTWAY  |  W/B CLOSED   | FRIDAY 22:00  |TO MONDAY 05:00",
-    "modified": "2022-03-13T17:01:09.01Z"
+    "signtext": "",
+    "modified": "2022-03-14T05:05:00.267Z"
   },
   {
     "lat": 51.49465,
     "lon": -0.212652,
     "siteid": "VMS_11/000718/",
     "roadnr": "",
-    "signtext": "  A40 WESTWAY  |  W/B CLOSED   | FRIDAY 22:00  |TO MONDAY 05:00",
-    "modified": "2022-03-11T18:55:02.893Z"
+    "signtext": "",
+    "modified": "2022-03-14T05:05:00.267Z"
   },
   {
     "lat": 51.57542,
@@ -236,16 +236,16 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "  A10 N/B AT   |BULLSMORE LANE |CLOSED - WORKS |   DIVERSION   ",
-    "modified": "2022-03-12T11:56:31.753Z"
+    "signtext": " MON 14 MARCH  |WOOLWICH FERRY |  NO SERVICE   |USE OTHER ROUTE",
+    "modified": "2022-03-14T05:05:00.267Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "  A10 N/B AT   |BULLSMORE LANE |CLOSED - WORKS |   DIVERSION   ",
-    "modified": "2022-03-12T11:56:31.753Z"
+    "signtext": "",
+    "modified": "2022-03-14T05:05:00.267Z"
   },
   {
     "lat": 51.528445,
