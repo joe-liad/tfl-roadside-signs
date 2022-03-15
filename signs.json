@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-14T19:06:26.307Z"
+    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
+    "modified": "2022-03-15T05:06:34.93Z"
   },
   {
     "lat": 51.488805,
@@ -20,8 +20,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-14T19:06:26.307Z"
+    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
+    "modified": "2022-03-15T05:06:34.93Z"
   },
   {
     "lat": 51.423493,
@@ -220,8 +220,8 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-14T20:06:17.523Z"
+    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
+    "modified": "2022-03-15T05:06:34.93Z"
   },
   {
     "lat": 51.585626,
@@ -244,8 +244,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "  FROM 15 MAR  |ROTHERHITHE TNL|2 METRE HEIGHT |    BARRIER    ",
-    "modified": "2022-03-13T03:59:52.913Z"
+    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
+    "modified": "2022-03-15T05:06:34.93Z"
   },
   {
     "lat": 51.452665,
