@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-15T05:06:34.93Z"
+    "signtext": " FROM 22 MARCH |ROTHERHITHE TNL|    2 METRE    |HEIGHT BARRIER ",
+    "modified": "2022-03-15T08:06:53.403Z"
   },
   {
     "lat": 51.488805,
@@ -20,8 +20,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-15T05:06:34.93Z"
+    "signtext": " FROM 22 MARCH |ROTHERHITHE TNL|    2 METRE    |HEIGHT BARRIER ",
+    "modified": "2022-03-15T08:06:53.403Z"
   },
   {
     "lat": 51.423493,
@@ -212,16 +212,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "",
-    "modified": "2022-03-14T20:06:17.523Z"
+    "signtext": " FINSBURY PARK | AREA - WORKS  | TEMP SIGNALS  | EXPECT DELAYS ",
+    "modified": "2022-03-15T08:06:53.403Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-15T05:06:34.93Z"
+    "signtext": " FROM 22 MARCH |ROTHERHITHE TNL|    2 METRE    |HEIGHT BARRIER ",
+    "modified": "2022-03-15T08:06:53.403Z"
   },
   {
     "lat": 51.585626,
@@ -244,8 +244,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL|   2M HEIGHT   |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-15T05:06:34.93Z"
+    "signtext": " FROM 22 MARCH |ROTHERHITHE TNL|    2 METRE    |HEIGHT BARRIER ",
+    "modified": "2022-03-15T08:06:53.403Z"
   },
   {
     "lat": 51.452665,
