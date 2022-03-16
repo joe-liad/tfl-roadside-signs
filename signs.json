@@ -276,8 +276,8 @@
     "lon": 0.126094,
     "siteid": "VMS_19/000727/",
     "roadnr": "A21",
-    "signtext": "WOOLWICH FERRY | WEDS 16 MARCH |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": "",
+    "modified": "2022-03-16T20:57:25.41Z"
   },
   {
     "lat": 51.373355,
@@ -292,8 +292,8 @@
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "WOOLWICH FERRY | WEDS 16 MARCH |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": "",
+    "modified": "2022-03-16T20:57:25.41Z"
   },
   {
     "lat": 51.375564,
@@ -580,7 +580,7 @@
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": "WOOLWICH FERRY | WEDS 16 MARCH |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": "",
+    "modified": "2022-03-16T20:57:25.41Z"
   }
 ]
