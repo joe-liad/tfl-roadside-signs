@@ -88,28 +88,20 @@
     "modified": "2022-03-16T12:56:56.083Z"
   },
   {
-    "lat": 51.441478,
-    "lon": -0.243061,
-    "siteid": "VMS_10/000702/",
-    "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-03-16T12:56:56.083Z"
-  },
-  {
     "lat": 51.458809,
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": "  WANDSWORTH   |    BRIDGE     |CLOSED-INCIDENT|USE OTHER ROUTE",
-    "modified": "2022-03-17T06:57:45.21Z"
+    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.45849,
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": "  WANDSWORTH   |    BRIDGE     |CLOSED-INCIDENT|USE OTHER ROUTE",
-    "modified": "2022-03-17T06:57:45.21Z"
+    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.441021,
@@ -156,8 +148,8 @@
     "lon": -0.150449,
     "siteid": "VMS_10/000740/",
     "roadnr": "A214",
-    "signtext": "  WANDSWORTH   |    BRIDGE     |CLOSED-INCIDENT|USE OTHER ROUTE",
-    "modified": "2022-03-17T06:57:45.21Z"
+    "signtext": "",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.514363,
@@ -172,8 +164,8 @@
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": "  WANDSWORTH   |    BRIDGE     |CLOSED-INCIDENT|USE OTHER ROUTE",
-    "modified": "2022-03-17T06:57:45.21Z"
+    "signtext": "",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.490702,
@@ -196,8 +188,8 @@
     "lon": -0.202944,
     "siteid": "VMS_11/000716/",
     "roadnr": "A4",
-    "signtext": "  WANDSWORTH   |    BRIDGE     |CLOSED-INCIDENT|USE OTHER ROUTE",
-    "modified": "2022-03-17T06:57:45.21Z"
+    "signtext": "",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.49465,
@@ -212,16 +204,16 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": " FINSBURY PARK | AREA - WORKS  | TEMP SIGNALS  | EXPECT DELAYS ",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": " BLACKWALL TNL |    CLOSED     |  BROKEN DOWN  |    VEHICLE    ",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": " FROM 22 MARCH |ROTHERHITHE TNL|    2 METRE    |HEIGHT BARRIER ",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": " BLACKWALL TNL |    CLOSED     |  BROKEN DOWN  |    VEHICLE    ",
+    "modified": "2022-03-17T07:57:45.78Z"
   },
   {
     "lat": 51.585626,
