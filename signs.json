@@ -68,8 +68,8 @@
     "lon": -0.142288,
     "siteid": "VMS_09/000724/",
     "roadnr": "A24",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": "",
+    "modified": "2022-03-18T20:05:36.01Z"
   },
   {
     "lat": 51.468574,
@@ -268,8 +268,8 @@
     "lon": 0.126094,
     "siteid": "VMS_19/000727/",
     "roadnr": "A21",
-    "signtext": "WOOLWICH FERRY | FRI 18 MARCH  |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-17T15:59:42.94Z"
+    "signtext": "",
+    "modified": "2022-03-18T20:05:36.01Z"
   },
   {
     "lat": 51.373355,
@@ -284,8 +284,8 @@
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "WOOLWICH FERRY | FRI 18 MARCH  |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-17T15:59:42.94Z"
+    "signtext": "",
+    "modified": "2022-03-18T20:05:36.01Z"
   },
   {
     "lat": 51.375564,
@@ -572,7 +572,7 @@
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": "WOOLWICH FERRY | FRI 18 MARCH  |  NO SERVICE   |USE OTHER ROUTE",
-    "modified": "2022-03-17T15:59:42.94Z"
+    "signtext": "",
+    "modified": "2022-03-18T20:05:36.01Z"
   }
 ]
