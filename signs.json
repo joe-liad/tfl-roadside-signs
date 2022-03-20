@@ -468,8 +468,8 @@
     "lon": -0.410453,
     "siteid": "VMS_25/000735/",
     "roadnr": "A312",
-    "signtext": "  A40 WESTWAY  |  E/B CLOSED   | FRIDAY 22:00  |TO MONDAY 05:00",
-    "modified": "2022-03-18T18:05:35.863Z"
+    "signtext": " OSSIE GARVIN  | RBT-WESTBOUND |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-03-20T04:12:39.573Z"
   },
   {
     "lat": 51.47244,
@@ -508,8 +508,8 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-03-16T12:56:56.083Z"
+    "signtext": " OSSIE GARVIN  | RBT-WESTBOUND |   ACCIDENT    |USE OTHER ROUTE",
+    "modified": "2022-03-20T04:12:39.573Z"
   },
   {
     "lat": 51.532157,
