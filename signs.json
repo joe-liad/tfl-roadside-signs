@@ -396,8 +396,8 @@
     "lon": -0.377386,
     "siteid": "VMS_25/000719/",
     "roadnr": "A4",
-    "signtext": " BATH ROAD AT  |  HENLYS RBT   |  LONG DELAYS  | VEHICLE FIRE  ",
-    "modified": "2022-03-22T13:54:42.953Z"
+    "signtext": "",
+    "modified": "2022-03-22T14:54:55.203Z"
   },
   {
     "lat": 51.478692,
@@ -436,16 +436,16 @@
     "lon": -0.45232,
     "siteid": "VMS_26/000713/",
     "roadnr": "",
-    "signtext": " BATH ROAD AT  |  HENLYS RBT   |  LONG DELAYS  | VEHICLE FIRE  ",
-    "modified": "2022-03-22T13:54:42.953Z"
+    "signtext": "",
+    "modified": "2022-03-22T14:54:55.203Z"
   },
   {
     "lat": 51.532139,
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": " BATH ROAD AT  |  HENLYS RBT   |  LONG DELAYS  | VEHICLE FIRE  ",
-    "modified": "2022-03-22T13:54:42.953Z"
+    "signtext": "",
+    "modified": "2022-03-22T14:54:55.203Z"
   },
   {
     "lat": 51.532157,
