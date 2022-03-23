@@ -4,8 +4,8 @@
     "lon": -0.085427,
     "siteid": "VMS_00/000705/",
     "roadnr": "A3211",
-    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": "",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.488805,
@@ -20,8 +20,8 @@
     "lon": -0.072684,
     "siteid": "VMS_05/000738/",
     "roadnr": "",
-    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.423493,
@@ -44,24 +44,24 @@
     "lon": -0.116772,
     "siteid": "VMS_09/000714/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.458138,
     "lon": -0.117692,
     "siteid": "VMS_09/000716/",
     "roadnr": "A23",
-    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": "",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.449775,
     "lon": -0.122785,
     "siteid": "VMS_09/000717/",
     "roadnr": "A23",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.458251,
@@ -76,8 +76,8 @@
     "lon": -0.112367,
     "siteid": "VMS_09/000747/",
     "roadnr": "A23",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": "",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.447756,
@@ -92,72 +92,72 @@
     "lon": -0.155969,
     "siteid": "VMS_10/000710/",
     "roadnr": "A205",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.45849,
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": "CHELSEA BRIDGE |GROSVENOR ROAD |WORKS 8/3-16/4 |DELAYS POSSIBLE",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.441021,
     "lon": -0.24315,
     "siteid": "VMS_10/000716/T",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.452269,
     "lon": -0.2146,
     "siteid": "VMS_10/000718/",
     "roadnr": "A3",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.46422,
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.462054,
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.431924,
     "lon": -0.150449,
     "siteid": "VMS_10/000740/",
     "roadnr": "A214",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.514363,
     "lon": -0.243126,
     "siteid": "VMS_11/000702/",
     "roadnr": "A40",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": "",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.491447,
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.490702,
@@ -188,24 +188,24 @@
     "lon": 0.093453,
     "siteid": "VMS_14/000721/",
     "roadnr": "A12",
-    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.574541,
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.585626,
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.528445,
@@ -220,8 +220,8 @@
     "lon": 0.049058,
     "siteid": "VMS_17/000722/",
     "roadnr": "A13",
-    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.452665,
@@ -244,8 +244,8 @@
     "lon": 0.047929,
     "siteid": "VMS_19/000723/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.346413,
@@ -260,16 +260,16 @@
     "lon": -0.006786,
     "siteid": "VMS_19/000728/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.372585,
     "lon": -0.004363,
     "siteid": "VMS_19/000729/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.375564,
@@ -284,72 +284,72 @@
     "lon": -0.115673,
     "siteid": "VMS_20/000724/T",
     "roadnr": "A23",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.363278,
     "lon": -0.214409,
     "siteid": "VMS_21/000709/",
     "roadnr": "A217",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.359171,
     "lon": -0.210504,
     "siteid": "VMS_21/000710/",
     "roadnr": "A232",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.380442,
     "lon": -0.197819,
     "siteid": "VMS_22/000711/",
     "roadnr": "A217",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.400657,
     "lon": -0.237969,
     "siteid": "VMS_22/000714/",
     "roadnr": "",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.409375,
     "lon": -0.231681,
     "siteid": "VMS_22/000715/",
     "roadnr": "A238",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.407044,
     "lon": -0.225588,
     "siteid": "VMS_22/000716/",
     "roadnr": "A289",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.355239,
     "lon": -0.311962,
     "siteid": "VMS_23/000723/",
     "roadnr": "A243",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.333873,
     "lon": -0.322113,
     "siteid": "VMS_23/000724/",
     "roadnr": "A243",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.373505,
@@ -364,32 +364,32 @@
     "lon": -0.274127,
     "siteid": "VMS_23/000726/",
     "roadnr": "A240",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.382182,
     "lon": -0.247905,
     "siteid": "VMS_23/000776/",
     "roadnr": "A2043",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.472836,
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.491399,
     "lon": -0.291998,
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.477202,
@@ -412,8 +412,8 @@
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.4857,
@@ -444,32 +444,32 @@
     "lon": -0.389603,
     "siteid": "VMS_26/000724/",
     "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.532157,
     "lon": -0.390237,
     "siteid": "VMS_26/000725/",
     "roadnr": "A312",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.555152,
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23 - 24 MAR HI|GH   AIR POLLUT|ION   SWITCH EN|GINES OFF",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.532731,
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.585487,
@@ -484,31 +484,31 @@
     "lon": -0.14263,
     "siteid": "VMS_31/000708/",
     "roadnr": "A1",
-    "signtext": "09MAR 22-JUL 22|  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.675417,
     "lon": -0.052809,
     "siteid": "VMS_32/000730/",
     "roadnr": "A10",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.374479,
     "lon": -0.358107,
     "siteid": "VMS_39/000702/",
     "roadnr": "A307",
-    "signtext": "",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-23T18:14:57.817Z"
   },
   {
     "lat": 51.57588,
     "lon": 0.325897,
     "siteid": "VMS_49/000701/",
     "roadnr": "A127",
-    "signtext": " FROM 6 APR - A|12 BOTH WAYS - |CLOSED NIGHTLY |- WORKS  ",
-    "modified": "2022-03-22T16:13:54.8Z"
+    "signtext": " 23 - 24 MAR HI|GH   AIR POLLUT|ION   SWITCH EN|GINES OFF",
+    "modified": "2022-03-23T18:14:57.817Z"
   }
 ]
