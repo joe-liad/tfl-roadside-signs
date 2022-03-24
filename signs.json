@@ -1,13 +1,5 @@
 [
   {
-    "lat": 51.50953,
-    "lon": -0.085427,
-    "siteid": "VMS_00/000705/",
-    "roadnr": "A3211",
-    "signtext": "",
-    "modified": "2022-03-23T18:14:57.817Z"
-  },
-  {
     "lat": 51.488805,
     "lon": -0.1302,
     "siteid": "VMS_01/000775/",
@@ -100,8 +92,8 @@
     "lon": -0.175282,
     "siteid": "VMS_10/000711/",
     "roadnr": "A3",
-    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-23T18:14:57.817Z"
+    "signtext": "ARMOURY WAY/RAM|STREET-ACCIDENT| EXPECT DELAYS |USE OTHER ROUTE",
+    "modified": "2022-03-24T10:16:16.02Z"
   },
   {
     "lat": 51.441021,
@@ -124,8 +116,8 @@
     "lon": -0.182269,
     "siteid": "VMS_10/000737/",
     "roadnr": "A3205",
-    "signtext": " BATTERSEA BRI | RD-NORTHBOUND |   ACCIDENT    | EXPECT DELAYS ",
-    "modified": "2022-03-24T09:15:28.54Z"
+    "signtext": " 23-24 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
+    "modified": "2022-03-24T10:16:16.02Z"
   },
   {
     "lat": 51.462054,
