@@ -124,8 +124,8 @@
     "lon": -0.243792,
     "siteid": "VMS_10/000738/",
     "roadnr": "A306",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": "A4/BOSTON MANOR|ROAD CLOSED WB |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-03-25T22:34:29.75Z"
   },
   {
     "lat": 51.431924,
@@ -148,8 +148,8 @@
     "lon": -0.23983,
     "siteid": "VMS_11/000703/",
     "roadnr": "A4",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": "",
+    "modified": "2022-03-25T22:34:29.75Z"
   },
   {
     "lat": 51.490702,
@@ -372,16 +372,16 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": "A4/BOSTON MANOR|ROAD CLOSED WB |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-03-25T22:34:29.75Z"
   },
   {
     "lat": 51.491399,
     "lon": -0.291998,
     "siteid": "VMS_25/000711/",
     "roadnr": "A4",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": "A4/BOSTON MANOR|ROAD CLOSED WB |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-03-25T22:34:29.75Z"
   },
   {
     "lat": 51.477202,
@@ -404,8 +404,8 @@
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": " A316 COUNTRY  |WAY CLOSED W/B |OVERNIGHT WORKS|USE OTHER ROUTE",
+    "modified": "2022-03-25T22:34:29.75Z"
   },
   {
     "lat": 51.4857,
