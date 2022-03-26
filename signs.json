@@ -196,8 +196,8 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": " 24-26 MAR AIR |POLLUTION HIGH |TURN ENGINE OFF|WHEN STATIONARY",
-    "modified": "2022-03-24T18:33:12.22Z"
+    "signtext": "A10 NORTHBOUND/|BULLSMOOR LANE | CLOSED WORKS  |USE OTHER ROUTE",
+    "modified": "2022-03-26T07:34:47.02Z"
   },
   {
     "lat": 51.528445,
@@ -404,8 +404,8 @@
     "lon": -0.369434,
     "siteid": "VMS_25/000725/",
     "roadnr": "A316",
-    "signtext": " A316 COUNTRY  |WAY CLOSED W/B |OVERNIGHT WORKS|USE OTHER ROUTE",
-    "modified": "2022-03-25T22:34:29.75Z"
+    "signtext": " A316 COUNTRY  |WAY CLOSED W/B | BRIDGE WORKS  |USE OTHER ROUTE",
+    "modified": "2022-03-26T07:34:47.02Z"
   },
   {
     "lat": 51.4857,
