@@ -196,8 +196,8 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "A10 NORTHBOUND/|BULLSMOOR LANE | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-03-26T07:34:47.02Z"
+    "signtext": "",
+    "modified": "2022-03-27T22:36:43.78Z"
   },
   {
     "lat": 51.528445,
@@ -484,8 +484,8 @@
     "lon": -0.052809,
     "siteid": "VMS_32/000730/",
     "roadnr": "A10",
-    "signtext": "A10 NORTHBOUND/|BULLSMOOR LANE | CLOSED WORKS  |USE OTHER ROUTE",
-    "modified": "2022-03-25T23:34:27.157Z"
+    "signtext": "",
+    "modified": "2022-03-27T22:36:43.78Z"
   },
   {
     "lat": 51.374479,
