@@ -308,8 +308,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "",
-    "modified": "2022-03-27T00:35:19.92Z"
+    "signtext": "A406 TELFORD RD|CLOSED AT BOWES| ROAD-SPILLAGE |USE OTHER ROUTE",
+    "modified": "2022-03-29T11:41:51.08Z"
   },
   {
     "lat": 51.491399,
@@ -356,8 +356,8 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "",
-    "modified": "2022-03-27T00:35:19.92Z"
+    "signtext": "A406 CLOSED E/B|ND  AFTER TELFO|RD RD  USE OTHE|R ROUTE  ",
+    "modified": "2022-03-29T11:41:51.08Z"
   },
   {
     "lat": 51.532731,
