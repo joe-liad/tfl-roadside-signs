@@ -308,8 +308,8 @@
     "lon": -0.276472,
     "siteid": "VMS_24/000713/T",
     "roadnr": "A205",
-    "signtext": "A406 TELFORD RD|CLOSED AT BOWES| ROAD-SPILLAGE |USE OTHER ROUTE",
-    "modified": "2022-03-29T11:41:51.08Z"
+    "signtext": "",
+    "modified": "2022-03-30T00:42:19.24Z"
   },
   {
     "lat": 51.491399,
@@ -356,16 +356,16 @@
     "lon": -0.45663,
     "siteid": "VMS_27/000718/",
     "roadnr": "A40",
-    "signtext": "A406 CLOSED E/B|ND  AFTER TELFO|RD RD  USE OTHE|R ROUTE  ",
-    "modified": "2022-03-29T11:41:51.08Z"
+    "signtext": "",
+    "modified": "2022-03-30T01:42:20.507Z"
   },
   {
     "lat": 51.532731,
     "lon": -0.234409,
     "siteid": "VMS_28/000701/",
     "roadnr": "A404",
-    "signtext": "A406 TELFORD RD|CLOSED AT BOWES| ROAD-SPILLAGE |USE OTHER ROUTE",
-    "modified": "2022-03-29T15:41:58.69Z"
+    "signtext": " MAR 22-JUL 22 |  A40 WESTWAY  |  CLOSED W/B   | WEEKENDS ONLY ",
+    "modified": "2022-03-30T00:42:19.24Z"
   },
   {
     "lat": 51.575003,
