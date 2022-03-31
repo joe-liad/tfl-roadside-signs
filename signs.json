@@ -84,8 +84,8 @@
     "lon": 0.039862,
     "siteid": "VMS_14/000737/",
     "roadnr": "A406",
-    "signtext": "M11 NORTHBOUND |   J4 TO J5    |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-03-30T23:44:11.8Z"
+    "signtext": "",
+    "modified": "2022-03-31T00:44:17Z"
   },
   {
     "lat": 51.528445,
@@ -340,7 +340,7 @@
     "lon": 0.088615,
     "siteid": "VMS_14/000722/",
     "roadnr": "A12",
-    "signtext": "M11 NORTHBOUND |   J4 TO J5    |    CLOSED     |USE OTHER ROUTE",
-    "modified": "2022-03-30T23:44:11.8Z"
+    "signtext": "ROTHERHITHE TNL|2 METRE HEIGHT |  RESTRICTION  |  USE CAUTION  ",
+    "modified": "2022-03-31T00:44:17Z"
   }
 ]
